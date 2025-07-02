@@ -8,8 +8,8 @@
     },
     {
       "uid": "net.fabricmc.intermediary",
-      "name": "Legacy Fabric Intermediary",
-      "sha256": "c3f3703af888616d82fcddb71227bce26c143efb45f452c26552ed786c9c8eb6"
+      "name": "Fabric Intermediary",
+      "sha256": "bb61e8bc45a59b9b82f61ff00fce935c5daf9a588e0a24d00761429adea1bb58"
     },
     {
       "uid": "net.minecraft",
