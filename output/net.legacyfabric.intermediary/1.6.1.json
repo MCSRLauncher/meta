@@ -1,0 +1,21 @@
+{
+  "uid": "net.legacyfabric.intermediary",
+  "name": "Legacy Fabric Intermediary",
+  "formatVersion": 1,
+  "version": "1.6.1",
+  "releaseTime": "2023-01-11T15:25:34.000Z",
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "equals": "1.6.1"
+    }
+  ],
+  "volatile": true,
+  "libraries": [
+    {
+      "name": "net.legacyfabric:intermediary:1.6.1",
+      "url": "https://maven.legacyfabric.net/"
+    }
+  ]
+}
