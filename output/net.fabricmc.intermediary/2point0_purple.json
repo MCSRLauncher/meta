@@ -1,0 +1,21 @@
+{
+  "uid": "net.fabricmc.intermediary",
+  "name": "Legacy Fabric Intermediary",
+  "formatVersion": 1,
+  "version": "2point0_purple",
+  "releaseTime": "2023-01-11T15:28:28.000Z",
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "equals": "2point0_purple"
+    }
+  ],
+  "volatile": true,
+  "libraries": [
+    {
+      "name": "net.legacyfabric:intermediary:2point0_purple",
+      "url": "https://maven.legacyfabric.net/"
+    }
+  ]
+}
