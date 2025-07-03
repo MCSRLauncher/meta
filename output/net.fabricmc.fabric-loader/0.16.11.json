@@ -4,6 +4,11 @@
   "formatVersion": 1,
   "version": "0.16.11",
   "releaseTime": "2025-04-01T17:23:29.000Z",
+  "requires": [
+    {
+      "uid": "net.fabricmc.intermediary"
+    }
+  ],
   "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
   "libraries": [
     {

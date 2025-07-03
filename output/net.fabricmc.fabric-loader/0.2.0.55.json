@@ -4,6 +4,11 @@
   "formatVersion": 1,
   "version": "0.2.0.55",
   "releaseTime": "2018-12-09T17:03:48.000Z",
+  "requires": [
+    {
+      "uid": "net.fabricmc.intermediary"
+    }
+  ],
   "mainClass": "net.minecraft.launchwrapper.Launch",
   "+tweakers": [
     "net.fabricmc.loader.launch.FabricClientTweaker"
