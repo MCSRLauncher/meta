@@ -3,7 +3,7 @@
   "name": "Fabric Intermediary",
   "formatVersion": 1,
   "version": "19w04b",
-  "releaseTime": "2020-10-15T21:23:06.000Z",
+  "releaseTime": "2025-02-02T13:52:11.000Z",
   "type": "release",
   "requires": [
     {
@@ -12,10 +12,23 @@
     }
   ],
   "volatile": true,
-  "libraries": [
-    {
-      "name": "net.fabricmc:intermediary:19w04b",
+  "compatibleIntermadiaries": [
+    "net.fabricmc:intermediary",
+    "net.ornithemc:calamus-intermediary",
+    "net.ornithemc:calamus-intermediary-gen2"
+  ],
+  "intermadiaryLibraries": {
+    "net.fabricmc:intermediary": {
+      "name": "net.fabricmc:intermediary:intermediary:19w04b",
       "url": "https://maven.fabricmc.net/"
+    },
+    "net.ornithemc:calamus-intermediary": {
+      "name": "net.ornithemc:calamus-intermediary:calamus-intermediary:19w04b",
+      "url": "https://maven.ornithemc.net/releases/"
+    },
+    "net.ornithemc:calamus-intermediary-gen2": {
+      "name": "net.ornithemc:calamus-intermediary-gen2:calamus-intermediary-gen2:19w04b",
+      "url": "https://maven.ornithemc.net/releases/"
     }
-  ]
+  }
 }

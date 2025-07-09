@@ -13,7 +13,7 @@
   "volatile": true,
   "libraries": [
     {
-      "name": "org.lwjgl:lwjgl:3.2.2",
+      "name": "org.lwjgl:lwjgl:lwjgl:3.2.2",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar",
@@ -23,7 +23,7 @@
       }
     },
     {
-      "name": "org.lwjgl:lwjgl:3.2.2",
+      "name": "org.lwjgl:lwjgl:lwjgl:3.2.2",
       "downloads": {
         "classifiers": {
           "natives-windows": {
@@ -50,7 +50,7 @@
       }
     },
     {
-      "name": "org.lwjgl:lwjgl-jemalloc:3.2.2",
+      "name": "org.lwjgl:lwjgl-jemalloc:lwjgl-jemalloc:3.2.2",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar",
@@ -60,7 +60,7 @@
       }
     },
     {
-      "name": "org.lwjgl:lwjgl-jemalloc:3.2.2",
+      "name": "org.lwjgl:lwjgl-jemalloc:lwjgl-jemalloc:3.2.2",
       "downloads": {
         "classifiers": {
           "natives-windows": {
@@ -87,7 +87,7 @@
       }
     },
     {
-      "name": "org.lwjgl:lwjgl-openal:3.2.2",
+      "name": "org.lwjgl:lwjgl-openal:lwjgl-openal:3.2.2",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar",
@@ -97,7 +97,7 @@
       }
     },
     {
-      "name": "org.lwjgl:lwjgl-openal:3.2.2",
+      "name": "org.lwjgl:lwjgl-openal:lwjgl-openal:3.2.2",
       "downloads": {
         "classifiers": {
           "natives-windows": {
@@ -124,7 +124,7 @@
       }
     },
     {
-      "name": "org.lwjgl:lwjgl-opengl:3.2.2",
+      "name": "org.lwjgl:lwjgl-opengl:lwjgl-opengl:3.2.2",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar",
@@ -134,7 +134,7 @@
       }
     },
     {
-      "name": "org.lwjgl:lwjgl-opengl:3.2.2",
+      "name": "org.lwjgl:lwjgl-opengl:lwjgl-opengl:3.2.2",
       "downloads": {
         "classifiers": {
           "natives-windows": {
@@ -161,7 +161,7 @@
       }
     },
     {
-      "name": "org.lwjgl:lwjgl-glfw:3.2.2",
+      "name": "org.lwjgl:lwjgl-glfw:lwjgl-glfw:3.2.2",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar",
@@ -171,7 +171,7 @@
       }
     },
     {
-      "name": "org.lwjgl:lwjgl-glfw:3.2.2",
+      "name": "org.lwjgl:lwjgl-glfw:lwjgl-glfw:3.2.2",
       "downloads": {
         "classifiers": {
           "natives-windows": {
@@ -198,7 +198,7 @@
       }
     },
     {
-      "name": "org.lwjgl:lwjgl-stb:3.2.2",
+      "name": "org.lwjgl:lwjgl-stb:lwjgl-stb:3.2.2",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar",
@@ -208,7 +208,7 @@
       }
     },
     {
-      "name": "org.lwjgl:lwjgl-stb:3.2.2",
+      "name": "org.lwjgl:lwjgl-stb:lwjgl-stb:3.2.2",
       "downloads": {
         "classifiers": {
           "natives-windows": {
@@ -235,7 +235,7 @@
       }
     },
     {
-      "name": "org.lwjgl:lwjgl-tinyfd:3.2.2",
+      "name": "org.lwjgl:lwjgl-tinyfd:lwjgl-tinyfd:3.2.2",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar",
@@ -245,7 +245,7 @@
       }
     },
     {
-      "name": "org.lwjgl:lwjgl-tinyfd:3.2.2",
+      "name": "org.lwjgl:lwjgl-tinyfd:lwjgl-tinyfd:3.2.2",
       "downloads": {
         "classifiers": {
           "natives-windows": {
@@ -257,18 +257,12 @@
             "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-linux.jar",
             "sha1": "39e35b161c130635d9c8918ce04e887a30c5b687",
             "size": 38804
-          },
-          "natives-osx": {
-            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-macos.jar",
-            "sha1": "46d0798228b8a28e857a2a0f02310fd6ba2a4eab",
-            "size": 42136
           }
         }
       },
       "natives": {
         "windows": "natives-windows",
-        "linux": "natives-linux",
-        "osx": "natives-osx"
+        "linux": "natives-linux"
       }
     }
   ]

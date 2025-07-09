@@ -12,10 +12,13 @@
     }
   ],
   "volatile": true,
-  "libraries": [
-    {
-      "name": "net.legacyfabric:intermediary:1.4.1",
+  "compatibleIntermadiaries": [
+    "net.legacyfabric:intermediary"
+  ],
+  "intermadiaryLibraries": {
+    "net.legacyfabric:intermediary": {
+      "name": "net.legacyfabric:intermediary:intermediary:1.4.1",
       "url": "https://maven.legacyfabric.net/"
     }
-  ]
+  }
 }

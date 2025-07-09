@@ -12,10 +12,13 @@
     }
   ],
   "volatile": true,
-  "libraries": [
-    {
-      "name": "net.fabricmc:intermediary:24w10a",
+  "compatibleIntermadiaries": [
+    "net.fabricmc:intermediary"
+  ],
+  "intermadiaryLibraries": {
+    "net.fabricmc:intermediary": {
+      "name": "net.fabricmc:intermediary:intermediary:24w10a",
       "url": "https://maven.fabricmc.net/"
     }
-  ]
+  }
 }

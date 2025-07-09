@@ -12,39 +12,39 @@
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "libraries": [
     {
-      "name": "net.fabricmc:fabric-loader:0.3.7.110",
+      "name": "net.fabricmc:fabric-loader:fabric-loader:0.3.7.110",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:sponge-mixin:0.7.11.16",
+      "name": "net.fabricmc:sponge-mixin:sponge-mixin:0.7.11.16",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:tiny-mappings-parser:0.1.0.6",
+      "name": "net.fabricmc:tiny-mappings-parser:tiny-mappings-parser:0.1.0.6",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:tiny-remapper:0.1.0.23",
+      "name": "net.fabricmc:tiny-remapper:tiny-remapper:0.1.0.23",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm:7.0",
+      "name": "org.ow2.asm:asm:asm:7.0",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-analysis:7.0",
+      "name": "org.ow2.asm:asm-analysis:asm-analysis:7.0",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-commons:7.0",
+      "name": "org.ow2.asm:asm-commons:asm-commons:7.0",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-tree:7.0",
+      "name": "org.ow2.asm:asm-tree:asm-tree:7.0",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-util:7.0",
+      "name": "org.ow2.asm:asm-util:asm-util:7.0",
       "url": "https://maven.fabricmc.net/"
     }
   ],

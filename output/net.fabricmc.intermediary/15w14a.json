@@ -3,7 +3,7 @@
   "name": "Fabric Intermediary",
   "formatVersion": 1,
   "version": "15w14a",
-  "releaseTime": "2023-01-11T15:28:22.000Z",
+  "releaseTime": "2023-05-23T17:03:07.000Z",
   "type": "release",
   "requires": [
     {
@@ -12,10 +12,18 @@
     }
   ],
   "volatile": true,
-  "libraries": [
-    {
-      "name": "net.legacyfabric:intermediary:15w14a",
+  "compatibleIntermadiaries": [
+    "net.legacyfabric:intermediary",
+    "net.legacyfabric.v2:intermediary"
+  ],
+  "intermadiaryLibraries": {
+    "net.legacyfabric:intermediary": {
+      "name": "net.legacyfabric:intermediary:intermediary:15w14a",
+      "url": "https://maven.legacyfabric.net/"
+    },
+    "net.legacyfabric.v2:intermediary": {
+      "name": "net.legacyfabric.v2:intermediary:intermediary:15w14a",
       "url": "https://maven.legacyfabric.net/"
     }
-  ]
+  }
 }

@@ -36,7 +36,7 @@
   },
   "libraries": [
     {
-      "name": "net.sf.jopt-simple:jopt-simple:4.5",
+      "name": "net.sf.jopt-simple:jopt-simple:jopt-simple:4.5",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",

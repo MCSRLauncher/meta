@@ -1,0 +1,29 @@
+{
+  "uid": "net.fabricmc.intermediary",
+  "name": "Fabric Intermediary",
+  "formatVersion": 1,
+  "version": "12w40a",
+  "releaseTime": "2025-02-02T13:35:08.000Z",
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "equals": "12w40a"
+    }
+  ],
+  "volatile": true,
+  "compatibleIntermadiaries": [
+    "net.ornithemc:calamus-intermediary",
+    "net.ornithemc:calamus-intermediary-gen2"
+  ],
+  "intermadiaryLibraries": {
+    "net.ornithemc:calamus-intermediary": {
+      "name": "net.ornithemc:calamus-intermediary:calamus-intermediary:12w40a",
+      "url": "https://maven.ornithemc.net/releases/"
+    },
+    "net.ornithemc:calamus-intermediary-gen2": {
+      "name": "net.ornithemc:calamus-intermediary-gen2:calamus-intermediary-gen2:12w40a",
+      "url": "https://maven.ornithemc.net/releases/"
+    }
+  }
+}

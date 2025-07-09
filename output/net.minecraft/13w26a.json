@@ -32,7 +32,7 @@
   },
   "libraries": [
     {
-      "name": "net.sf.jopt-simple:jopt-simple:4.5",
+      "name": "net.sf.jopt-simple:jopt-simple:jopt-simple:4.5",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
@@ -42,7 +42,7 @@
       }
     },
     {
-      "name": "com.paulscode:codecjorbis:20101023",
+      "name": "com.paulscode:codecjorbis:codecjorbis:20101023",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "name": "com.paulscode:codecwav:20101023",
+      "name": "com.paulscode:codecwav:codecwav:20101023",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
@@ -62,7 +62,7 @@
       }
     },
     {
-      "name": "com.paulscode:libraryjavasound:20101123",
+      "name": "com.paulscode:libraryjavasound:libraryjavasound:20101123",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
@@ -72,7 +72,7 @@
       }
     },
     {
-      "name": "com.paulscode:librarylwjglopenal:20100824",
+      "name": "com.paulscode:librarylwjglopenal:librarylwjglopenal:20100824",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "name": "com.paulscode:soundsystem:20120107",
+      "name": "com.paulscode:soundsystem:soundsystem:20120107",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
@@ -92,7 +92,7 @@
       }
     },
     {
-      "name": "argo:argo:2.25_fixed",
+      "name": "argo:argo:argo:2.25_fixed",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/argo/argo/2.25_fixed/argo-2.25_fixed.jar",
@@ -102,7 +102,7 @@
       }
     },
     {
-      "name": "org.bouncycastle:bcprov-jdk15on:1.47",
+      "name": "org.bouncycastle:bcprov-jdk15on:bcprov-jdk15on:1.47",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar",
@@ -112,7 +112,7 @@
       }
     },
     {
-      "name": "com.google.guava:guava:14.0",
+      "name": "com.google.guava:guava:guava:14.0",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/google/guava/guava/14.0/guava-14.0.jar",
@@ -122,7 +122,7 @@
       }
     },
     {
-      "name": "org.apache.commons:commons-lang3:3.1",
+      "name": "org.apache.commons:commons-lang3:commons-lang3:3.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
@@ -132,7 +132,7 @@
       }
     },
     {
-      "name": "commons-io:commons-io:2.4",
+      "name": "commons-io:commons-io:commons-io:2.4",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar",
@@ -142,7 +142,7 @@
       }
     },
     {
-      "name": "com.google.code.gson:gson:2.2.2",
+      "name": "com.google.code.gson:gson:gson:2.2.2",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar",

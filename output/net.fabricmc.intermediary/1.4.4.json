@@ -3,7 +3,7 @@
   "name": "Fabric Intermediary",
   "formatVersion": 1,
   "version": "1.4.4",
-  "releaseTime": "2023-01-11T15:25:12.000Z",
+  "releaseTime": "2025-02-02T13:28:19.000Z",
   "type": "release",
   "requires": [
     {
@@ -12,10 +12,23 @@
     }
   ],
   "volatile": true,
-  "libraries": [
-    {
-      "name": "net.legacyfabric:intermediary:1.4.4",
+  "compatibleIntermadiaries": [
+    "net.legacyfabric:intermediary",
+    "net.ornithemc:calamus-intermediary",
+    "net.ornithemc:calamus-intermediary-gen2"
+  ],
+  "intermadiaryLibraries": {
+    "net.legacyfabric:intermediary": {
+      "name": "net.legacyfabric:intermediary:intermediary:1.4.4",
       "url": "https://maven.legacyfabric.net/"
+    },
+    "net.ornithemc:calamus-intermediary": {
+      "name": "net.ornithemc:calamus-intermediary:calamus-intermediary:1.4.4",
+      "url": "https://maven.ornithemc.net/releases/"
+    },
+    "net.ornithemc:calamus-intermediary-gen2": {
+      "name": "net.ornithemc:calamus-intermediary-gen2:calamus-intermediary-gen2:1.4.4",
+      "url": "https://maven.ornithemc.net/releases/"
     }
-  ]
+  }
 }
