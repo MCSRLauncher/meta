@@ -2,6 +2,16 @@
   "formatVersion": 1,
   "packages": [
     {
+      "uid": "com.azul.java",
+      "name": "Azul Provided Java",
+      "sha256": "c3a6f695a50915c9f5d3f0010e1f938806ce61ac032555510eba134e53225780"
+    },
+    {
+      "uid": "net.adoptium.java",
+      "name": "Adoptium Provided Java",
+      "sha256": "ce5eb267b13b85afb52ac70c2d04076ed8b50ab90b42159a4ff48bae45486b48"
+    },
+    {
       "uid": "net.fabricmc.fabric-loader",
       "name": "Fabric Loader",
       "sha256": "20e2db53504d2145ed68557cb9a087806ed7eb26129b2eff558b64fa92900f30"
@@ -9,12 +19,12 @@
     {
       "uid": "net.fabricmc.intermediary",
       "name": "Fabric Intermediary",
-      "sha256": "b0d92c7f3521af14049417b4e6377b4df141d60111a4860e7e916087eabb5f00"
+      "sha256": "e714bb4da7394aaa7b8192a283440b5345e64c2eda8eecfeed07cbf0e07244a8"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "fb9bc03eeb16deb7312e422386806515e84399b52fd623d0a54c312c08a041e7"
+      "sha256": "13fa05701e6d21cf9559ac91aa8e0cee09abb8395b83d40b25836f6259ff9999"
     },
     {
       "uid": "net.minecraft.java",
