@@ -4,7 +4,7 @@
     {
       "uid": "com.azul.java",
       "name": "Azul Java",
-      "sha256": "456e1365f0aff6eeb96b343fb12cdcb0f44f3e92bbec529321a0e3cddec603cc"
+      "sha256": "90b6712168828c3845c85ea7a27f1e676d94a2cf641d259d0cb97d0a925abe7c"
     },
     {
       "uid": "net.adoptium.java",
@@ -29,7 +29,7 @@
     {
       "uid": "net.minecraft.java",
       "name": "Vanilla(Mojang) Java",
-      "sha256": "0194c2b56a73185bdff260f66a24cf2d4f6ddfd81b21c9663754def0147b4596"
+      "sha256": "8c37c9125f29ed4cfd1df98dc932c5064fddb5c8e0798faea2ed28205f597669"
     },
     {
       "uid": "org.lwjgl",
