@@ -3,13 +3,13 @@
   "packages": [
     {
       "uid": "com.azul.java",
-      "name": "Azul Provided Java",
-      "sha256": "78df1777b3fdc698e79e1d04571f60d274453ec647886291ef87fde2bede3ed9"
+      "name": "Azul Java",
+      "sha256": "67e5548518389494e32c159ae4aff32e24d9005e8ea9de219a0d77ce5c0bc18f"
     },
     {
       "uid": "net.adoptium.java",
-      "name": "Adoptium Provided Java",
-      "sha256": "ce5eb267b13b85afb52ac70c2d04076ed8b50ab90b42159a4ff48bae45486b48"
+      "name": "Adoptium Java",
+      "sha256": "25613bee6554f94eecc097a6aa49e1039ae2e3bec80ee7e5ba97e2bf39fc7e11"
     },
     {
       "uid": "net.fabricmc.fabric-loader",
@@ -28,8 +28,8 @@
     },
     {
       "uid": "net.minecraft.java",
-      "name": "Mojang Provided Java",
-      "sha256": "c2a27507bdff04de160d337ee38c4419fbefadd500ba5029b573cd6d9b670223"
+      "name": "Vanilla(Mojang) Java",
+      "sha256": "4fc92f9dbae8d9572c68623dd73291c64396ff8b9607ad55484c9fb89fddbc8f"
     },
     {
       "uid": "org.lwjgl",
