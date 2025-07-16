@@ -4,12 +4,12 @@
     {
       "uid": "com.azul.java",
       "name": "Azul Java",
-      "sha256": "67e5548518389494e32c159ae4aff32e24d9005e8ea9de219a0d77ce5c0bc18f"
+      "sha256": "35acba3715cbb7e3f2c372ef80b4876bd8d27bc045333dd92e418c1b0ea4cc75"
     },
     {
       "uid": "net.adoptium.java",
       "name": "Adoptium Java",
-      "sha256": "25613bee6554f94eecc097a6aa49e1039ae2e3bec80ee7e5ba97e2bf39fc7e11"
+      "sha256": "2021acb6f7f7ab82c544e180f10f189d9fa06236f4c482519dcc443d9f237f3b"
     },
     {
       "uid": "net.fabricmc.fabric-loader",
@@ -29,7 +29,7 @@
     {
       "uid": "net.minecraft.java",
       "name": "Vanilla(Mojang) Java",
-      "sha256": "4fc92f9dbae8d9572c68623dd73291c64396ff8b9607ad55484c9fb89fddbc8f"
+      "sha256": "b2dd535dabbb80c769e15c3123db8bbbe02cdfbe6acd40b0c4d45e8521ce40c0"
     },
     {
       "uid": "org.lwjgl",
