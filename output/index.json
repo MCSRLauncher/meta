@@ -29,7 +29,7 @@
     {
       "uid": "net.minecraft.java",
       "name": "Vanilla(Mojang) Java",
-      "sha256": "3b92d442b2006084441ef143bc3a4c9e13f3b523c75895d392eeae2406a9c49b"
+      "sha256": "d5899342dc638198c95e34c4dbf356efbe8cf14502da882ff0299fb1539eeceb"
     },
     {
       "uid": "org.lwjgl",
