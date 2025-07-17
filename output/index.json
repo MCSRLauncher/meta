@@ -32,6 +32,11 @@
       "sha256": "8c37c9125f29ed4cfd1df98dc932c5064fddb5c8e0798faea2ed28205f597669"
     },
     {
+      "uid": "org.graalvm.java",
+      "name": "GraalVM Java",
+      "sha256": "9bef57d4acd71be1a1b070076f864103abf61003e6b5ce8fa9aecd74f2933f81"
+    },
+    {
       "uid": "org.lwjgl",
       "name": "LWJGL 2",
       "sha256": "e0688dc6f8b148beabb284b392eb31c5eaca1d9cf0541bdfa5f2aa9314745708"
