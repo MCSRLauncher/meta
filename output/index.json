@@ -19,17 +19,17 @@
     {
       "uid": "net.fabricmc.intermediary",
       "name": "Fabric Intermediary",
-      "sha256": "e714bb4da7394aaa7b8192a283440b5345e64c2eda8eecfeed07cbf0e07244a8"
+      "sha256": "82feab1075f8b9db118a07f55e3c9a8f258d4fb3c16db5ee081794940ee16106"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "9d52a5bc59c1bbf51e7f6ac9faf648043c87a29b37d7baf52aa8e66687bcc6a1"
+      "sha256": "d0e3cc5e8d36b85b8b6cf46a06b05416d88b695025ce7fcd554c4dc26c44faf5"
     },
     {
       "uid": "net.minecraft.java",
       "name": "Vanilla(Mojang) Java",
-      "sha256": "8c37c9125f29ed4cfd1df98dc932c5064fddb5c8e0798faea2ed28205f597669"
+      "sha256": "9d8a37ce3183fad5284526bcbe3a0e82065b79bccf067128b128835ce9ed1e8d"
     },
     {
       "uid": "org.graalvm.java",
