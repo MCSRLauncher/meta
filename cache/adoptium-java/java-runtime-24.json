@@ -3,13 +3,13 @@
         "binaries": [
             {
                 "architecture": "aarch64",
-                "download_count": 131,
+                "download_count": 136,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "6998dfddb71c65430e211405f5ade1314dc2de0737b9d9ccafe2ab4b5f2970a1",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.2_12.pkg.sha256.txt",
-                    "download_count": 117,
+                    "download_count": 122,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.2_12.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.2_12.pkg.json",
                     "name": "OpenJDK24U-jre_aarch64_mac_hotspot_24.0.2_12.pkg",
@@ -34,7 +34,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 68,
+                "download_count": 73,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -42,7 +42,7 @@
                 "package": {
                     "checksum": "bee902852ae8b6698e04eb1599dc94af844ae45b72b3b8ec854350b9aba41335",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_linux_hotspot_24.0.2_12.tar.gz.sha256.txt",
-                    "download_count": 68,
+                    "download_count": 73,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_linux_hotspot_24.0.2_12.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_linux_hotspot_24.0.2_12.tar.gz.json",
                     "name": "OpenJDK24U-jre_x64_linux_hotspot_24.0.2_12.tar.gz",
@@ -54,7 +54,7 @@
                 "updated_at": "2025-07-17T18:49:57Z"
             }
         ],
-        "download_count": 13358,
+        "download_count": 13861,
         "id": "RE_kwDOMLCddM4N56jI.lePgM2j2CiJrww==",
         "release_link": "https://github.com/adoptium/temurin24-binaries/releases/tag/jdk-24.0.2%2B12",
         "release_name": "jdk-24.0.2+12",
