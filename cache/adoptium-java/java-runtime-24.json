@@ -3,13 +3,13 @@
         "binaries": [
             {
                 "architecture": "aarch64",
-                "download_count": 136,
+                "download_count": 1075,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "6998dfddb71c65430e211405f5ade1314dc2de0737b9d9ccafe2ab4b5f2970a1",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.2_12.pkg.sha256.txt",
-                    "download_count": 122,
+                    "download_count": 1010,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.2_12.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.2_12.pkg.json",
                     "name": "OpenJDK24U-jre_aarch64_mac_hotspot_24.0.2_12.pkg",
@@ -21,7 +21,7 @@
                 "package": {
                     "checksum": "430546a697213e8a56653ca10ea59557054b2d5451ed82aad3a2cb7359fa1e2f",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.2_12.tar.gz.sha256.txt",
-                    "download_count": 14,
+                    "download_count": 65,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.2_12.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.2_12.tar.gz.json",
                     "name": "OpenJDK24U-jre_aarch64_mac_hotspot_24.0.2_12.tar.gz",
@@ -34,7 +34,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 73,
+                "download_count": 463,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -42,7 +42,7 @@
                 "package": {
                     "checksum": "bee902852ae8b6698e04eb1599dc94af844ae45b72b3b8ec854350b9aba41335",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_linux_hotspot_24.0.2_12.tar.gz.sha256.txt",
-                    "download_count": 73,
+                    "download_count": 463,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_linux_hotspot_24.0.2_12.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_linux_hotspot_24.0.2_12.tar.gz.json",
                     "name": "OpenJDK24U-jre_x64_linux_hotspot_24.0.2_12.tar.gz",
@@ -52,12 +52,101 @@
                 "project": "jdk",
                 "scm_ref": "jdk-24.0.2+12_adopt",
                 "updated_at": "2025-07-17T18:49:57Z"
+            },
+            {
+                "architecture": "ppc64le",
+                "download_count": 36,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "de9ec7034fb369ec9b5d12bba9d51984d14d859006e89ef2b86bbae9bc4c7ae4",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.2_12.tar.gz.sha256.txt",
+                    "download_count": 36,
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.2_12.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.2_12.tar.gz.json",
+                    "name": "OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.2_12.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.2_12.tar.gz.sig",
+                    "size": 59495167
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.2+12_adopt",
+                "updated_at": "2025-07-18T16:12:59Z"
+            },
+            {
+                "architecture": "aarch64",
+                "download_count": 32,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "389100187cf328c7b6b6b390fc0f5071ab38e93e8a6c06beb11e59363d2fd0d0",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.2_12.tar.gz.sha256.txt",
+                    "download_count": 32,
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.2_12.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.2_12.tar.gz.json",
+                    "name": "OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.2_12.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.2_12.tar.gz.sig",
+                    "size": 58757139
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.2+12_adopt",
+                "updated_at": "2025-07-18T16:25:38Z"
+            },
+            {
+                "architecture": "riscv64",
+                "download_count": 33,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "4a1177077bc5937ec93cfaaff60fd212a8591af241827869c73f87949a1268e9",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_riscv64_linux_hotspot_24.0.2_12.tar.gz.sha256.txt",
+                    "download_count": 33,
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_riscv64_linux_hotspot_24.0.2_12.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_riscv64_linux_hotspot_24.0.2_12.tar.gz.json",
+                    "name": "OpenJDK24U-jre_riscv64_linux_hotspot_24.0.2_12.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_riscv64_linux_hotspot_24.0.2_12.tar.gz.sig",
+                    "size": 57560431
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.2+12_adopt",
+                "updated_at": "2025-07-18T16:29:05Z"
+            },
+            {
+                "architecture": "x64",
+                "download_count": 61,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "b63b888d2415828168c4d35a62d88f385a5532a20b7391e30a5d5d0a9a73b892",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_alpine-linux_hotspot_24.0.2_12.tar.gz.sha256.txt",
+                    "download_count": 61,
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_alpine-linux_hotspot_24.0.2_12.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_alpine-linux_hotspot_24.0.2_12.tar.gz.json",
+                    "name": "OpenJDK24U-jre_x64_alpine-linux_hotspot_24.0.2_12.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_alpine-linux_hotspot_24.0.2_12.tar.gz.sig",
+                    "size": 59867051
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.2+12_adopt",
+                "updated_at": "2025-07-18T16:36:56Z"
             }
         ],
-        "download_count": 13861,
+        "download_count": 93123,
         "id": "RE_kwDOMLCddM4N56jI.lePgM2j2CiJrww==",
         "release_link": "https://github.com/adoptium/temurin24-binaries/releases/tag/jdk-24.0.2%2B12",
         "release_name": "jdk-24.0.2+12",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jdk-release-notes_24.0.2_12.json",
+            "name": "OpenJDK24U-jdk-release-notes_24.0.2_12.json",
+            "size": 55535
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jdk-sources_24.0.2_12.tar.gz",
@@ -65,7 +154,7 @@
             "size": 121591509
         },
         "timestamp": "2025-07-17T18:45:38Z",
-        "updated_at": "2025-07-17T18:50:35Z",
+        "updated_at": "2025-07-21T14:56:57Z",
         "vendor": "eclipse",
         "version_data": {
             "build": 12,
@@ -80,7 +169,7 @@
         "binaries": [
             {
                 "architecture": "ppc64",
-                "download_count": 671,
+                "download_count": 714,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -88,7 +177,7 @@
                 "package": {
                     "checksum": "369b634976b9330473eae5885e8c6f9a6482a558ddfacf326038472717f999be",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9.1/OpenJDK24U-jre_ppc64_aix_hotspot_24.0.1_9.1.tar.gz.sha256.txt",
-                    "download_count": 671,
+                    "download_count": 714,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9.1/OpenJDK24U-jre_ppc64_aix_hotspot_24.0.1_9.1.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9.1/OpenJDK24U-jre_ppc64_aix_hotspot_24.0.1_9.1.tar.gz.json",
                     "name": "OpenJDK24U-jre_ppc64_aix_hotspot_24.0.1_9.1.tar.gz",
@@ -100,7 +189,7 @@
                 "updated_at": "2025-04-28T14:42:11Z"
             }
         ],
-        "download_count": 2114,
+        "download_count": 2209,
         "id": "RE_kwDOMLCddM4M05io.ZLHYHRTqiz5+FA==",
         "release_link": "https://github.com/adoptium/temurin24-binaries/releases/tag/jdk-24.0.1%2B9.1",
         "release_name": "jdk-24.0.1+9.1",
@@ -122,13 +211,13 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 13433,
+                "download_count": 14457,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "c966691098b46a18b9803c57b6a5ea06a4e8917b46bafee5d3b2717637564d22",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_mac_hotspot_24.0.1_9.pkg.sha256.txt",
-                    "download_count": 12728,
+                    "download_count": 13704,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_mac_hotspot_24.0.1_9.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_mac_hotspot_24.0.1_9.pkg.json",
                     "name": "OpenJDK24U-jre_x64_mac_hotspot_24.0.1_9.pkg",
@@ -140,7 +229,7 @@
                 "package": {
                     "checksum": "c13e3f4f751eee02c324d6df66c65335fc887a9b62a0bdff26523ab1a83d242b",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_mac_hotspot_24.0.1_9.tar.gz.sha256.txt",
-                    "download_count": 705,
+                    "download_count": 753,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_mac_hotspot_24.0.1_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_mac_hotspot_24.0.1_9.tar.gz.json",
                     "name": "OpenJDK24U-jre_x64_mac_hotspot_24.0.1_9.tar.gz",
@@ -153,7 +242,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 16626,
+                "download_count": 18578,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -161,7 +250,7 @@
                 "package": {
                     "checksum": "88fb6ad6477ca160a554c8e636c4aa2096f6424828a7e1d90464e105df882875",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_linux_hotspot_24.0.1_9.tar.gz.sha256.txt",
-                    "download_count": 16626,
+                    "download_count": 18578,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_linux_hotspot_24.0.1_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_linux_hotspot_24.0.1_9.tar.gz.json",
                     "name": "OpenJDK24U-jre_x64_linux_hotspot_24.0.1_9.tar.gz",
@@ -174,7 +263,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 1412,
+                "download_count": 1555,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -182,7 +271,7 @@
                 "package": {
                     "checksum": "ef2841ac661b18554961da14ae39ce7fec795fb53f6d52f0df3736c95db42e70",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_linux_hotspot_24.0.1_9.tar.gz.sha256.txt",
-                    "download_count": 1412,
+                    "download_count": 1555,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_linux_hotspot_24.0.1_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_linux_hotspot_24.0.1_9.tar.gz.json",
                     "name": "OpenJDK24U-jre_aarch64_linux_hotspot_24.0.1_9.tar.gz",
@@ -195,13 +284,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 13561,
+                "download_count": 13815,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "abdaf6fedcc75197a398f9018e14ef8fa826edfc0f9cf2e7e22e8f40008bd398",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.pkg.sha256.txt",
-                    "download_count": 12650,
+                    "download_count": 12841,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.pkg.json",
                     "name": "OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.pkg",
@@ -213,7 +302,7 @@
                 "package": {
                     "checksum": "0c7789da2c90ea5623dea95d2815528ee83b0d2f0977b6bf830c4cac37251550",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.tar.gz.sha256.txt",
-                    "download_count": 911,
+                    "download_count": 974,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.tar.gz.json",
                     "name": "OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.tar.gz",
@@ -226,13 +315,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 13361,
+                "download_count": 14336,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "4562ea92299178db9966b7eb7abf9f8bb5269595f6627cede8fc77caf62a2789",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.msi.sha256.txt",
-                    "download_count": 9049,
+                    "download_count": 9703,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.msi",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.msi.json",
                     "name": "OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.msi",
@@ -244,7 +333,7 @@
                 "package": {
                     "checksum": "b362c2e0248a9574fe8dd958915a784d4627c3836448f3f184848616043833a7",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.zip.sha256.txt",
-                    "download_count": 4312,
+                    "download_count": 4633,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.zip",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.zip.json",
                     "name": "OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.zip",
@@ -257,7 +346,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 620,
+                "download_count": 666,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -265,7 +354,7 @@
                 "package": {
                     "checksum": "54548139feb80d2368f9ebaf1e86ea38b99cc9411c1c641b2acf9f901aedaba2",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_s390x_linux_hotspot_24.0.1_9.tar.gz.sha256.txt",
-                    "download_count": 620,
+                    "download_count": 666,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_s390x_linux_hotspot_24.0.1_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_s390x_linux_hotspot_24.0.1_9.tar.gz.json",
                     "name": "OpenJDK24U-jre_s390x_linux_hotspot_24.0.1_9.tar.gz",
@@ -278,7 +367,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 694,
+                "download_count": 737,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -286,7 +375,7 @@
                 "package": {
                     "checksum": "1e8b49129ce3208299c93a73455b090909a65478313ed411b4574d09c8ae9670",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.1_9.tar.gz.sha256.txt",
-                    "download_count": 694,
+                    "download_count": 737,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.1_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.1_9.tar.gz.json",
                     "name": "OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.1_9.tar.gz",
@@ -299,7 +388,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 607,
+                "download_count": 653,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -307,7 +396,7 @@
                 "package": {
                     "checksum": "8f24261481d61470c636ba3698ab8ebd697ab6b766ce468f82513eb60dfb48b9",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.1_9.tar.gz.sha256.txt",
-                    "download_count": 607,
+                    "download_count": 653,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.1_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.1_9.tar.gz.json",
                     "name": "OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.1_9.tar.gz",
@@ -320,7 +409,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 859,
+                "download_count": 923,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -328,7 +417,7 @@
                 "package": {
                     "checksum": "409eaa7cf973e5d47b285cd86082b620422e6bbbcf0314c10346250f1e6c66d9",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_alpine-linux_hotspot_24.0.1_9.tar.gz.sha256.txt",
-                    "download_count": 859,
+                    "download_count": 923,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_alpine-linux_hotspot_24.0.1_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_alpine-linux_hotspot_24.0.1_9.tar.gz.json",
                     "name": "OpenJDK24U-jre_x64_alpine-linux_hotspot_24.0.1_9.tar.gz",
@@ -341,7 +430,7 @@
             },
             {
                 "architecture": "riscv64",
-                "download_count": 592,
+                "download_count": 639,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -349,7 +438,7 @@
                 "package": {
                     "checksum": "f61ecea7d2b74036b51ba5f173137344ea3909c92eebe75a1f2b0ecec2037fa0",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_riscv64_linux_hotspot_24.0.1_9.tar.gz.sha256.txt",
-                    "download_count": 592,
+                    "download_count": 639,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_riscv64_linux_hotspot_24.0.1_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_riscv64_linux_hotspot_24.0.1_9.tar.gz.json",
                     "name": "OpenJDK24U-jre_riscv64_linux_hotspot_24.0.1_9.tar.gz",
@@ -361,7 +450,7 @@
                 "updated_at": "2025-04-23T14:12:53Z"
             }
         ],
-        "download_count": 1529167,
+        "download_count": 1612511,
         "id": "RE_kwDOMLCddM4Mr3aI.BdaC1odyuuYbwQ==",
         "release_link": "https://github.com/adoptium/temurin24-binaries/releases/tag/jdk-24.0.1%2B9",
         "release_name": "jdk-24.0.1+9",
@@ -393,7 +482,7 @@
         "binaries": [
             {
                 "architecture": "aarch64",
-                "download_count": 973,
+                "download_count": 1015,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -401,7 +490,7 @@
                 "package": {
                     "checksum": "782a46008490272affe0b797155c2ae8e759e10c8ba4540f1f7285ef3d2902de",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_aarch64_linux_hotspot_24_36.tar.gz.sha256.txt",
-                    "download_count": 973,
+                    "download_count": 1015,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_aarch64_linux_hotspot_24_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_aarch64_linux_hotspot_24_36.tar.gz.json",
                     "name": "OpenJDK24U-jre_aarch64_linux_hotspot_24_36.tar.gz",
@@ -414,7 +503,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 866,
+                "download_count": 909,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -422,7 +511,7 @@
                 "package": {
                     "checksum": "0bc8181c7e85d55bba652503db62e60846439f279271d583b740ac70f9f5ae87",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24_36.tar.gz.sha256.txt",
-                    "download_count": 866,
+                    "download_count": 909,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24_36.tar.gz.json",
                     "name": "OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24_36.tar.gz",
@@ -435,7 +524,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 808,
+                "download_count": 850,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -443,7 +532,7 @@
                 "package": {
                     "checksum": "e7c90ab80d5e9419f794aee63c8f1bf3ed29e656d4e8e967a45d3069bd643c07",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_ppc64le_linux_hotspot_24_36.tar.gz.sha256.txt",
-                    "download_count": 808,
+                    "download_count": 850,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_ppc64le_linux_hotspot_24_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_ppc64le_linux_hotspot_24_36.tar.gz.json",
                     "name": "OpenJDK24U-jre_ppc64le_linux_hotspot_24_36.tar.gz",
@@ -456,13 +545,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 4890,
+                "download_count": 5124,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "165c7975418996324583d8b91d2e36114527e7539767799f21f0eb7808a784ea",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_aarch64_mac_hotspot_24_36.pkg.sha256.txt",
-                    "download_count": 4005,
+                    "download_count": 4196,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_aarch64_mac_hotspot_24_36.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_aarch64_mac_hotspot_24_36.pkg.json",
                     "name": "OpenJDK24U-jre_aarch64_mac_hotspot_24_36.pkg",
@@ -474,7 +563,7 @@
                 "package": {
                     "checksum": "fa9783caf9298b7e927b4589435257cf9a2cf12e1eb915992911b988f3d310bc",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_aarch64_mac_hotspot_24_36.tar.gz.sha256.txt",
-                    "download_count": 885,
+                    "download_count": 928,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_aarch64_mac_hotspot_24_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_aarch64_mac_hotspot_24_36.tar.gz.json",
                     "name": "OpenJDK24U-jre_aarch64_mac_hotspot_24_36.tar.gz",
@@ -487,7 +576,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 950,
+                "download_count": 994,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -495,7 +584,7 @@
                 "package": {
                     "checksum": "0f738719d0483d6fe7f08a1371d1c696d68dcfe39f073b4241673f35ffc8d655",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_alpine-linux_hotspot_24_36.tar.gz.sha256.txt",
-                    "download_count": 950,
+                    "download_count": 994,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_alpine-linux_hotspot_24_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_alpine-linux_hotspot_24_36.tar.gz.json",
                     "name": "OpenJDK24U-jre_x64_alpine-linux_hotspot_24_36.tar.gz",
@@ -508,7 +597,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 1647,
+                "download_count": 1697,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -516,7 +605,7 @@
                 "package": {
                     "checksum": "e8d8f5707d765a6bfca3de61320e0bb2618191c77947bc467ac5021e6193f351",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_linux_hotspot_24_36.tar.gz.sha256.txt",
-                    "download_count": 1647,
+                    "download_count": 1697,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_linux_hotspot_24_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_linux_hotspot_24_36.tar.gz.json",
                     "name": "OpenJDK24U-jre_x64_linux_hotspot_24_36.tar.gz",
@@ -529,13 +618,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 4712,
+                "download_count": 4949,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "a928198b4694734972b0001f8bbf3991a3d0734ffafb059ae91880829f2051fa",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_mac_hotspot_24_36.pkg.sha256.txt",
-                    "download_count": 3863,
+                    "download_count": 4057,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_mac_hotspot_24_36.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_mac_hotspot_24_36.pkg.json",
                     "name": "OpenJDK24U-jre_x64_mac_hotspot_24_36.pkg",
@@ -547,7 +636,7 @@
                 "package": {
                     "checksum": "10b2a32a5544c03a4bf36f12efc3a770bb789be20ff3c9edf85102c5879479de",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_mac_hotspot_24_36.tar.gz.sha256.txt",
-                    "download_count": 849,
+                    "download_count": 892,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_mac_hotspot_24_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_mac_hotspot_24_36.tar.gz.json",
                     "name": "OpenJDK24U-jre_x64_mac_hotspot_24_36.tar.gz",
@@ -560,7 +649,7 @@
             },
             {
                 "architecture": "riscv64",
-                "download_count": 801,
+                "download_count": 844,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -568,7 +657,7 @@
                 "package": {
                     "checksum": "3a670b2116cfc7e806ebccf6ad3b5601936581afc666587653c47e642c0acf19",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_riscv64_linux_hotspot_24_36.tar.gz.sha256.txt",
-                    "download_count": 801,
+                    "download_count": 844,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_riscv64_linux_hotspot_24_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_riscv64_linux_hotspot_24_36.tar.gz.json",
                     "name": "OpenJDK24U-jre_riscv64_linux_hotspot_24_36.tar.gz",
@@ -581,7 +670,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 793,
+                "download_count": 836,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -589,7 +678,7 @@
                 "package": {
                     "checksum": "65a9a1e685b81bf80d89a5b45d5f49655e938f3e175accf98c2cb13df07753fd",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_s390x_linux_hotspot_24_36.tar.gz.sha256.txt",
-                    "download_count": 793,
+                    "download_count": 836,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_s390x_linux_hotspot_24_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_s390x_linux_hotspot_24_36.tar.gz.json",
                     "name": "OpenJDK24U-jre_s390x_linux_hotspot_24_36.tar.gz",
@@ -602,13 +691,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 8878,
+                "download_count": 9132,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "3c49e1699ef7b3a1e6e3afb276c0d8d2dca70d91365850ccfddce66e99dd4bd4",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_windows_hotspot_24_36.msi.sha256.txt",
-                    "download_count": 6532,
+                    "download_count": 6740,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_windows_hotspot_24_36.msi",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_windows_hotspot_24_36.msi.json",
                     "name": "OpenJDK24U-jre_x64_windows_hotspot_24_36.msi",
@@ -620,7 +709,7 @@
                 "package": {
                     "checksum": "2756322cf23b78bfaf4412646c852bd906ea1cc861208610b0b8f16fc91bca74",
                     "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_windows_hotspot_24_36.zip.sha256.txt",
-                    "download_count": 2346,
+                    "download_count": 2392,
                     "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_windows_hotspot_24_36.zip",
                     "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jre_x64_windows_hotspot_24_36.zip.json",
                     "name": "OpenJDK24U-jre_x64_windows_hotspot_24_36.zip",
@@ -632,7 +721,7 @@
                 "updated_at": "2025-03-24T13:48:12Z"
             }
         ],
-        "download_count": 474824,
+        "download_count": 479907,
         "id": "RE_kwDOMLCddM4MWBa8.rRHhMar6nlse6w==",
         "release_link": "https://github.com/adoptium/temurin24-binaries/releases/tag/jdk-24%2B36",
         "release_name": "jdk-24+36",
