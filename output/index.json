@@ -9,7 +9,7 @@
     {
       "uid": "net.adoptium.java",
       "name": "Adoptium Java",
-      "sha256": "7d68b874c35882df8488b22edbbe599a539039c3cfbaed065fafe40b38465e3a"
+      "sha256": "79cd1cb2f8e98b5dcbf950ab029acad50e62fa36930784f2ae2de2832203bfdc"
     },
     {
       "uid": "net.fabricmc.fabric-loader",
@@ -49,7 +49,7 @@
     {
       "uid": "org.mcsr.mods",
       "name": "Speedrun Mods",
-      "sha256": "aa8fda144cc529327d9567c57c4b88a17210cc3086cdb4864baaf5b9c76f0315"
+      "sha256": "c58c8f3dc056b3f0aef656b742bbd0f9877cb94fbc6001ca9a28ed1804a092d0"
     }
   ]
 }
