@@ -9,22 +9,22 @@
     {
       "uid": "net.adoptium.java",
       "name": "Adoptium Java",
-      "sha256": "a650a4f8efcbd9ac1fdd0466bdac02370c7e4e4905be87fdf9da1e42d9dca29f"
+      "sha256": "4b33d9f7edd35482c36801688e2c7d9392157d1b5e7d2026ca55d0a7a44954c8"
     },
     {
       "uid": "net.fabricmc.fabric-loader",
       "name": "Fabric Loader",
-      "sha256": "20e2db53504d2145ed68557cb9a087806ed7eb26129b2eff558b64fa92900f30"
+      "sha256": "158866b9c8f86cb0bf26c4b5851ad38e19e2f2ce81220538762a2dbd556fe0f8"
     },
     {
       "uid": "net.fabricmc.intermediary",
       "name": "Fabric Intermediary",
-      "sha256": "82feab1075f8b9db118a07f55e3c9a8f258d4fb3c16db5ee081794940ee16106"
+      "sha256": "d0230ad1be767e0844fda5f0bd8cdc7580f86069deddc57d0e3fcc3751018cd7"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "d0e3cc5e8d36b85b8b6cf46a06b05416d88b695025ce7fcd554c4dc26c44faf5"
+      "sha256": "647c253a02bc344a166411e22f5bf535c5be8b506f44494d84141f404a55462a"
     },
     {
       "uid": "net.minecraft.java",
@@ -49,7 +49,7 @@
     {
       "uid": "org.mcsr.mods",
       "name": "Speedrun Mods",
-      "sha256": "a297f3fb8dfa518461f9bca2b82560455e3c46560f0144a750e4e590f910ad8a"
+      "sha256": "e09be3a1ccfff1549f5c0c74396bdd9430547b137e12aaa25f7daf6a5fe09eb4"
     }
   ]
 }
