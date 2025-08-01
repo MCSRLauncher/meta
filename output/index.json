@@ -24,7 +24,7 @@
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "647c253a02bc344a166411e22f5bf535c5be8b506f44494d84141f404a55462a"
+      "sha256": "4ecedf7f4f1ef4b7d384ea7af1287830c5aaf41284614407ad07dedb9ad195c8"
     },
     {
       "uid": "net.minecraft.java",
@@ -39,17 +39,17 @@
     {
       "uid": "org.lwjgl",
       "name": "LWJGL 2",
-      "sha256": "e0688dc6f8b148beabb284b392eb31c5eaca1d9cf0541bdfa5f2aa9314745708"
+      "sha256": "631ab8a50c5a4fae7c2bedd85e70bfdcfc6a15be4ab803f73ea7851e1d36cf97"
     },
     {
       "uid": "org.lwjgl3",
       "name": "LWJGL 3",
-      "sha256": "ee1ed6fb9ba7cc30637f4c5d21e630f6fd63706e8897a28bf9b2116b2ade2260"
+      "sha256": "d82e252e2f8b96bb67dc81816d4e1848f5a0823849e3c2310c81f831015170de"
     },
     {
       "uid": "org.mcsr.mods",
       "name": "Speedrun Mods",
-      "sha256": "e09be3a1ccfff1549f5c0c74396bdd9430547b137e12aaa25f7daf6a5fe09eb4"
+      "sha256": "f6c208f49ce4b5b79938b2234001cdee7c4a072cecefaa80fc75bc32ac317e25"
     }
   ]
 }
