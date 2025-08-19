@@ -3,10 +3,58 @@
   "latest": {
     "april-fools": "25w14craftmine",
     "release": "1.21.8",
-    "snapshot": "25w31a",
+    "snapshot": "25w34b",
     "special": "combat8c"
   },
   "versions": [
+    {
+      "id": "25w34b",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/25w34b.json",
+      "time": "2025-08-19T15:24:02+00:00",
+      "releaseTime": "2025-08-19T15:02:29+00:00",
+      "sha1": "c4cd13bda8d798389914275543fa66c502c4e100",
+      "complianceLevel": 1,
+      "mojangVersion": "25w34b",
+      "equivalentTo": "25w34b",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "25w34a",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/25w34a.json",
+      "time": "2025-08-19T14:03:02+00:00",
+      "releaseTime": "2025-08-19T12:09:50+00:00",
+      "sha1": "206726e955d9a98bb5fdf96a84784db5e6d04e6d",
+      "complianceLevel": 1,
+      "mojangVersion": "25w34a",
+      "equivalentTo": "25w34a",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "25w33a",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/25w33a.json",
+      "time": "2025-08-12T14:03:03+00:00",
+      "releaseTime": "2025-08-12T11:45:24+00:00",
+      "sha1": "84a4596092fbb0aba5cc86d7b2ed3e2909a7db0e",
+      "complianceLevel": 1,
+      "mojangVersion": "25w33a",
+      "equivalentTo": "25w33a",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "25w32a",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/25w32a.json",
+      "time": "2025-08-05T14:03:02+00:00",
+      "releaseTime": "2025-08-05T12:21:45+00:00",
+      "sha1": "28c42bfa1f0edc3d3a7be9f28b6b3b537fac7c1b",
+      "complianceLevel": 1,
+      "mojangVersion": "25w32a",
+      "equivalentTo": "25w32a",
+      "phase": "post-1.0"
+    },
     {
       "id": "25w31a",
       "type": "snapshot",
