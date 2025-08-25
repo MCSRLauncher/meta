@@ -24,7 +24,7 @@
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "7722897139f5346d58ad500f76074a8ecbe17798a1fb7062c65e7b9314942e34"
+      "sha256": "4956784661785d55983f60e45a3f6595b17367686e04929ca6b1d7570d0371d8"
     },
     {
       "uid": "net.minecraft.java",
@@ -49,7 +49,7 @@
     {
       "uid": "org.mcsr.mods",
       "name": "Speedrun Mods",
-      "sha256": "69a2a374d139675e378a44218b4c72065f60d939f0b8a788969b24a3b644b5f9"
+      "sha256": "c7e77462f4d46a0bb66c5dc41abe60c9ce63a57ef5611f9dcc2c6016f4e28235"
     }
   ]
 }
