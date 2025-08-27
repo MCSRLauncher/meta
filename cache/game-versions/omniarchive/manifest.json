@@ -3,10 +3,22 @@
   "latest": {
     "april-fools": "25w14craftmine",
     "release": "1.21.8",
-    "snapshot": "25w34b",
+    "snapshot": "25w35a",
     "special": "combat8c"
   },
   "versions": [
+    {
+      "id": "25w35a",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/25w35a.json",
+      "time": "2025-08-26T14:21:03+00:00",
+      "releaseTime": "2025-08-26T11:51:22+00:00",
+      "sha1": "24a54ab19eb0fac74eaa4c41554ca65a63c144c1",
+      "complianceLevel": 1,
+      "mojangVersion": "25w35a",
+      "equivalentTo": "25w35a",
+      "phase": "post-1.0"
+    },
     {
       "id": "25w34b",
       "type": "snapshot",
@@ -4957,7 +4969,7 @@
       "url": "https://meta.omniarchive.uk/versions/v1/3D%20Shareware%20v1.34.json",
       "time": "2024-12-27T07:50:00+00:00",
       "releaseTime": "2019-04-01T11:18:08+00:00",
-      "sha1": "bab85c7a987029c16ccc7cb5cb0ab6ba4c75a771",
+      "sha1": "7bca655b3c8b006ce90c0a5390728120b4dac034",
       "complianceLevel": 0,
       "mojangVersion": "3D Shareware v1.34",
       "equivalentTo": "3D Shareware v1.34",
