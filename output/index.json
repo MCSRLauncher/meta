@@ -49,12 +49,12 @@
     {
       "uid": "org.mcsr.maps.practice",
       "name": "Practice Maps",
-      "sha256": "eea9d9db31ef0388c03db9140f3e39d171018a408c38bdb3533f90c83a42f39e"
+      "sha256": "d5e02d6f105ff8c23cdfea34efed6b4cfd6aaee31919edcf23657c0052996df7"
     },
     {
       "uid": "org.mcsr.mods",
       "name": "Speedrun Mods",
-      "sha256": "19dc31fb1f39cab23e30c6e906c4ed2a29d7afe272bdae656f3a0d7a6c84551c"
+      "sha256": "a6d81392da41964888523d3ffdd722867740587c2e852aa0700366107b703e0a"
     }
   ]
 }
