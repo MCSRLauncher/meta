@@ -19,12 +19,12 @@
     {
       "uid": "net.fabricmc.intermediary",
       "name": "Fabric Intermediary",
-      "sha256": "01e474bed883c17021067a665bc2a3207a384a123816c4515ec4ebab1fe4b59d"
+      "sha256": "ea15b89da62bf890487ae062ac4ef2f4cfccdf84116213854d8b3b9ab48905ba"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "a1ca4635501d33a3f2f0bda5f45b3e4192404e6cc4cb1c8579f28451e37912c6"
+      "sha256": "fb83fe489d23b326b0a2b680a9efb343492d75f4dbc93358ebfad46794ec1468"
     },
     {
       "uid": "net.minecraft.java",
@@ -49,12 +49,12 @@
     {
       "uid": "org.mcsr.maps.practice",
       "name": "Practice Maps",
-      "sha256": "5a1ad34c137b4d19db42731381fded983978e4e0aa3d9b35ea124c0b9390a495"
+      "sha256": "cf1d9ceaa4587c11a6f56aef87d2d9bc482669fb6395e9ad4976633dfda04840"
     },
     {
       "uid": "org.mcsr.mods",
       "name": "Speedrun Mods",
-      "sha256": "680b33d00f282e2517c74eae2886c597f1cbf7413de66377ade5138286a96e3c"
+      "sha256": "101631e234a915e1ce16646a0f8661992dd2bcad52a8bb39a279e270ec85cbc4"
     }
   ]
 }
