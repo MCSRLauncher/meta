@@ -4,7 +4,7 @@
     {
       "uid": "com.azul.java",
       "name": "Azul Java",
-      "sha256": "90b6712168828c3845c85ea7a27f1e676d94a2cf641d259d0cb97d0a925abe7c"
+      "sha256": "17cc845235d14778ac020c42b6444c703a253c23b568035376188796a8a9beec"
     },
     {
       "uid": "net.adoptium.java",
@@ -19,12 +19,12 @@
     {
       "uid": "net.fabricmc.intermediary",
       "name": "Fabric Intermediary",
-      "sha256": "ea15b89da62bf890487ae062ac4ef2f4cfccdf84116213854d8b3b9ab48905ba"
+      "sha256": "9f10e975b3b1d186769045d9a922e38dac47bb5fef02e2657b6c973f9ebcc5da"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "0fd220092a3956f259617ff55b70fe6e84f41f8ab49f78579adc97af0b5e1d89"
+      "sha256": "19c2e59af9d6b587e9f2d523f0a5cfcbc31d0f33c9cb8e3e2179cdfe983ba74c"
     },
     {
       "uid": "net.minecraft.java",
@@ -34,7 +34,7 @@
     {
       "uid": "org.graalvm.java",
       "name": "GraalVM Java",
-      "sha256": "9bef57d4acd71be1a1b070076f864103abf61003e6b5ce8fa9aecd74f2933f81"
+      "sha256": "e041ced1182088c925e0c69582f11bcece449cdb77ef0f5c633acf9143ec8028"
     },
     {
       "uid": "org.lwjgl",
@@ -44,17 +44,17 @@
     {
       "uid": "org.lwjgl3",
       "name": "LWJGL 3",
-      "sha256": "bb43eb72cddb86287200e7d1c11e21ee10863f1369546f892d2a31f740bbeb6b"
+      "sha256": "f7423e5bf819c23478393b01d1390e7d3bce5670eae63ed8d86a71d6f8413f0e"
     },
     {
       "uid": "org.mcsr.maps.practice",
       "name": "Practice Maps",
-      "sha256": "bcfedc2dd8f26d4682aeb7d8556ce2fd154c4ef0f2d291bad6ba7f4b00374c9f"
+      "sha256": "a4e02a195dd3fc5af19fbafefa20f2c42203fabb79b428301f29989728a2fef8"
     },
     {
       "uid": "org.mcsr.mods",
       "name": "Speedrun Mods",
-      "sha256": "480282031993d009fab458fc0c4e5ae76632a8f119efd220dfaf789945037755"
+      "sha256": "3c84e28e7c308a5c1fc774a054f50226c67aa2e8030227bcfbd04c59962995c3"
     }
   ]
 }
