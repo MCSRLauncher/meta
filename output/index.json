@@ -39,22 +39,22 @@
     {
       "uid": "org.lwjgl",
       "name": "LWJGL 2",
-      "sha256": "68e1729b08e43a30bfde0e7ef47bab34b9d1a27a90ab595f894dbe6e37b6da46"
+      "sha256": "7bf2cb7230da4db7988192e8582c1070fd6fa402475ddc6d9cb9ca40f08f3a2e"
     },
     {
       "uid": "org.lwjgl3",
       "name": "LWJGL 3",
-      "sha256": "f7423e5bf819c23478393b01d1390e7d3bce5670eae63ed8d86a71d6f8413f0e"
+      "sha256": "5bd0813c3ed69a096483e321ed9a4eed72e6f245940f46e687b41be5b7b0d6d9"
     },
     {
       "uid": "org.mcsr.maps.practice",
       "name": "Practice Maps",
-      "sha256": "921b524ea65d92c897b672b777404db9ce3eef36f29f0ea8918aa7425dc05b81"
+      "sha256": "8c0f51c68b0a919c3fda885864204d0c50cb024f6a231fe013a8982bb703e851"
     },
     {
       "uid": "org.mcsr.mods",
       "name": "Speedrun Mods",
-      "sha256": "e64a3e4fa2a5032888ab028d7e83ab496d62952cd3991cee94541b8370ad0fbf"
+      "sha256": "e55dfd35afb80c1e75f33ed45127dde3cb88eef38bd6fac64c35d6ffc9c50d8a"
     }
   ]
 }
