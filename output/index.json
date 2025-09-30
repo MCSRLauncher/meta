@@ -24,7 +24,7 @@
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "5df8ff546604f4432f9a075c32608d5e74cd8e7dc6edfa860f77ea1cb527d672"
+      "sha256": "61aa76522a5f612dfa3f188bacd72cc43bd298dba6a39e44b446a9e251d4ca92"
     },
     {
       "uid": "net.minecraft.java",
@@ -49,17 +49,17 @@
     {
       "uid": "org.mcsr.maps.practice",
       "name": "Practice Maps",
-      "sha256": "0229d1abe9cdad8bd02d3ac8590a53875fa96fa708a127e2d232de828acba908"
+      "sha256": "c3ac12894c88e89594622e31822c0d93bd40be70c967492e3b9ebc1c928a7306"
     },
     {
       "uid": "org.mcsr.mods",
       "name": "Speedrun Mods",
-      "sha256": "d8b117324bc19bcb333a8ba05c5df493be263f66084ad1b4ff9c052357c0995a"
+      "sha256": "2008eb14d1360fe3110c6ec11cd1213b9cb27c446908491efce17e013773cef8"
     },
     {
       "uid": "org.mcsr.programs",
       "name": "Speedrun Tools",
-      "sha256": "4d7ddcaa39c4a16b0a9254827297d510b6116f88ddd3c2ba4ce24cefa8ac1ddb"
+      "sha256": "8e09a17ae1a65934561ddb0de13178df41973119e6ff18dc6a972f06de14979b"
     }
   ]
 }
