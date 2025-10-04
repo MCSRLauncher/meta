@@ -2,11 +2,35 @@
   "$schema": "https://meta.omniarchive.uk/schemas/v1/manifest.schema.json",
   "latest": {
     "april-fools": "25w14craftmine",
-    "release": "1.21.8",
-    "snapshot": "1.21.9-rc1",
+    "release": "1.21.9",
+    "snapshot": "1.21.10-rc1",
     "special": "combat8c"
   },
   "versions": [
+    {
+      "id": "1.21.10-rc1",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.10-rc1.json",
+      "time": "2025-10-02T14:00:03+00:00",
+      "releaseTime": "2025-10-02T12:09:16+00:00",
+      "sha1": "1b794be86bc6000e95cdc55940072145de1abbf7",
+      "complianceLevel": 1,
+      "mojangVersion": "1.21.10-rc1",
+      "equivalentTo": "1.21.10-rc1",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "1.21.9",
+      "type": "release",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.9.json",
+      "time": "2025-09-30T15:03:02+00:00",
+      "releaseTime": "2025-09-30T11:58:43+00:00",
+      "sha1": "9ab1e2d43c546547b90a012590c472ca1cdea87e",
+      "complianceLevel": 1,
+      "mojangVersion": "1.21.9",
+      "equivalentTo": "1.21.9",
+      "phase": "post-1.0"
+    },
     {
       "id": "1.21.9-rc1",
       "type": "snapshot",
