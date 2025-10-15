@@ -14,17 +14,17 @@
     {
       "uid": "net.fabricmc.fabric-loader",
       "name": "Fabric Loader",
-      "sha256": "e1a1abbbca7d2aed9a36e84c5f7852bb8ac1e980ba58c2604bc45345905eeb0e"
+      "sha256": "ddcab19ebd0700721433a01e8a9953a6d11f96dfaab705877c1dfe5a80007aff"
     },
     {
       "uid": "net.fabricmc.intermediary",
       "name": "Fabric Intermediary",
-      "sha256": "595f1624a3ed719dbb50abf0761de409abf6339dc7c507b7c99d7f051c20e840"
+      "sha256": "4ea4a813fbd698721baf5745ecce2881f473a5ac410a0a701a7f971dba39984d"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "165da04877726e083ad78e78dd2e79fdc4bd924252712b5e3afd38840de55069"
+      "sha256": "bdce14cc48673bc38f6e2cc915d069a07f08cdb5c053ab241524e59382ddfcea"
     },
     {
       "uid": "net.minecraft.java",
@@ -49,17 +49,17 @@
     {
       "uid": "org.mcsr.maps.practice",
       "name": "Practice Maps",
-      "sha256": "b12d2d9f9736cbd68ba63ad40a98744e2ea5406643c99593bbb6ba65da173971"
+      "sha256": "07baa5ac361ebfa56bcecd3c3dbad5f23f3ea80d70d6d948a971db11de7fd489"
     },
     {
       "uid": "org.mcsr.mods",
       "name": "Speedrun Mods",
-      "sha256": "ffa2ac30fd3b4d9c7d624aa13a9510585e9de64829fd1924e8c078b0486f2279"
+      "sha256": "8328d16d6ead1e64954d52fef7076295829a6bc70763b0a6ae0c81a5a1540af7"
     },
     {
       "uid": "org.mcsr.programs",
       "name": "Speedrun Tools",
-      "sha256": "650e572df5424b83d1cd51b7d7a2f8cfde60eba1ad55da33e32224cd7dd66707"
+      "sha256": "f9afe76c9058d400873e1d3ba9f8551a05c0bd0e52d7b3eb020578db96d107ff"
     }
   ]
 }

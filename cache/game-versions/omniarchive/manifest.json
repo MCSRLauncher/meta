@@ -3,10 +3,34 @@
   "latest": {
     "april-fools": "25w14craftmine",
     "release": "1.21.10",
-    "snapshot": "1.21.10-rc1",
+    "snapshot": "25w42a",
     "special": "combat8c"
   },
   "versions": [
+    {
+      "id": "25w42a",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/25w42a.json",
+      "time": "2025-10-14T14:15:02+00:00",
+      "releaseTime": "2025-10-14T12:48:10+00:00",
+      "sha1": "73a9eca4c926197946150be9171db528a31ae126",
+      "complianceLevel": 1,
+      "mojangVersion": "25w42a",
+      "equivalentTo": "25w42a",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "25w41a",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/25w41a.json",
+      "time": "2025-10-09T14:18:02+00:00",
+      "releaseTime": "2025-10-09T13:41:35+00:00",
+      "sha1": "8508877268c03eabc415ebf4dd45638a9f8eafe4",
+      "complianceLevel": 1,
+      "mojangVersion": "25w41a",
+      "equivalentTo": "25w41a",
+      "phase": "post-1.0"
+    },
     {
       "id": "1.21.10",
       "type": "release",
