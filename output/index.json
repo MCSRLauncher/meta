@@ -24,7 +24,7 @@
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "5b4e03b22f1ead89c41b0e915352945cd64c513e7cc0eed201764873a6a82e51"
+      "sha256": "0ba41b49d68e8123fba5bac1618427cd038a6397b22710506137e4b4eb3f9516"
     },
     {
       "uid": "net.minecraft.java",
@@ -44,7 +44,7 @@
     {
       "uid": "org.lwjgl3",
       "name": "LWJGL 3",
-      "sha256": "df671a9e066af67b2366ed3e45cdd7f43478a68cf42682c3f38a96075faea2c7"
+      "sha256": "41f9de55ef75359086f709123cee61e2b0fe849a0f3d109435a835398e17c342"
     },
     {
       "uid": "org.mcsr.maps.practice",
