@@ -550,11 +550,6 @@
     "stable": true
   },
   {
-    "maven": "net.fabricmc:intermediary:24w14potato_original",
-    "version": "24w14potato_original",
-    "stable": true
-  },
-  {
     "maven": "net.fabricmc:intermediary:24w13a",
     "version": "24w13a",
     "stable": true
@@ -837,11 +832,6 @@
   {
     "maven": "net.fabricmc:intermediary:23w13a_or_b",
     "version": "23w13a_or_b",
-    "stable": true
-  },
-  {
-    "maven": "net.fabricmc:intermediary:23w13a_or_b_original",
-    "version": "23w13a_or_b_original",
     "stable": true
   },
   {
@@ -1170,11 +1160,6 @@
     "stable": true
   },
   {
-    "maven": "net.fabricmc:intermediary:1.19_deep_dark_experimental_snapshot-1",
-    "version": "1.19_deep_dark_experimental_snapshot-1",
-    "stable": true
-  },
-  {
     "maven": "net.fabricmc:intermediary:22w07a",
     "version": "22w07a",
     "stable": true
@@ -1322,41 +1307,6 @@
   {
     "maven": "net.fabricmc:intermediary:21w37a",
     "version": "21w37a",
-    "stable": true
-  },
-  {
-    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-7",
-    "version": "1.18_experimental-snapshot-7",
-    "stable": true
-  },
-  {
-    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-6",
-    "version": "1.18_experimental-snapshot-6",
-    "stable": true
-  },
-  {
-    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-5",
-    "version": "1.18_experimental-snapshot-5",
-    "stable": true
-  },
-  {
-    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-4",
-    "version": "1.18_experimental-snapshot-4",
-    "stable": true
-  },
-  {
-    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-3",
-    "version": "1.18_experimental-snapshot-3",
-    "stable": true
-  },
-  {
-    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-2",
-    "version": "1.18_experimental-snapshot-2",
-    "stable": true
-  },
-  {
-    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-1",
-    "version": "1.18_experimental-snapshot-1",
     "stable": true
   },
   {
@@ -1577,11 +1527,6 @@
   {
     "maven": "net.fabricmc:intermediary:1.16.3-rc1",
     "version": "1.16.3-rc1",
-    "stable": true
-  },
-  {
-    "maven": "net.fabricmc:intermediary:1.16_combat-3",
-    "version": "1.16_combat-3",
     "stable": true
   },
   {
@@ -1840,11 +1785,6 @@
     "stable": true
   },
   {
-    "maven": "net.fabricmc:intermediary:1.15_combat-1",
-    "version": "1.15_combat-1",
-    "stable": true
-  },
-  {
     "maven": "net.fabricmc:intermediary:1.15-pre3",
     "version": "1.15-pre3",
     "stable": true
@@ -1877,11 +1817,6 @@
   {
     "maven": "net.fabricmc:intermediary:19w45a",
     "version": "19w45a",
-    "stable": true
-  },
-  {
-    "maven": "net.fabricmc:intermediary:1.14_combat-3",
-    "version": "1.14_combat-3",
     "stable": true
   },
   {
@@ -1940,11 +1875,6 @@
     "stable": true
   },
   {
-    "maven": "net.fabricmc:intermediary:1.14_combat-0",
-    "version": "1.14_combat-0",
-    "stable": true
-  },
-  {
     "maven": "net.fabricmc:intermediary:1.14.4",
     "version": "1.14.4",
     "stable": true
@@ -1987,11 +1917,6 @@
   {
     "maven": "net.fabricmc:intermediary:1.14.3",
     "version": "1.14.3",
-    "stable": true
-  },
-  {
-    "maven": "net.fabricmc:intermediary:1.14_combat-212796",
-    "version": "1.14_combat-212796",
     "stable": true
   },
   {
@@ -2242,6 +2167,81 @@
   {
     "maven": "net.fabricmc:intermediary:18w43b",
     "version": "18w43b",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:24w14potato_original",
+    "version": "24w14potato_original",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:23w13a_or_b_original",
+    "version": "23w13a_or_b_original",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.19_deep_dark_experimental_snapshot-1",
+    "version": "1.19_deep_dark_experimental_snapshot-1",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-7",
+    "version": "1.18_experimental-snapshot-7",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-6",
+    "version": "1.18_experimental-snapshot-6",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-5",
+    "version": "1.18_experimental-snapshot-5",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-4",
+    "version": "1.18_experimental-snapshot-4",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-3",
+    "version": "1.18_experimental-snapshot-3",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-2",
+    "version": "1.18_experimental-snapshot-2",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.18_experimental-snapshot-1",
+    "version": "1.18_experimental-snapshot-1",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.16_combat-3",
+    "version": "1.16_combat-3",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.15_combat-1",
+    "version": "1.15_combat-1",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.14_combat-3",
+    "version": "1.14_combat-3",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.14_combat-0",
+    "version": "1.14_combat-0",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.14_combat-212796",
+    "version": "1.14_combat-212796",
     "stable": true
   }
 ]
