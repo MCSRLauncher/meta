@@ -3,10 +3,22 @@
   "latest": {
     "april-fools": "25w14craftmine",
     "release": "1.21.10",
-    "snapshot": "25w45a",
+    "snapshot": "25w46a",
     "special": "combat8c"
   },
   "versions": [
+    {
+      "id": "25w46a",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/25w46a.json",
+      "time": "2025-11-11T15:03:02+00:00",
+      "releaseTime": "2025-11-11T13:05:00+00:00",
+      "sha1": "ec11fe401f1468c60eeca593b4248b60945d25d2",
+      "complianceLevel": 1,
+      "mojangVersion": "25w46a",
+      "equivalentTo": "25w46a",
+      "phase": "post-1.0"
+    },
     {
       "id": "25w45a",
       "type": "snapshot",
