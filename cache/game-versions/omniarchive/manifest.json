@@ -3,10 +3,22 @@
   "latest": {
     "april-fools": "25w14craftmine",
     "release": "1.21.10",
-    "snapshot": "1.21.11-pre1",
+    "snapshot": "1.21.11-pre2",
     "special": "combat8c"
   },
   "versions": [
+    {
+      "id": "1.21.11-pre2",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.11-pre2.json",
+      "time": "2025-11-21T13:42:02+00:00",
+      "releaseTime": "2025-11-21T11:44:15+00:00",
+      "sha1": "9f3e7d7b53f88a4292af29a0bd66e6f17a1e2458",
+      "complianceLevel": 1,
+      "mojangVersion": "1.21.11-pre2",
+      "equivalentTo": "1.21.11-pre2",
+      "phase": "post-1.0"
+    },
     {
       "id": "1.21.11-pre1",
       "type": "snapshot",
