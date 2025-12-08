@@ -2215,6 +2215,11 @@
     "stable": true
   },
   {
+    "maven": "net.fabricmc:intermediary:1.21.11-rc3_unobfuscated",
+    "version": "1.21.11-rc3_unobfuscated",
+    "stable": true
+  },
+  {
     "maven": "net.fabricmc:intermediary:1.21.11-rc2_unobfuscated",
     "version": "1.21.11-rc2_unobfuscated",
     "stable": true
