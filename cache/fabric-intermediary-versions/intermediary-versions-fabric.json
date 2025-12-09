@@ -2220,8 +2220,8 @@
     "stable": true
   },
   {
-    "maven": "net.fabricmc:intermediary:1_21_11_unobfuscated",
-    "version": "1_21_11_unobfuscated",
+    "maven": "net.fabricmc:intermediary:1.21.11_unobfuscated",
+    "version": "1.21.11_unobfuscated",
     "stable": true
   },
   {
