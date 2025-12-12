@@ -29,7 +29,7 @@
     {
       "uid": "net.minecraft.java",
       "name": "Vanilla(Mojang) Java",
-      "sha256": "f6860c58979170761683d0dc0a633e733b01ea1d375b67dcef34e75431e588eb"
+      "sha256": "26112c90fa68c1f1cf4819645f43cdd43c131e52c717bdf0e96467138380a259"
     },
     {
       "uid": "org.graalvm.java",
