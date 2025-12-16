@@ -4,12 +4,12 @@
     {
       "uid": "com.azul.java",
       "name": "Azul Java",
-      "sha256": "1f07afed9b88a6b859d5502a1cd1583714b82f452365850459b88a82e829e7d5"
+      "sha256": "9f983c5a68c24ee4a22a7ce36d2a008fe682d2fdb4982c96190f6e7b9fb23655"
     },
     {
       "uid": "net.adoptium.java",
       "name": "Adoptium Java",
-      "sha256": "659abe1078362e46626c2352df5259e33d9d382d9343123ccac57fdec76108e5"
+      "sha256": "2cc40a06823c4ee53240a9d7416027b60e35519a59e2db5d38943bffa96efe45"
     },
     {
       "uid": "net.fabricmc.fabric-loader",
@@ -29,12 +29,12 @@
     {
       "uid": "net.minecraft.java",
       "name": "Vanilla(Mojang) Java",
-      "sha256": "3479699b0deb6d674efdd82612edf30858bc355b0952b13ebd64d4b863c5d384"
+      "sha256": "7fbef8502b6e6aa4bd4382401b53da9cf04927301732279acd7edbc4325f6695"
     },
     {
       "uid": "org.graalvm.java",
       "name": "GraalVM Java",
-      "sha256": "418e9ce6599cc8dffe1ea73d83a3472159c300ab5e775e9e5ae846c2124f13cb"
+      "sha256": "d49df962df8c7d07f5725c8d1ab711d9b63bd8503714107ea226e91091efb190"
     },
     {
       "uid": "org.lwjgl",
