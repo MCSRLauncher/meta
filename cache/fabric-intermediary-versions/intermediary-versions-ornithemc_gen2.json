@@ -775,6 +775,10 @@
   "stable" : true,
   "maven" : "net.ornithemc:calamus-intermediary-gen2:16w14a"
 }, {
+  "version" : "1.RV-Pre1",
+  "stable" : true,
+  "maven" : "net.ornithemc:calamus-intermediary-gen2:1.RV-Pre1"
+}, {
   "version" : "1.9.2",
   "stable" : true,
   "maven" : "net.ornithemc:calamus-intermediary-gen2:1.9.2"
@@ -1062,6 +1066,10 @@
   "version" : "1.8.4",
   "stable" : true,
   "maven" : "net.ornithemc:calamus-intermediary-gen2:1.8.4"
+}, {
+  "version" : "15w14a",
+  "stable" : true,
+  "maven" : "net.ornithemc:calamus-intermediary-gen2:15w14a"
 }, {
   "version" : "1.8.3",
   "stable" : true,
