@@ -19,12 +19,12 @@
     {
       "uid": "net.fabricmc.intermediary",
       "name": "Fabric Intermediary",
-      "sha256": "a26f50b0121b09a3e86d430d328346cf248a31d6097f27c1282687add6c221a5"
+      "sha256": "497e23c210bfa2f095ae0ec02a718807cd40507360a43b1b95fd198778e88568"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "2a7991d9291af5eed462156d67ffd069b35d54a723f48a8576c211b83e13b33e"
+      "sha256": "3800f55c881db111c50ce465d03ceff7f8b85005beaf7d6a73f5a65392afbfa0"
     },
     {
       "uid": "net.minecraft.java",
