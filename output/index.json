@@ -60,6 +60,11 @@
       "uid": "org.mcsr.programs",
       "name": "Speedrun Tools",
       "sha256": "920cc7679fb1a4adefabba1df42fb99f8ef6b27b713419d769ac8b978aec57cc"
+    },
+    {
+      "uid": "org.mcsr.tools",
+      "name": "Speedrun Tools",
+      "sha256": "1a1cb687856ddb4137b6ee0c654735e6d4d14715f0d2665c0c8a3e39bd19be52"
     }
   ]
 }
