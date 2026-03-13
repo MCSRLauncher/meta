@@ -9,7 +9,7 @@
     {
       "uid": "net.adoptium.java",
       "name": "Adoptium Java",
-      "sha256": "3cb35f2fd9a6ec4f53543aa78c161222009ddf031e20fc6fb5e4351693170886"
+      "sha256": "8a85b3f794b18d132b84630173d2a9b4109dfd74f579a20b371c36a41be5fb6b"
     },
     {
       "uid": "net.fabricmc.fabric-loader",
@@ -19,7 +19,7 @@
     {
       "uid": "net.fabricmc.intermediary",
       "name": "Fabric Intermediary",
-      "sha256": "7f27f1a79067eb472703dddfe8ab9a2ba626a3e3056b235b97a3d871605582cd"
+      "sha256": "4bccf1152b48cfbd142bef20a7139ef45b00da7ab7cc88f7450e1c0adc17d32e"
     },
     {
       "uid": "net.minecraft",
