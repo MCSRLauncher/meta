@@ -4,7 +4,7 @@
     {
       "uid": "com.azul.java",
       "name": "Azul Java",
-      "sha256": "fa0c704efb6dea054a2dd5ed081197a8f8c4ad6e46d0d9eab8aee8cf7dfe9438"
+      "sha256": "94f16ee088f907286e3c3f1afc08982b08d0bdccd8313165fbc8b5eed2619455"
     },
     {
       "uid": "net.adoptium.java",
@@ -19,12 +19,12 @@
     {
       "uid": "net.fabricmc.intermediary",
       "name": "Fabric Intermediary",
-      "sha256": "5e92c59b187c2e24e08dec87132f23b625eb80e6d2f17ddcdeb1fe869ffe782d"
+      "sha256": "154356dc8f0cf30d83118e37cbd7d7fb58e7a84005dc065085d2962cb2bc7a9b"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "737c98e1abdf1ef148de792a32cd7a554bd80daa0134134b217fd35fabc0f2ad"
+      "sha256": "bafdcf5721198aa02065fd3cafa3bdba2d273aa31e6c62c588733abf7d1ab781"
     },
     {
       "uid": "net.minecraft.java",
