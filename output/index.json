@@ -9,7 +9,7 @@
     {
       "uid": "net.adoptium.java",
       "name": "Adoptium Java",
-      "sha256": "16870693749c812301817b3e5292a9e60796453e9690aae8c7631085e28fd92d"
+      "sha256": "055bc3561e29fea0f82c54da04e82199388f746846d77596a34112f52f2d94e8"
     },
     {
       "uid": "net.fabricmc.fabric-loader",
