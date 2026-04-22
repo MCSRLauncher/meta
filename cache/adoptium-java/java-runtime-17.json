@@ -1,5 +1,51 @@
 [
     {
+        "binaries": [
+            {
+                "architecture": "x64",
+                "download_count": 1,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "adb5a2364baa51de1ef91bb9911f5a61d24b045fe1d6647cb8050272a3a8ee75",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_x64_linux_hotspot_17.0.19_10.tar.gz.sha256.txt",
+                    "download_count": 1,
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_x64_linux_hotspot_17.0.19_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_x64_linux_hotspot_17.0.19_10.tar.gz.json",
+                    "name": "OpenJDK17U-jre_x64_linux_hotspot_17.0.19_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_x64_linux_hotspot_17.0.19_10.tar.gz.sig",
+                    "size": 46671975
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.19+10_adopt",
+                "updated_at": "2026-04-22T16:14:55Z"
+            }
+        ],
+        "download_count": 7,
+        "id": "RE_kwDOFjpjCs4SnbRb.hZT46eVISi7udA==",
+        "release_link": "https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.19%2B10",
+        "release_name": "jdk-17.0.19+10",
+        "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jdk-sources_17.0.19_10.tar.gz",
+            "name": "OpenJDK17U-jdk-sources_17.0.19_10.tar.gz",
+            "size": 109093932
+        },
+        "timestamp": "2026-04-22T16:14:09Z",
+        "updated_at": "2026-04-22T16:14:56Z",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 10,
+            "major": 17,
+            "minor": 0,
+            "openjdk_version": "17.0.19+10",
+            "security": 19,
+            "semver": "17.0.19+10"
+        }
+    },
+    {
         "aqavit_results_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/AQAvitTapFiles.tar.gz",
         "binaries": [
             {
@@ -2827,89 +2873,6 @@
             "openjdk_version": "17.0.10+7",
             "security": 10,
             "semver": "17.0.10+7"
-        }
-    },
-    {
-        "binaries": [
-            {
-                "architecture": "x64",
-                "download_count": 1567905,
-                "heap_size": "normal",
-                "image_type": "jre",
-                "installer": {
-                    "checksum": "06a11211b09054b3a57c51c1d90fc0a183db32ee03ea0002740a0ef89d1b3cd4",
-                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x64_windows_hotspot_17.0.9_9.msi.sha256.txt",
-                    "download_count": 315918,
-                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x64_windows_hotspot_17.0.9_9.msi",
-                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x64_windows_hotspot_17.0.9_9.msi.json",
-                    "name": "OpenJDK17U-jre_x64_windows_hotspot_17.0.9_9.msi",
-                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x64_windows_hotspot_17.0.9_9.msi.sig",
-                    "size": 31547392
-                },
-                "jvm_impl": "hotspot",
-                "os": "windows",
-                "package": {
-                    "checksum": "6c491d6f8c28c6f451f08110a30348696a04b009f8c58592191046e0fab1477b",
-                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x64_windows_hotspot_17.0.9_9.zip.sha256.txt",
-                    "download_count": 1251987,
-                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x64_windows_hotspot_17.0.9_9.zip",
-                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x64_windows_hotspot_17.0.9_9.zip.json",
-                    "name": "OpenJDK17U-jre_x64_windows_hotspot_17.0.9_9.zip",
-                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x64_windows_hotspot_17.0.9_9.zip.sig",
-                    "size": 43447242
-                },
-                "project": "jdk",
-                "scm_ref": "jdk-17.0.9+9_adopt",
-                "updated_at": "2023-10-27T12:23:10Z"
-            },
-            {
-                "architecture": "x32",
-                "download_count": 50489,
-                "heap_size": "normal",
-                "image_type": "jre",
-                "installer": {
-                    "checksum": "69e0edcff69d3629083b54054f93a3c36422fda695e6843a9a9b69cc94ffbb04",
-                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.9_9.msi.sha256.txt",
-                    "download_count": 40874,
-                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.9_9.msi",
-                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.9_9.msi.json",
-                    "name": "OpenJDK17U-jre_x86-32_windows_hotspot_17.0.9_9.msi",
-                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.9_9.msi.sig",
-                    "size": 29208576
-                },
-                "jvm_impl": "hotspot",
-                "os": "windows",
-                "package": {
-                    "checksum": "2f9fe8b587400e89cd3ef33b71e0517ab99a12a5ee623382cbe9f5078bf2b435",
-                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.9_9.zip.sha256.txt",
-                    "download_count": 9615,
-                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.9_9.zip",
-                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.9_9.zip.json",
-                    "name": "OpenJDK17U-jre_x86-32_windows_hotspot_17.0.9_9.zip",
-                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.9_9.zip.sig",
-                    "size": 40630044
-                },
-                "project": "jdk",
-                "scm_ref": "jdk-17.0.9+9_adopt",
-                "updated_at": "2023-10-27T14:54:15Z"
-            }
-        ],
-        "download_count": 2775438,
-        "id": "RE_kwDOFjpjCs4HkOoE.UxaDIwAFI5OPhg==",
-        "release_link": "https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.9%2B9.1",
-        "release_name": "jdk-17.0.9+9.1",
-        "release_type": "ga",
-        "timestamp": "2023-10-27T12:22:54Z",
-        "updated_at": "2023-10-27T14:54:33Z",
-        "vendor": "eclipse",
-        "version_data": {
-            "adopt_build_number": 1,
-            "build": 9,
-            "major": 17,
-            "minor": 0,
-            "openjdk_version": "17.0.9+9",
-            "security": 9,
-            "semver": "17.0.9+9.1"
         }
     }
 ]
