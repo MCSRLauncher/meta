@@ -9,7 +9,7 @@
     {
       "uid": "net.adoptium.java",
       "name": "Adoptium Java",
-      "sha256": "eafaf27b1474735bb66abf89a81e379cdf8d7fb1133fd455bf72d7b15ad384bf"
+      "sha256": "30eb753d4dd17378ff86b335f820199a7a50b811a689681e03900b5518c717b2"
     },
     {
       "uid": "net.fabricmc.fabric-loader",
@@ -64,7 +64,7 @@
     {
       "uid": "org.mcsr.tools",
       "name": "Speedrun Tools",
-      "sha256": "fac2bf3f23502efacf1f7ec53b665569e55cece19196d3d3feef69ff2998571a"
+      "sha256": "4a806653d978246f87d67cb14bc3a752ebaaf5658fef046a5c400926cd5d4366"
     }
   ]
 }
