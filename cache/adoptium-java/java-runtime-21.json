@@ -1,5 +1,47 @@
 [
     {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "download_count": 3,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "33399db5fb4f542df36a706d6642a3ba1fab3d247da707273a11ef29e39f0705",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.11_10.tar.gz.sha256.txt",
+                    "download_count": 3,
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.11_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.11_10.tar.gz.json",
+                    "name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.11_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.11_10.tar.gz.sig",
+                    "size": 51219986
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.11+10_adopt",
+                "updated_at": "2026-04-23T06:32:43Z"
+            }
+        ],
+        "download_count": 6,
+        "id": "RE_kwDOI-qQc84SoXyG.tEgifC1Ag1oTzw==",
+        "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.11%2B10",
+        "release_name": "jdk-21.0.11+10",
+        "release_type": "ga",
+        "timestamp": "2026-04-23T06:32:33Z",
+        "updated_at": "2026-04-23T06:33:16Z",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 10,
+            "major": 21,
+            "minor": 0,
+            "openjdk_version": "21.0.11+10-LTS",
+            "optional": "LTS",
+            "security": 11,
+            "semver": "21.0.11+10.0.LTS"
+        }
+    },
+    {
         "aqavit_results_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/AQAvitTapFiles.tar.gz",
         "binaries": [
             {
@@ -2816,69 +2858,6 @@
             "optional": "LTS",
             "security": 2,
             "semver": "21.0.2+13.0.LTS"
-        }
-    },
-    {
-        "binaries": [
-            {
-                "architecture": "x64",
-                "download_count": 302272,
-                "heap_size": "normal",
-                "image_type": "jre",
-                "installer": {
-                    "checksum": "9bb4db6e70e105e77a2f395ab925d6413ccd2a97d81fe7eab67cfdc373cfbe9e",
-                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.msi.sha256.txt",
-                    "download_count": 244701,
-                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.msi",
-                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.msi.json",
-                    "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.msi",
-                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.msi.sig",
-                    "size": 34893824
-                },
-                "jvm_impl": "hotspot",
-                "os": "windows",
-                "package": {
-                    "checksum": "38bb68f9db9c85a63496570c53a1bcbac18c808677595d7e939d2f5b38e9a7aa",
-                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.zip.sha256.txt",
-                    "download_count": 57571,
-                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.zip",
-                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.zip.json",
-                    "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.zip",
-                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.zip.sig",
-                    "size": 48709055
-                },
-                "project": "jdk",
-                "scm_ref": "jdk-21.0.1+12_adopt",
-                "updated_at": "2023-10-27T17:22:28Z"
-            }
-        ],
-        "download_count": 1317307,
-        "id": "RE_kwDOI-qQc84HiGV0.tpDPkK8/jPEH8w==",
-        "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.1%2B12",
-        "release_name": "jdk-21.0.1+12",
-        "release_notes": {
-            "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jdk-release-notes_21.0.1_12.json",
-            "name": "OpenJDK21U-jdk-release-notes_21.0.1_12.json",
-            "size": 134596
-        },
-        "release_type": "ga",
-        "source": {
-            "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jdk-sources_21.0.1_12.tar.gz",
-            "name": "OpenJDK21U-jdk-sources_21.0.1_12.tar.gz",
-            "size": 113042623
-        },
-        "timestamp": "2023-10-24T09:03:26Z",
-        "updated_at": "2023-11-07T19:00:24Z",
-        "vendor": "eclipse",
-        "version_data": {
-            "adopt_build_number": 1,
-            "build": 12,
-            "major": 21,
-            "minor": 0,
-            "openjdk_version": "21.0.1+12-LTS",
-            "optional": "LTS",
-            "security": 1,
-            "semver": "21.0.1+12.1.LTS"
         }
     }
 ]
