@@ -24,7 +24,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 2671,
+                "download_count": 3263,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -32,7 +32,7 @@
                 "package": {
                     "checksum": "e5038aae3ca9ff670bc696496b0728dbd23d280026bad30291cb919221ecfdcb",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_x64_linux_hotspot_21.0.11_10.tar.gz.sha256.txt",
-                    "download_count": 2671,
+                    "download_count": 3263,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_x64_linux_hotspot_21.0.11_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_x64_linux_hotspot_21.0.11_10.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.11_10.tar.gz",
@@ -44,7 +44,7 @@
                 "updated_at": "2026-04-23T19:53:27Z"
             }
         ],
-        "download_count": 37197,
+        "download_count": 41989,
         "id": "RE_kwDOI-qQc84SoXyG.tEgifC1Ag1oTzw==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.11%2B10",
         "release_name": "jdk-21.0.11+10",
