@@ -34,7 +34,7 @@
     {
       "uid": "org.graalvm.java",
       "name": "GraalVM Java",
-      "sha256": "3bd66476b1f0c7d4086f835a273023d65795c3cf5cb8f13cd7fd9c3deb54c1e7"
+      "sha256": "7995c43d06fa83f36c467f54add0d3c78f3a837f27cc8a601aae78b48f1f5351"
     },
     {
       "uid": "org.lwjgl",
