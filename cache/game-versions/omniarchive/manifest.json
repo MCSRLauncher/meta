@@ -3,10 +3,22 @@
   "latest": {
     "april-fools": "26w14a",
     "release": "26.1.2",
-    "snapshot": "26.2-snap4",
+    "snapshot": "26.2-snap5",
     "special": "1.21.11-unobf"
   },
   "versions": [
+    {
+      "id": "26.2-snap5",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/26.2-snap5.json",
+      "time": "2026-04-28T14:03:02+00:00",
+      "releaseTime": "2026-04-28T12:41:41+00:00",
+      "sha1": "b8d91ae23c6e6907f8516f2c00a51f0a8e848fec",
+      "complianceLevel": 1,
+      "mojangVersion": "26.2-snapshot-5",
+      "equivalentTo": "26.2-snap5",
+      "phase": "post-1.0"
+    },
     {
       "id": "26.2-snap4",
       "type": "snapshot",
