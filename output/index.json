@@ -59,12 +59,12 @@
     {
       "uid": "org.mcsr.programs",
       "name": "Speedrun Tools",
-      "sha256": "02c0d68d8d9f8112cbb0f4fda87d58d3b3af6abf42b285675458519b5723768e"
+      "sha256": "0d09d833f27c7e0b1546decb9e10a5174bdf6607282e70d9eb1d229473f7f536"
     },
     {
       "uid": "org.mcsr.tools",
       "name": "Speedrun Tools",
-      "sha256": "5cb2d06790fe27cb2a9869f5cff0d75d38955fdbdb9e025ee218a6b2070c0f56"
+      "sha256": "bf91587c11fe0b188e78460ccc4f9fc3c676bf1b76d0ec85b4a60c0029e571e0"
     }
   ]
 }
