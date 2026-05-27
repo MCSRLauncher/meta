@@ -39,12 +39,12 @@
     {
       "uid": "org.lwjgl",
       "name": "LWJGL 2",
-      "sha256": "665f7cde125d2ee3e012402918f6a26e104a07d0f64c60af1fe212fa3d6fae87"
+      "sha256": "53e3dde59db4dc82a11e4e87828937f68c6ad5625efbbf01fabfa86254875dc4"
     },
     {
       "uid": "org.lwjgl3",
       "name": "LWJGL 3",
-      "sha256": "08c604cd7030fee06461cff4587c9cb95d7d38ca0d3a3d03cd9341f6f75cf912"
+      "sha256": "1da841e598a6ac37d368915796c4d81f511b9c617c7cb9562105231b452c9602"
     },
     {
       "uid": "org.mcsr.maps.practice",
