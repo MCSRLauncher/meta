@@ -19,12 +19,12 @@
     {
       "uid": "net.fabricmc.intermediary",
       "name": "Fabric Intermediary",
-      "sha256": "4b9458b636d412533696cce0ab4b0e0677d580cafee8b36d002ccddd4f910883"
+      "sha256": "84f08fba59492fca6834c7150280185ba73c8defa82bde6e839b33b83e61ed56"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "841a3871dd162b663838804fde5a5efe56246d67f81ba3398655fac6171c2ec1"
+      "sha256": "3d4ee333671de2571137a14c4550eda26bc65700edcbdd1ba07d48c8929a6802"
     },
     {
       "uid": "net.minecraft.java",
@@ -59,7 +59,7 @@
     {
       "uid": "org.mcsr.programs",
       "name": "Speedrun Tools",
-      "sha256": "fdb4cda090773238b15cc6d698ddd8554d19c14b3d9479ac37a24c2b8c4a5278"
+      "sha256": "8f261f83855baf7e44e050fbe7f781043d61aa828dfc2cf05e0a8afa48e653a2"
     },
     {
       "uid": "org.mcsr.tools",
