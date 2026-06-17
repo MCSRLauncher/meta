@@ -4,7 +4,7 @@
     {
       "uid": "com.azul.java",
       "name": "Azul Java",
-      "sha256": "c14bb87286a4ccf9885fa4c86e3246efad56b838eca0afa54548df19eec91594"
+      "sha256": "f8267902b60862e7fd7e0256a01db4bfd4fa60347c2aa04a0a21233a647f4f62"
     },
     {
       "uid": "net.adoptium.java",
@@ -19,12 +19,12 @@
     {
       "uid": "net.fabricmc.intermediary",
       "name": "Fabric Intermediary",
-      "sha256": "7fdf4ac29ba17c0e777fa04b85889d5055f618c681fd2e038d875033b3f854f1"
+      "sha256": "1a386d43431d600f00d8bae8fb8ede6f1497e2965a3ec7394254a47276354362"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "447a7ce0e20187ae464e1bc7e0eb0e813ca8f9470a353069f69f57f26b8e74cb"
+      "sha256": "de7e4c689f1c0f1b7c153d62efb002e0a0d9759114adf7af17bea7943d59bfe8"
     },
     {
       "uid": "net.minecraft.java",
@@ -39,7 +39,7 @@
     {
       "uid": "org.lwjgl",
       "name": "LWJGL 2",
-      "sha256": "53e3dde59db4dc82a11e4e87828937f68c6ad5625efbbf01fabfa86254875dc4"
+      "sha256": "2ac6cb5da61a602249c8266987108777929c861efd4658f5f4f5a085301e8f8c"
     },
     {
       "uid": "org.lwjgl3",
@@ -59,12 +59,12 @@
     {
       "uid": "org.mcsr.programs",
       "name": "Speedrun Tools",
-      "sha256": "a11373aca5d0e215c9eda4ca1c20a5fb75e031f4d08ca99b818bb3d1c9d80828"
+      "sha256": "e45fc966f4df692af0bfa5d3c31704ecf5725a2183fc70860d031950ab0596eb"
     },
     {
       "uid": "org.mcsr.tools",
       "name": "Speedrun Tools",
-      "sha256": "bf91587c11fe0b188e78460ccc4f9fc3c676bf1b76d0ec85b4a60c0029e571e0"
+      "sha256": "9a386fe40619e0c1fa0b4a5eabd55f890dbdea6b85bb49e5c4028412b28e2fbc"
     }
   ]
 }
