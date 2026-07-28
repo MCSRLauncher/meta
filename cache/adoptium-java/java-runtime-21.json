@@ -3,7 +3,7 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 16359,
+                "download_count": 16360,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -11,7 +11,7 @@
                 "package": {
                     "checksum": "8a379a67c91a3ae61ffb33d46e0a40c7ba35e70713c4db31cfca30492f792eff",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_x64_linux_hotspot_21.0.12_8.tar.gz.sha256.txt",
-                    "download_count": 16359,
+                    "download_count": 16360,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_x64_linux_hotspot_21.0.12_8.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_x64_linux_hotspot_21.0.12_8.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.12_8.tar.gz",
@@ -129,7 +129,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 15,
+                "download_count": 16,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
@@ -147,7 +147,7 @@
                 "package": {
                     "checksum": "539706197baea8189c9a677aea5bf44671b74a71baa42dde436e312f2158fa3a",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_x64_mac_hotspot_21.0.12_8.tar.gz.sha256.txt",
-                    "download_count": 6,
+                    "download_count": 7,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_x64_mac_hotspot_21.0.12_8.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_x64_mac_hotspot_21.0.12_8.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.12_8.tar.gz",
@@ -157,9 +157,30 @@
                 "project": "jdk",
                 "scm_ref": "jdk-21.0.12+8_adopt",
                 "updated_at": "2026-07-28T08:03:47Z"
+            },
+            {
+                "architecture": "s390x",
+                "download_count": 0,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "2ec0aecaec755ffa8c7904983f89873e51c28e683de39946ba49496acae8fe96",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_s390x_linux_hotspot_21.0.12_8.tar.gz.sha256.txt",
+                    "download_count": 0,
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_s390x_linux_hotspot_21.0.12_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_s390x_linux_hotspot_21.0.12_8.tar.gz.json",
+                    "name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.12_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_s390x_linux_hotspot_21.0.12_8.tar.gz.sig",
+                    "size": 48868071
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.12+8_adopt",
+                "updated_at": "2026-07-28T15:18:20Z"
             }
         ],
-        "download_count": 208314,
+        "download_count": 208322,
         "id": "RE_kwDOI-qQc84VbBQt.5r6HNbfYYukrZQ==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.12%2B8",
         "release_name": "jdk-21.0.12+8",
@@ -170,7 +191,7 @@
             "size": 115041249
         },
         "timestamp": "2026-07-24T15:51:55Z",
-        "updated_at": "2026-07-28T08:03:58Z",
+        "updated_at": "2026-07-28T15:18:22Z",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
