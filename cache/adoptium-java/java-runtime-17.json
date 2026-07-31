@@ -3,7 +3,7 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 23464,
+                "download_count": 24542,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -11,7 +11,7 @@
                 "package": {
                     "checksum": "ef491a51a46ef90cc47fbc4abb219fde32483ff91be5ec66ddc896df43524b27",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_linux_hotspot_17.0.20_8.tar.gz.sha256.txt",
-                    "download_count": 23464,
+                    "download_count": 24542,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_linux_hotspot_17.0.20_8.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_linux_hotspot_17.0.20_8.tar.gz.json",
                     "name": "OpenJDK17U-jre_x64_linux_hotspot_17.0.20_8.tar.gz",
@@ -45,13 +45,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 1644,
+                "download_count": 1706,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "28164767405e58028de2d4d5d84cc11cdde1f82b653ac9840b90dcef33a9f6b9",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.20_8.pkg.sha256.txt",
-                    "download_count": 911,
+                    "download_count": 944,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.20_8.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.20_8.pkg.json",
                     "name": "OpenJDK17U-jre_x64_mac_hotspot_17.0.20_8.pkg",
@@ -63,7 +63,7 @@
                 "package": {
                     "checksum": "1f504265987954508cd2731520dcf356120c53c8d8196aab39cb1a4a50040d59",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.20_8.tar.gz.sha256.txt",
-                    "download_count": 733,
+                    "download_count": 762,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.20_8.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.20_8.tar.gz.json",
                     "name": "OpenJDK17U-jre_x64_mac_hotspot_17.0.20_8.tar.gz",
@@ -76,7 +76,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 237,
+                "download_count": 257,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -84,7 +84,7 @@
                 "package": {
                     "checksum": "561ea743b8481ed75bf095bff8d156943360f3a6c0ba808215b946f73fc3b89a",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.20_8.tar.gz.sha256.txt",
-                    "download_count": 237,
+                    "download_count": 257,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.20_8.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.20_8.tar.gz.json",
                     "name": "OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.20_8.tar.gz",
@@ -160,7 +160,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 742,
+                "download_count": 794,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -168,7 +168,7 @@
                 "package": {
                     "checksum": "9d14a95e07c44bc48666625162baf40db9da4dcb192bfc3e43047790693061a2",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.20_8.tar.gz.sha256.txt",
-                    "download_count": 742,
+                    "download_count": 794,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.20_8.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.20_8.tar.gz.json",
                     "name": "OpenJDK17U-jre_aarch64_linux_hotspot_17.0.20_8.tar.gz",
@@ -181,13 +181,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 23073,
+                "download_count": 26952,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "45ca8db42fb8bbfbf35b68121cf74e1f9fe36ba982b59d38f0da7802902fbace",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_windows_hotspot_17.0.20_8.msi.sha256.txt",
-                    "download_count": 16757,
+                    "download_count": 19955,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_windows_hotspot_17.0.20_8.msi",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_windows_hotspot_17.0.20_8.msi.json",
                     "name": "OpenJDK17U-jre_x64_windows_hotspot_17.0.20_8.msi",
@@ -199,7 +199,7 @@
                 "package": {
                     "checksum": "7fe2324cc5901a89aaa0e8dc232075c59f2aca5270c533bdb1b861a5274af834",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_windows_hotspot_17.0.20_8.zip.sha256.txt",
-                    "download_count": 6316,
+                    "download_count": 6997,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_windows_hotspot_17.0.20_8.zip",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_windows_hotspot_17.0.20_8.zip.json",
                     "name": "OpenJDK17U-jre_x64_windows_hotspot_17.0.20_8.zip",
@@ -212,13 +212,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 715,
+                "download_count": 826,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "40c2ada0e9e02acb44e65ba5ab4b73663a9d20e2bad01f1bc4249f9f5cad7731",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.20_8.pkg.sha256.txt",
-                    "download_count": 164,
+                    "download_count": 196,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.20_8.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.20_8.pkg.json",
                     "name": "OpenJDK17U-jre_aarch64_mac_hotspot_17.0.20_8.pkg",
@@ -230,7 +230,7 @@
                 "package": {
                     "checksum": "3d1adc835e2e21fb7f3297c42a39bf07b8de58a83f8f05e01cf6c2890694c663",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.20_8.tar.gz.sha256.txt",
-                    "download_count": 551,
+                    "download_count": 630,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.20_8.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.20_8.tar.gz.json",
                     "name": "OpenJDK17U-jre_aarch64_mac_hotspot_17.0.20_8.tar.gz",
@@ -240,12 +240,38 @@
                 "project": "jdk",
                 "scm_ref": "jdk-17.0.20+8_adopt",
                 "updated_at": "2026-07-30T09:52:36Z"
+            },
+            {
+                "architecture": "ppc64",
+                "download_count": 1,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "5f8963cb94f7a9a9e79c8995a83b5c2c5ee08f75e0ee3418f8b3d95f7b735873",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.20_8.tar.gz.sha256.txt",
+                    "download_count": 1,
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.20_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.20_8.tar.gz.json",
+                    "name": "OpenJDK17U-jre_ppc64_aix_hotspot_17.0.20_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.20_8.tar.gz.sig",
+                    "size": 41638720
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.20+8_adopt",
+                "updated_at": "2026-07-31T14:12:57Z"
             }
         ],
-        "download_count": 465785,
+        "download_count": 494337,
         "id": "RE_kwDOFjpjCs4VbJ7A.57kN3leneOZ5cg==",
         "release_link": "https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.20%2B8",
         "release_name": "jdk-17.0.20+8",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jdk-release-notes_17.0.20_8.json",
+            "name": "OpenJDK17U-jdk-release-notes_17.0.20_8.json",
+            "size": 70427
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jdk-sources_17.0.20_8.tar.gz",
@@ -253,7 +279,7 @@
             "size": 109235059
         },
         "timestamp": "2026-07-24T17:14:15Z",
-        "updated_at": "2026-07-30T09:52:44Z",
+        "updated_at": "2026-07-31T15:11:26Z",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
