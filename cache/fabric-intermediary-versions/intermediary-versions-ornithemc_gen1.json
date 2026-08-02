@@ -1,2845 +1,2849 @@
 [ {
-  "version" : "1.14.4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.4"
-}, {
-  "version" : "1.14.4-pre7",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre7"
-}, {
-  "version" : "1.14.4-pre6",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre6"
-}, {
-  "version" : "1.14.4-pre5",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre5"
-}, {
-  "version" : "1.14.4-pre4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre4"
-}, {
-  "version" : "1.14.4-pre3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre3"
-}, {
-  "version" : "1.14.4-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre2"
-}, {
-  "version" : "1.14.4-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre1"
-}, {
-  "version" : "1.14.3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.3"
-}, {
-  "version" : "1.14.3-pre4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.3-pre4"
-}, {
-  "version" : "1.14.3-pre3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.3-pre3"
-}, {
-  "version" : "1.14.3-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.3-pre2"
-}, {
-  "version" : "1.14.3-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.3-pre1"
-}, {
-  "version" : "1.14.2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.2"
-}, {
-  "version" : "1.14.2-pre4-270720",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.2-pre4-270720"
-}, {
-  "version" : "1.14.2-pre3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.2-pre3"
-}, {
-  "version" : "1.14.2-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.2-pre2"
-}, {
-  "version" : "1.14.2-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.2-pre1"
-}, {
-  "version" : "1.14.1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.1"
-}, {
-  "version" : "1.14.1-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.1-pre2"
-}, {
-  "version" : "1.14.1-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14.1-pre1"
-}, {
-  "version" : "1.14",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14"
-}, {
-  "version" : "1.14-pre5",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14-pre5"
-}, {
-  "version" : "1.14-pre4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14-pre4"
-}, {
-  "version" : "1.14-pre3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14-pre3"
-}, {
-  "version" : "1.14-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14-pre2"
-}, {
-  "version" : "1.14-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.14-pre1"
-}, {
-  "version" : "19w14b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w14b"
-}, {
-  "version" : "19w14a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w14a"
-}, {
-  "version" : "19w13b-1653",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w13b-1653"
-}, {
-  "version" : "19w13a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w13a"
-}, {
-  "version" : "19w12b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w12b"
-}, {
-  "version" : "19w12a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w12a"
-}, {
-  "version" : "19w11b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w11b"
-}, {
-  "version" : "19w11a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w11a"
-}, {
-  "version" : "19w09a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w09a"
-}, {
-  "version" : "19w08b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w08b"
-}, {
-  "version" : "19w08a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w08a"
-}, {
-  "version" : "19w07a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w07a"
-}, {
-  "version" : "19w06a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w06a"
-}, {
-  "version" : "19w05a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w05a"
-}, {
-  "version" : "19w04b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w04b"
-}, {
-  "version" : "19w04a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w04a"
-}, {
-  "version" : "19w03c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w03c"
-}, {
-  "version" : "19w03b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w03b"
-}, {
-  "version" : "19w03a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w03a"
-}, {
-  "version" : "19w02a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:19w02a"
-}, {
-  "version" : "18w50a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w50a"
-}, {
-  "version" : "18w49a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w49a"
-}, {
-  "version" : "18w48b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w48b"
-}, {
-  "version" : "18w48a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w48a"
-}, {
-  "version" : "18w47b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w47b"
-}, {
-  "version" : "18w47a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w47a"
-}, {
-  "version" : "18w46a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w46a"
-}, {
-  "version" : "18w45a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w45a"
-}, {
-  "version" : "18w44a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w44a"
-}, {
-  "version" : "18w43c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w43c"
-}, {
-  "version" : "18w43b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w43b"
-}, {
-  "version" : "18w43a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w43a"
-}, {
-  "version" : "1.13.2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13.2"
-}, {
-  "version" : "1.13.2-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13.2-pre2"
-}, {
-  "version" : "1.13.2-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13.2-pre1"
-}, {
-  "version" : "1.13.1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13.1"
-}, {
-  "version" : "1.13.1-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13.1-pre2"
-}, {
-  "version" : "1.13.1-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13.1-pre1"
-}, {
-  "version" : "18w33a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w33a"
-}, {
-  "version" : "18w32a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w32a"
-}, {
-  "version" : "18w31a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w31a"
-}, {
-  "version" : "18w30b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w30b"
-}, {
-  "version" : "18w30a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w30a"
-}, {
-  "version" : "1.13",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13"
-}, {
-  "version" : "1.13-pre10",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre10"
-}, {
-  "version" : "1.13-pre9",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre9"
-}, {
-  "version" : "1.13-pre8",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre8"
-}, {
-  "version" : "1.13-pre7",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre7"
-}, {
-  "version" : "1.13-pre6",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre6"
-}, {
-  "version" : "1.13-pre5",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre5"
-}, {
-  "version" : "1.13-pre4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre4"
-}, {
-  "version" : "1.13-pre3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre3"
-}, {
-  "version" : "1.13-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre2"
-}, {
-  "version" : "1.13-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre1"
-}, {
-  "version" : "18w22c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w22c"
-}, {
-  "version" : "18w22b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w22b"
-}, {
-  "version" : "18w22a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w22a"
-}, {
-  "version" : "18w21b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w21b"
-}, {
-  "version" : "18w21a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w21a"
-}, {
-  "version" : "18w20c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w20c"
-}, {
-  "version" : "18w20b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w20b"
-}, {
-  "version" : "18w20a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w20a"
-}, {
-  "version" : "18w19b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w19b"
-}, {
-  "version" : "18w19a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w19a"
-}, {
-  "version" : "18w16a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w16a"
-}, {
-  "version" : "18w15a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w15a"
-}, {
-  "version" : "18w14b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w14b"
-}, {
-  "version" : "18w14a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w14a"
-}, {
-  "version" : "18w11a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w11a"
-}, {
-  "version" : "18w10d",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w10d"
-}, {
-  "version" : "18w10c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w10c"
-}, {
-  "version" : "18w10b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w10b"
-}, {
-  "version" : "18w10a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w10a"
-}, {
-  "version" : "18w09a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w09a"
-}, {
-  "version" : "18w08b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w08b"
-}, {
-  "version" : "18w08a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w08a"
-}, {
-  "version" : "18w07c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w07c"
-}, {
-  "version" : "18w07b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w07b"
-}, {
-  "version" : "18w07a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w07a"
-}, {
-  "version" : "18w06a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w06a"
-}, {
-  "version" : "18w05a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w05a"
-}, {
-  "version" : "18w03b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w03b"
-}, {
-  "version" : "18w03a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w03a"
-}, {
-  "version" : "18w02a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w02a"
-}, {
-  "version" : "18w01a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:18w01a"
-}, {
-  "version" : "17w50a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w50a"
-}, {
-  "version" : "17w49b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w49b"
-}, {
-  "version" : "17w49a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w49a"
-}, {
-  "version" : "17w48a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w48a"
-}, {
-  "version" : "17w47b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w47b"
-}, {
-  "version" : "17w47a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w47a"
-}, {
-  "version" : "17w46a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w46a"
-}, {
-  "version" : "17w45b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w45b"
-}, {
-  "version" : "17w45a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w45a"
-}, {
-  "version" : "17w43b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w43b"
-}, {
-  "version" : "17w43a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w43a"
-}, {
-  "version" : "1.12.2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.12.2"
-}, {
-  "version" : "1.12.2-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.12.2-pre2"
-}, {
-  "version" : "1.12.2-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.12.2-pre1"
-}, {
-  "version" : "1.12.1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.12.1"
-}, {
-  "version" : "1.12.1-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.12.1-pre1"
-}, {
-  "version" : "17w31a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w31a"
-}, {
-  "version" : "1.12",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.12"
-}, {
-  "version" : "1.12-pre7",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre7"
-}, {
-  "version" : "1.12-pre6",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre6"
-}, {
-  "version" : "1.12-pre5",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre5"
-}, {
-  "version" : "1.12-pre4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre4"
-}, {
-  "version" : "1.12-pre3-1409",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre3-1409"
-}, {
-  "version" : "1.12-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre2"
-}, {
-  "version" : "1.12-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre1"
-}, {
-  "version" : "17w18b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w18b"
-}, {
-  "version" : "17w18a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w18a"
-}, {
-  "version" : "17w17b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w17b"
-}, {
-  "version" : "17w17a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w17a"
-}, {
-  "version" : "17w16b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w16b"
-}, {
-  "version" : "17w16a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w16a"
-}, {
-  "version" : "17w15a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w15a"
-}, {
-  "version" : "17w14a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w14a"
-}, {
-  "version" : "17w13b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w13b"
-}, {
-  "version" : "17w13a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w13a"
-}, {
-  "version" : "17w06a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:17w06a"
-}, {
-  "version" : "1.11.2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.11.2"
-}, {
-  "version" : "1.11.1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.11.1"
-}, {
-  "version" : "16w50a-1438",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w50a-1438"
-}, {
-  "version" : "1.11",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.11"
-}, {
-  "version" : "1.11-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.11-pre1"
-}, {
-  "version" : "16w44a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w44a"
-}, {
-  "version" : "16w43a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w43a"
-}, {
-  "version" : "16w42a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w42a"
-}, {
-  "version" : "16w41a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w41a"
-}, {
-  "version" : "16w40a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w40a"
-}, {
-  "version" : "16w39c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w39c"
-}, {
-  "version" : "16w39b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w39b"
-}, {
-  "version" : "16w39a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w39a"
-}, {
-  "version" : "16w38a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w38a"
-}, {
-  "version" : "16w36a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w36a"
-}, {
-  "version" : "16w35a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w35a"
-}, {
-  "version" : "16w33a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w33a"
-}, {
-  "version" : "16w32b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w32b"
-}, {
-  "version" : "16w32a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w32a"
-}, {
-  "version" : "1.10.2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.10.2"
-}, {
-  "version" : "1.10.1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.10.1"
-}, {
-  "version" : "1.10",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.10"
-}, {
-  "version" : "1.10-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.10-pre2"
-}, {
-  "version" : "1.10-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.10-pre1"
-}, {
-  "version" : "16w21b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w21b"
-}, {
-  "version" : "16w21a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w21a"
-}, {
-  "version" : "16w20a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w20a"
-}, {
-  "version" : "1.9.4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9.4"
-}, {
-  "version" : "1.9.3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9.3"
-}, {
-  "version" : "1.9.3-pre3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9.3-pre3"
-}, {
-  "version" : "1.9.3-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9.3-pre2"
-}, {
-  "version" : "1.9.3-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9.3-pre1"
-}, {
-  "version" : "16w15b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w15b"
-}, {
-  "version" : "16w15a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w15a"
-}, {
-  "version" : "16w14a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w14a"
-}, {
-  "version" : "af-2016",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:af-2016"
-}, {
-  "version" : "1.9.2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9.2"
-}, {
-  "version" : "1.9.1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9.1"
-}, {
-  "version" : "1.9.1-pre3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9.1-pre3"
-}, {
-  "version" : "1.9.1-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9.1-pre2"
-}, {
-  "version" : "1.9.1-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9.1-pre1"
-}, {
-  "version" : "1.9",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9"
-}, {
-  "version" : "1.9-pre4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9-pre4"
-}, {
-  "version" : "1.9-pre3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9-pre3"
-}, {
-  "version" : "1.9-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9-pre2"
-}, {
-  "version" : "1.9-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.9-pre1"
-}, {
-  "version" : "16w07b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w07b"
-}, {
-  "version" : "16w07a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w07a"
-}, {
-  "version" : "16w06a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w06a"
-}, {
-  "version" : "16w05b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w05b"
-}, {
-  "version" : "16w05a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w05a"
-}, {
-  "version" : "16w04a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w04a"
-}, {
-  "version" : "16w03a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w03a"
-}, {
-  "version" : "16w02a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:16w02a"
-}, {
-  "version" : "15w51b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w51b"
-}, {
-  "version" : "15w51a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w51a"
-}, {
-  "version" : "15w50a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w50a"
-}, {
-  "version" : "1.8.9",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.9"
-}, {
-  "version" : "15w49b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w49b"
-}, {
-  "version" : "15w49a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w49a"
-}, {
-  "version" : "15w47c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w47c"
-}, {
-  "version" : "15w47b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w47b"
-}, {
-  "version" : "15w47a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w47a"
-}, {
-  "version" : "15w46a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w46a"
-}, {
-  "version" : "15w45a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w45a"
-}, {
-  "version" : "15w44b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w44b"
-}, {
-  "version" : "15w44a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w44a"
-}, {
-  "version" : "15w43c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w43c"
-}, {
-  "version" : "15w43b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w43b"
-}, {
-  "version" : "15w43a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w43a"
-}, {
-  "version" : "15w42a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w42a"
-}, {
-  "version" : "15w41b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w41b"
-}, {
-  "version" : "15w41a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w41a"
-}, {
-  "version" : "15w40b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w40b"
-}, {
-  "version" : "15w40a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w40a"
-}, {
-  "version" : "15w39c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w39c"
-}, {
-  "version" : "15w39b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w39b"
-}, {
-  "version" : "15w39a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w39a"
-}, {
-  "version" : "15w38b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w38b"
-}, {
-  "version" : "15w38a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w38a"
-}, {
-  "version" : "15w37a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w37a"
-}, {
-  "version" : "15w36d",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w36d"
-}, {
-  "version" : "15w36c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w36c"
-}, {
-  "version" : "15w36b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w36b"
-}, {
-  "version" : "15w36a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w36a"
-}, {
-  "version" : "15w35e",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w35e"
-}, {
-  "version" : "15w35d",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w35d"
-}, {
-  "version" : "15w35c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w35c"
-}, {
-  "version" : "15w35b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w35b"
-}, {
-  "version" : "15w35a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w35a"
-}, {
-  "version" : "15w34d",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w34d"
-}, {
-  "version" : "15w34c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w34c"
-}, {
-  "version" : "15w34b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w34b"
-}, {
-  "version" : "15w34a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w34a"
-}, {
-  "version" : "15w33c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w33c"
-}, {
-  "version" : "15w33b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w33b"
-}, {
-  "version" : "15w33a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w33a"
-}, {
-  "version" : "15w32c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w32c"
-}, {
-  "version" : "15w32b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w32b"
-}, {
-  "version" : "15w32a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w32a"
-}, {
-  "version" : "15w31c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w31c"
-}, {
-  "version" : "15w31b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w31b"
-}, {
-  "version" : "15w31a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:15w31a"
-}, {
-  "version" : "1.8.8",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.8"
-}, {
-  "version" : "1.8.7",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.7"
-}, {
-  "version" : "1.8.6",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.6"
-}, {
-  "version" : "1.8.5",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.5"
-}, {
-  "version" : "1.8.4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.4"
-}, {
-  "version" : "af-2015",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:af-2015"
-}, {
-  "version" : "1.8.3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.3"
-}, {
-  "version" : "1.8.2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.2"
-}, {
-  "version" : "1.8.2-pre7",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre7"
-}, {
-  "version" : "1.8.2-pre6",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre6"
-}, {
-  "version" : "1.8.2-pre5",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre5"
-}, {
-  "version" : "1.8.2-pre4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre4"
-}, {
-  "version" : "1.8.2-pre3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre3"
-}, {
-  "version" : "1.8.2-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre2"
-}, {
-  "version" : "1.8.2-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre1"
-}, {
-  "version" : "1.8.1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.1"
-}, {
-  "version" : "1.8.1-pre5",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.1-pre5"
-}, {
-  "version" : "1.8.1-pre4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.1-pre4"
-}, {
-  "version" : "1.8.1-pre3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.1-pre3"
-}, {
-  "version" : "1.8.1-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.1-pre2"
-}, {
-  "version" : "1.8.1-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8.1-pre1"
-}, {
-  "version" : "1.8",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8"
-}, {
-  "version" : "1.8-pre3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8-pre3"
-}, {
-  "version" : "1.8-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8-pre2"
-}, {
-  "version" : "1.8-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.8-pre1"
-}, {
-  "version" : "14w34d",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w34d"
-}, {
-  "version" : "14w34c-08191549",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w34c-08191549"
-}, {
-  "version" : "14w34b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w34b"
-}, {
-  "version" : "14w34a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w34a"
-}, {
-  "version" : "14w33c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w33c"
-}, {
-  "version" : "14w33b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w33b"
-}, {
-  "version" : "14w33a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w33a"
-}, {
-  "version" : "14w32d",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w32d"
-}, {
-  "version" : "14w32c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w32c"
-}, {
-  "version" : "14w32b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w32b"
-}, {
-  "version" : "14w32a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w32a"
-}, {
-  "version" : "14w31a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w31a"
-}, {
-  "version" : "14w30c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w30c"
-}, {
-  "version" : "14w30b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w30b"
-}, {
-  "version" : "14w30a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w30a"
-}, {
-  "version" : "14w29b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w29b"
-}, {
-  "version" : "14w29a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w29a"
-}, {
-  "version" : "14w28b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w28b"
-}, {
-  "version" : "14w28a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w28a"
-}, {
-  "version" : "14w27b-07021646",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w27b-07021646"
-}, {
-  "version" : "14w27a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w27a"
-}, {
-  "version" : "14w26c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w26c"
-}, {
-  "version" : "1.7.10",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.10"
-}, {
-  "version" : "14w26b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w26b"
-}, {
-  "version" : "14w26a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w26a"
-}, {
-  "version" : "14w25b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w25b"
-}, {
-  "version" : "14w25a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w25a"
-}, {
-  "version" : "1.7.10-pre4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.10-pre4"
-}, {
-  "version" : "1.7.10-pre3",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.10-pre3"
-}, {
-  "version" : "1.7.10-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.10-pre2"
-}, {
-  "version" : "1.7.10-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.10-pre1"
-}, {
-  "version" : "14w21b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w21b"
-}, {
-  "version" : "14w21a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w21a"
-}, {
-  "version" : "14w20b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w20b"
-}, {
-  "version" : "14w20a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w20a"
-}, {
-  "version" : "14w19a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w19a"
-}, {
-  "version" : "14w18b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w18b"
-}, {
-  "version" : "14w18a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w18a"
-}, {
-  "version" : "14w17a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w17a"
-}, {
-  "version" : "14w11b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w11b"
-}, {
-  "version" : "1.7.9",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.9"
-}, {
-  "version" : "1.7.8",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.8"
-}, {
-  "version" : "1.7.7-101331",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.7-101331"
-}, {
-  "version" : "1.7.6",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.6"
-}, {
-  "version" : "1.7.6-pre2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.6-pre2"
-}, {
-  "version" : "1.7.6-pre1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.6-pre1"
-}, {
-  "version" : "14w11a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w11a"
-}, {
-  "version" : "14w10c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w10c"
-}, {
-  "version" : "14w10b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w10b"
-}, {
-  "version" : "14w10a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w10a"
-}, {
-  "version" : "14w08a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w08a"
-}, {
-  "version" : "1.7.5",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.5"
-}, {
-  "version" : "14w07a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w07a"
-}, {
-  "version" : "14w06b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w06b"
-}, {
-  "version" : "14w06a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w06a"
-}, {
-  "version" : "14w05b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w05b"
-}, {
-  "version" : "14w05a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w05a"
-}, {
-  "version" : "14w04b-1554",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w04b-1554"
-}, {
-  "version" : "14w03b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w03b"
-}, {
-  "version" : "14w03a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w03a"
-}, {
-  "version" : "14w02c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w02c"
-}, {
-  "version" : "14w02b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w02b"
-}, {
-  "version" : "14w02a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:14w02a"
-}, {
-  "version" : "1.7.4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.4"
-}, {
-  "version" : "1.7.3-pre",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.3-pre"
-}, {
-  "version" : "13w49a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w49a"
-}, {
-  "version" : "13w48b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w48b"
-}, {
-  "version" : "13w48a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w48a"
-}, {
-  "version" : "13w47e",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w47e"
-}, {
-  "version" : "13w47d",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w47d"
-}, {
-  "version" : "13w47c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w47c"
-}, {
-  "version" : "13w47b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w47b"
-}, {
-  "version" : "13w47a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w47a"
-}, {
-  "version" : "1.7.2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.2"
-}, {
-  "version" : "1.7.1-pre",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7.1-pre"
-}, {
-  "version" : "1.7-pre",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.7-pre"
-}, {
-  "version" : "13w43a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w43a"
-}, {
-  "version" : "13w42b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w42b"
-}, {
-  "version" : "13w42a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w42a"
-}, {
-  "version" : "13w41b-1523",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w41b-1523"
-}, {
-  "version" : "13w41a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w41a"
-}, {
-  "version" : "13w39b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w39b"
-}, {
-  "version" : "13w39a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w39a"
-}, {
-  "version" : "13w38c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w38c"
-}, {
-  "version" : "13w38b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w38b"
-}, {
-  "version" : "13w38a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w38a"
-}, {
-  "version" : "1.6.4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.6.4"
-}, {
-  "version" : "1.6.3-pre-171231",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.6.3-pre-171231"
-}, {
-  "version" : "13w37b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w37b"
-}, {
-  "version" : "13w37a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w37a"
-}, {
-  "version" : "13w36b-09061310",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w36b-09061310"
-}, {
-  "version" : "13w36a-09051446",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w36a-09051446"
-}, {
-  "version" : "1.6.2-091847",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.6.2-091847"
-}, {
-  "version" : "1.6.1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.6.1"
-}, {
-  "version" : "1.6-pre-06251516",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.6-pre-06251516"
-}, {
-  "version" : "13w26a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w26a"
-}, {
-  "version" : "13w25c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w25c"
-}, {
-  "version" : "13w25b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w25b"
-}, {
-  "version" : "13w25a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w25a"
-}, {
-  "version" : "13w24b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w24b"
-}, {
-  "version" : "13w24a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w24a"
-}, {
-  "version" : "13w23b-06080101",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w23b-06080101"
-}, {
-  "version" : "13w23a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w23a"
-}, {
-  "version" : "13w22a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w22a"
-}, {
-  "version" : "13w21b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w21b"
-}, {
-  "version" : "13w21a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w21a"
-}, {
-  "version" : "13w19a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w19a"
-}, {
-  "version" : "13w18c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w18c"
-}, {
-  "version" : "13w18b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w18b"
-}, {
-  "version" : "13w18a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w18a"
-}, {
-  "version" : "1.5.2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.5.2"
-}, {
-  "version" : "13w17a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w17a"
-}, {
-  "version" : "13w16b-04232151",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w16b-04232151"
-}, {
-  "version" : "13w16a-04192037",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w16a-04192037"
-}, {
-  "version" : "af-2013-purple",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:af-2013-purple"
-}, {
-  "version" : "af-2013-blue",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:af-2013-blue"
-}, {
-  "version" : "af-2013-red",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:af-2013-red"
-}, {
-  "version" : "1.5.1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.5.1"
-}, {
-  "version" : "13w11a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w11a"
-}, {
-  "version" : "1.5",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.5"
-}, {
-  "version" : "13w10b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w10b"
-}, {
-  "version" : "13w10a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w10a"
-}, {
-  "version" : "13w09c",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w09c"
-}, {
-  "version" : "13w09b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w09b"
-}, {
-  "version" : "13w09a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w09a"
-}, {
-  "version" : "13w07a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w07a"
-}, {
-  "version" : "13w06a-1636",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w06a-1636"
-}, {
-  "version" : "13w05b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w05b"
-}, {
-  "version" : "13w05a-1538",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w05a-1538"
-}, {
-  "version" : "13w04a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w04a"
-}, {
-  "version" : "13w03a-1647",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w03a-1647"
-}, {
-  "version" : "13w02b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w02b"
-}, {
-  "version" : "13w02a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w02a"
-}, {
-  "version" : "1.4.7",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.4.7"
-}, {
-  "version" : "13w01b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w01b"
-}, {
-  "version" : "13w01a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:13w01a"
-}, {
-  "version" : "1.4.6",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.4.6"
-}, {
-  "version" : "12w50b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w50b"
-}, {
-  "version" : "1.4.4",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.4.4"
-}, {
-  "version" : "12w50a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w50a"
-}, {
-  "version" : "12w49a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w49a"
-}, {
-  "version" : "1.4.5",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.4.5"
-}, {
-  "version" : "1.4.3-pre",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.4.3-pre"
-}, {
-  "version" : "1.4.2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.4.2"
-}, {
-  "version" : "1.4.1-pre-10231538",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.4.1-pre-10231538"
-}, {
-  "version" : "1.4-pre",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.4-pre"
-}, {
-  "version" : "12w42b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w42b"
-}, {
-  "version" : "12w42a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w42a"
-}, {
-  "version" : "12w41b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w41b"
-}, {
-  "version" : "12w41a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w41a"
-}, {
-  "version" : "12w40b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w40b"
-}, {
-  "version" : "12w40a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w40a"
-}, {
-  "version" : "12w39b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w39b"
-}, {
-  "version" : "12w39a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w39a"
-}, {
-  "version" : "12w38b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w38b"
-}, {
-  "version" : "12w38a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w38a"
-}, {
-  "version" : "12w37a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w37a"
-}, {
-  "version" : "12w36a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w36a"
-}, {
-  "version" : "12w34b",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w34b"
-}, {
-  "version" : "12w34a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w34a"
-}, {
-  "version" : "1.3.2",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.3.2"
-}, {
-  "version" : "12w32a",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w32a"
-}, {
-  "version" : "1.3.1",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.3.1"
-}, {
-  "version" : "1.3-pre-07261249",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.3-pre-07261249"
-}, {
-  "version" : "12w30e-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w30e-server"
-}, {
-  "version" : "12w30e-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w30e-client"
-}, {
-  "version" : "12w30d-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w30d-server"
-}, {
-  "version" : "12w30d-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w30d-client"
-}, {
-  "version" : "12w30c-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w30c-server"
-}, {
-  "version" : "12w30c-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w30c-client"
-}, {
-  "version" : "12w30b-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w30b-server"
-}, {
-  "version" : "12w30b-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w30b-client"
-}, {
-  "version" : "12w30a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w30a-server"
-}, {
-  "version" : "12w30a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w30a-client"
-}, {
-  "version" : "12w27a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w27a-server"
-}, {
-  "version" : "12w27a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w27a-client"
-}, {
-  "version" : "12w26a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w26a-server"
-}, {
-  "version" : "12w26a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w26a-client"
-}, {
-  "version" : "12w25a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w25a-server"
-}, {
-  "version" : "12w25a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w25a-client"
-}, {
-  "version" : "12w24a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w24a-server"
-}, {
-  "version" : "12w24a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w24a-client"
-}, {
-  "version" : "12w23b-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w23b-server"
-}, {
-  "version" : "12w23b-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w23b-client"
-}, {
-  "version" : "12w23a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w23a-server"
-}, {
-  "version" : "12w23a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w23a-client"
-}, {
-  "version" : "12w22a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w22a-server"
-}, {
-  "version" : "12w22a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w22a-client"
-}, {
-  "version" : "12w21b-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w21b-server"
-}, {
-  "version" : "12w21b-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w21b-client"
-}, {
-  "version" : "12w21a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w21a-server"
-}, {
-  "version" : "12w21a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w21a-client"
-}, {
-  "version" : "12w19a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w19a-server"
-}, {
-  "version" : "12w19a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w19a-client"
-}, {
-  "version" : "12w18a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w18a-server"
-}, {
-  "version" : "12w18a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w18a-client"
-}, {
-  "version" : "12w17a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w17a-server"
-}, {
-  "version" : "12w17a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w17a-client"
-}, {
-  "version" : "12w16a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w16a-server"
-}, {
-  "version" : "12w16a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w16a-client"
-}, {
-  "version" : "12w15a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w15a-server"
-}, {
-  "version" : "12w15a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w15a-client"
-}, {
-  "version" : "1.2.5-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.2.5-server"
-}, {
-  "version" : "1.2.5-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.2.5-client"
-}, {
-  "version" : "1.2.4-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.2.4-server"
-}, {
-  "version" : "1.2.4-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.2.4-client"
-}, {
-  "version" : "1.2.3-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.2.3-server"
-}, {
-  "version" : "1.2.3-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.2.3-client"
-}, {
-  "version" : "1.2.2-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.2.2-server"
-}, {
-  "version" : "1.2.2-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.2.2-client"
-}, {
-  "version" : "1.2.1-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.2.1-server"
-}, {
-  "version" : "1.2.1-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.2.1-client"
-}, {
-  "version" : "1.2-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.2-server"
-}, {
-  "version" : "1.2-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.2-client"
-}, {
-  "version" : "12w08a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w08a-server"
-}, {
-  "version" : "12w08a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w08a-client"
-}, {
-  "version" : "12w07b-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w07b-server"
-}, {
-  "version" : "12w07b-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w07b-client"
-}, {
-  "version" : "12w07a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w07a-server"
-}, {
-  "version" : "12w07a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w07a-client"
-}, {
-  "version" : "12w06a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w06a-server"
-}, {
-  "version" : "12w06a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w06a-client"
-}, {
-  "version" : "12w05b-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w05b-server"
-}, {
-  "version" : "12w05b-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w05b-client"
-}, {
-  "version" : "12w05a-1442-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w05a-1442-server"
-}, {
-  "version" : "12w05a-1442-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w05a-1442-client"
-}, {
-  "version" : "12w04a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w04a-server"
-}, {
-  "version" : "12w04a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w04a-client"
-}, {
-  "version" : "12w03a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w03a-server"
-}, {
-  "version" : "12w03a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w03a-client"
-}, {
-  "version" : "1.1-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.1-server"
-}, {
-  "version" : "1.1-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.1-client"
-}, {
-  "version" : "12w01a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w01a-server"
-}, {
-  "version" : "12w01a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:12w01a-client"
-}, {
-  "version" : "11w50a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:11w50a-server"
-}, {
-  "version" : "11w50a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:11w50a-client"
-}, {
-  "version" : "11w49a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:11w49a-server"
-}, {
-  "version" : "11w49a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:11w49a-client"
-}, {
-  "version" : "11w48a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:11w48a-server"
-}, {
-  "version" : "11w48a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:11w48a-client"
-}, {
-  "version" : "11w47a-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:11w47a-server"
-}, {
-  "version" : "11w47a-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:11w47a-client"
-}, {
-  "version" : "1.0.1-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.0.1-server"
-}, {
-  "version" : "1.0.0-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.0.0-server"
-}, {
-  "version" : "1.0.0-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.0.0-client"
-}, {
-  "version" : "1.0.0-rc2-3-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.0.0-rc2-3-server"
-}, {
-  "version" : "1.0.0-rc2-3-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.0.0-rc2-3-client"
-}, {
-  "version" : "1.0.0-rc1-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:1.0.0-rc1-client"
-}, {
-  "version" : "b1.9-pre6-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre6-server"
-}, {
-  "version" : "b1.9-pre6-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre6-client"
-}, {
-  "version" : "b1.9-pre5-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre5-server"
-}, {
-  "version" : "b1.9-pre5-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre5-client"
-}, {
-  "version" : "b1.9-pre4-201110131440-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre4-201110131440-server"
-}, {
-  "version" : "b1.9-pre4-201110131434-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre4-201110131434-client"
-}, {
-  "version" : "b1.9-pre3-201110061402-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre3-201110061402-client"
-}, {
-  "version" : "b1.9-pre3-201110061350-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre3-201110061350-server"
-}, {
-  "version" : "b1.9-pre2-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre2-server"
-}, {
-  "version" : "b1.9-pre2-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre2-client"
-}, {
-  "version" : "b1.9-pre1-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre1-server"
-}, {
-  "version" : "b1.9-pre1-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre1-client"
-}, {
-  "version" : "b1.8.1-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.8.1-server"
-}, {
-  "version" : "b1.8.1-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.8.1-client"
-}, {
-  "version" : "b1.8-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.8-server"
-}, {
-  "version" : "b1.8-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.8-client"
-}, {
-  "version" : "b1.8-pre2-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.8-pre2-server"
-}, {
-  "version" : "b1.8-pre2-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.8-pre2-client"
-}, {
-  "version" : "b1.8-pre1-201109091357-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.8-pre1-201109091357-server"
-}, {
-  "version" : "b1.8-pre1-201109091357-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.8-pre1-201109091357-client"
-}, {
-  "version" : "b1.8-pre1-201109081459-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.8-pre1-201109081459-client"
-}, {
-  "version" : "b1.7.3-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.7.3-server"
-}, {
-  "version" : "b1.7.3-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.7.3-client"
-}, {
-  "version" : "b1.7.2-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.7.2-server"
-}, {
-  "version" : "b1.7.2-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.7.2-client"
-}, {
-  "version" : "b1.7_01-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.7_01-server"
-}, {
-  "version" : "b1.7_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.7_01-client"
-}, {
-  "version" : "b1.7-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.7-server"
-}, {
-  "version" : "b1.7-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.7-client"
-}, {
-  "version" : "b1.6.6-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6.6-server"
-}, {
-  "version" : "b1.6.6-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6.6-client"
-}, {
-  "version" : "b1.6.5-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6.5-server"
-}, {
-  "version" : "b1.6.5-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6.5-client"
-}, {
-  "version" : "b1.6.4-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6.4-server"
-}, {
-  "version" : "b1.6.4-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6.4-client"
-}, {
-  "version" : "b1.6.3-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6.3-server"
-}, {
-  "version" : "b1.6.3-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6.3-client"
-}, {
-  "version" : "b1.6.2-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6.2-server"
-}, {
-  "version" : "b1.6.2-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6.2-client"
-}, {
-  "version" : "b1.6.1-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6.1-server"
-}, {
-  "version" : "b1.6.1-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6.1-client"
-}, {
-  "version" : "b1.6-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6-server"
-}, {
-  "version" : "b1.6-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6-client"
-}, {
-  "version" : "b1.6-tb3-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6-tb3-server"
-}, {
-  "version" : "b1.6-tb3-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6-tb3-client"
-}, {
-  "version" : "b1.6-pre-trailer-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.6-pre-trailer-server"
-}, {
-  "version" : "b1.5_02-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.5_02-server"
-}, {
-  "version" : "b1.5_01-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.5_01-server"
-}, {
-  "version" : "b1.5_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.5_01-client"
-}, {
-  "version" : "b1.5-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.5-server"
-}, {
-  "version" : "b1.5-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.5-client"
-}, {
-  "version" : "b1.4_01-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.4_01-server"
-}, {
-  "version" : "b1.4_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.4_01-client"
-}, {
-  "version" : "b1.4-1634-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.4-1634-client"
-}, {
-  "version" : "b1.4-1507-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.4-1507-server"
-}, {
-  "version" : "b1.3_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.3_01-client"
-}, {
-  "version" : "b1.3-1750-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.3-1750-client"
-}, {
-  "version" : "b1.3-1731-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.3-1731-server"
-}, {
-  "version" : "b1.2_02-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.2_02-client"
-}, {
-  "version" : "b1.2_01-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.2_01-server"
-}, {
-  "version" : "b1.2_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.2_01-client"
-}, {
-  "version" : "b1.2-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.2-server"
-}, {
-  "version" : "b1.2-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.2-client"
-}, {
-  "version" : "b1.1_02-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.1_02-server"
-}, {
-  "version" : "b1.1_02-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.1_02-client"
-}, {
-  "version" : "b1.1_01-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.1_01-server"
-}, {
-  "version" : "b1.1_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.1_01-client"
-}, {
-  "version" : "b1.1-1255-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.1-1255-client"
-}, {
-  "version" : "b1.1-1245-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.1-1245-server"
-}, {
-  "version" : "b1.0.2-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.0.2-client"
-}, {
-  "version" : "b1.0_01-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.0_01-server"
-}, {
-  "version" : "b1.0_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.0_01-client"
-}, {
-  "version" : "b1.0-server",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.0-server"
-}, {
-  "version" : "b1.0-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:b1.0-client"
-}, {
   "version" : "server-a0.2.8-server",
   "stable" : true,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.8-server"
 }, {
-  "version" : "a1.2.6-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.6-client"
-}, {
   "version" : "server-a0.2.7-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.7-server"
 }, {
-  "version" : "a1.2.5-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.5-client"
-}, {
   "version" : "server-a0.2.6_02-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.6_02-server"
 }, {
-  "version" : "a1.2.4_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.4_01-client"
-}, {
   "version" : "server-a0.2.6_01-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.6_01-server"
 }, {
   "version" : "server-a0.2.6-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.6-server"
 }, {
-  "version" : "a1.2.3_05-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.3_05-client"
-}, {
   "version" : "server-a0.2.5_02-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.5_02-server"
 }, {
-  "version" : "a1.2.3_04-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.3_04-client"
-}, {
   "version" : "server-a0.2.5_01-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.5_01-server"
 }, {
-  "version" : "a1.2.3_02-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.3_02-client"
-}, {
   "version" : "server-a0.2.5-1004-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.5-1004-server"
 }, {
-  "version" : "a1.2.3_01-0958-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.3_01-0958-client"
-}, {
-  "version" : "a1.2.3-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.3-client"
-}, {
-  "version" : "a1.2.2-1938-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.2-1938-client"
-}, {
-  "version" : "a1.2.2-1624-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.2-1624-client"
-}, {
   "version" : "server-a0.2.4-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.4-server"
 }, {
   "version" : "server-a0.2.3-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.3-server"
 }, {
-  "version" : "a1.2.1_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.1_01-client"
-}, {
-  "version" : "a1.2.0_02-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.0_02-client"
-}, {
-  "version" : "a1.2.0_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.0_01-client"
-}, {
   "version" : "server-a0.2.2_01-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.2_01-server"
 }, {
-  "version" : "a1.2.0-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.2.0-client"
-}, {
   "version" : "server-a0.2.2-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.2-server"
 }, {
-  "version" : "a1.1.2_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.1.2_01-client"
-}, {
-  "version" : "a1.1.2-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.1.2-client"
-}, {
   "version" : "server-a0.2.1-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.1-server"
 }, {
-  "version" : "a1.1.1-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.1.1-client"
-}, {
-  "version" : "a1.1.0-131933-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.1.0-131933-client"
-}, {
   "version" : "server-a0.2.0_01-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.0_01-server"
 }, {
   "version" : "server-a0.2.0-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.2.0-server"
 }, {
-  "version" : "a1.0.17_04-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.17_04-client"
-}, {
-  "version" : "a1.0.17_03-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.17_03-client"
-}, {
-  "version" : "a1.0.17_02-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.17_02-client"
-}, {
   "version" : "server-a0.1.4-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.1.4-server"
 }, {
   "version" : "server-a0.1.3-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.1.3-server"
 }, {
-  "version" : "a1.0.16_02-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.16_02-client"
-}, {
-  "version" : "a1.0.16_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.16_01-client"
-}, {
   "version" : "server-a0.1.2_01-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.1.2_01-server"
 }, {
-  "version" : "a1.0.16-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.16-client"
-}, {
   "version" : "server-a0.1.0-server",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:server-a0.1.0-server"
 }, {
-  "version" : "a1.0.15-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.15-client"
-}, {
-  "version" : "a1.0.14-1659-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.14-1659-client"
-}, {
-  "version" : "a1.0.13_01-1444-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.13_01-1444-client"
-}, {
-  "version" : "a1.0.13-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.13-client"
-}, {
-  "version" : "a1.0.12-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.12-client"
-}, {
-  "version" : "a1.0.11-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.11-client"
-}, {
-  "version" : "a1.0.10-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.10-client"
-}, {
-  "version" : "a1.0.9-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.9-client"
-}, {
-  "version" : "a1.0.8_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.8_01-client"
-}, {
-  "version" : "a1.0.7-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.7-client"
-}, {
-  "version" : "a1.0.6_03-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.6_03-client"
-}, {
-  "version" : "a1.0.6_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.6_01-client"
-}, {
-  "version" : "a1.0.6-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.6-client"
-}, {
-  "version" : "a1.0.5-2149-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.5-2149-client"
-}, {
-  "version" : "a1.0.5_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.5_01-client"
-}, {
-  "version" : "a1.0.4-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.4-client"
-}, {
-  "version" : "a1.0.3-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.3-client"
-}, {
-  "version" : "a1.0.2_02-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.2_02-client"
-}, {
-  "version" : "a1.0.2_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.2_01-client"
-}, {
-  "version" : "a1.0.1_01-client",
-  "stable" : true,
-  "maven" : "net.ornithemc:calamus-intermediary:a1.0.1_01-client"
-}, {
   "version" : "inf-20100630-1835-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100630-1835-client"
 }, {
   "version" : "inf-20100630-1340-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100630-1340-client"
 }, {
   "version" : "inf-20100629-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100629-client"
 }, {
   "version" : "inf-20100627-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100627-client"
 }, {
   "version" : "inf-20100625-1917-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100625-1917-client"
 }, {
   "version" : "inf-20100625-0922-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100625-0922-client"
 }, {
   "version" : "inf-20100624-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100624-client"
 }, {
   "version" : "inf-20100618-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100618-client"
 }, {
   "version" : "inf-20100617-1531-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100617-1531-client"
 }, {
   "version" : "inf-20100617-1205-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100617-1205-client"
 }, {
   "version" : "inf-20100616-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100616-client"
 }, {
   "version" : "inf-20100615-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100615-client"
 }, {
   "version" : "inf-20100611-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100611-client"
 }, {
   "version" : "inf-20100608-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100608-client"
 }, {
   "version" : "inf-20100607-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100607-client"
 }, {
   "version" : "inf-20100420-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100420-client"
 }, {
   "version" : "inf-20100415-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100415-client"
 }, {
   "version" : "inf-20100414-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100414-client"
 }, {
   "version" : "inf-20100413-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100413-client"
 }, {
   "version" : "inf-20100330-1611-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100330-1611-client"
 }, {
   "version" : "inf-20100327-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100327-client"
 }, {
   "version" : "inf-20100325-1640-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100325-1640-client"
 }, {
   "version" : "inf-20100321-1857-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100321-1857-client"
 }, {
   "version" : "inf-20100320-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100320-client"
 }, {
   "version" : "inf-20100316-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100316-client"
 }, {
   "version" : "inf-20100313-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100313-client"
 }, {
   "version" : "inf-20100227-1433-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:inf-20100227-1433-client"
 }, {
   "version" : "in-20100223-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100223-client"
 }, {
   "version" : "in-20100219-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100219-client"
 }, {
   "version" : "in-20100218-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100218-client"
 }, {
   "version" : "in-20100214-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100214-client"
 }, {
   "version" : "in-20100213-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100213-client"
 }, {
   "version" : "in-20100212-1622-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100212-1622-client"
 }, {
   "version" : "in-20100212-1210-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100212-1210-client"
 }, {
   "version" : "in-20100207-1703-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100207-1703-client"
 }, {
   "version" : "in-20100207-1101-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100207-1101-client"
 }, {
   "version" : "in-20100206-2103-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100206-2103-client"
 }, {
   "version" : "in-20100202-2330-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100202-2330-client"
 }, {
   "version" : "in-20100201-2227-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100201-2227-client"
 }, {
   "version" : "in-20100201-0025-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100201-0025-client"
 }, {
   "version" : "in-20100131-2244-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100131-2244-client"
 }, {
   "version" : "in-20100130-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100130-client"
 }, {
   "version" : "in-20100129-1452-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100129-1452-client"
 }, {
   "version" : "in-20100128-2304-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100128-2304-client"
 }, {
   "version" : "in-20100125-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100125-client"
 }, {
   "version" : "in-20100124-2310-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100124-2310-client"
 }, {
   "version" : "in-20100110-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100110-client"
 }, {
   "version" : "in-20100105-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20100105-client"
 }, {
   "version" : "in-20091231-2257-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20091231-2257-client"
 }, {
   "version" : "in-20091223-1459-client",
-  "stable" : true,
+  "stable" : false,
   "maven" : "net.ornithemc:calamus-intermediary:in-20091223-1459-client"
+}, {
+  "version" : "b1.9-pre6-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre6-server"
+}, {
+  "version" : "b1.9-pre6-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre6-client"
+}, {
+  "version" : "b1.9-pre5-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre5-server"
+}, {
+  "version" : "b1.9-pre5-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre5-client"
+}, {
+  "version" : "b1.9-pre4-201110131440-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre4-201110131440-server"
+}, {
+  "version" : "b1.9-pre4-201110131434-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre4-201110131434-client"
+}, {
+  "version" : "b1.9-pre3-201110061402-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre3-201110061402-client"
+}, {
+  "version" : "b1.9-pre3-201110061350-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre3-201110061350-server"
+}, {
+  "version" : "b1.9-pre2-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre2-server"
+}, {
+  "version" : "b1.9-pre2-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre2-client"
+}, {
+  "version" : "b1.9-pre1-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre1-server"
+}, {
+  "version" : "b1.9-pre1-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.9-pre1-client"
+}, {
+  "version" : "b1.8.1-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.8.1-server"
+}, {
+  "version" : "b1.8.1-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.8.1-client"
+}, {
+  "version" : "b1.8-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.8-server"
+}, {
+  "version" : "b1.8-pre2-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.8-pre2-server"
+}, {
+  "version" : "b1.8-pre2-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.8-pre2-client"
+}, {
+  "version" : "b1.8-pre1-201109091357-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.8-pre1-201109091357-server"
+}, {
+  "version" : "b1.8-pre1-201109091357-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.8-pre1-201109091357-client"
+}, {
+  "version" : "b1.8-pre1-201109081459-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.8-pre1-201109081459-client"
+}, {
+  "version" : "b1.8-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.8-client"
+}, {
+  "version" : "b1.7_01-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.7_01-server"
+}, {
+  "version" : "b1.7_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.7_01-client"
+}, {
+  "version" : "b1.7.3-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.7.3-server"
+}, {
+  "version" : "b1.7.3-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.7.3-client"
+}, {
+  "version" : "b1.7.2-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.7.2-server"
+}, {
+  "version" : "b1.7.2-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.7.2-client"
+}, {
+  "version" : "b1.7-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.7-server"
+}, {
+  "version" : "b1.7-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.7-client"
+}, {
+  "version" : "b1.6.6-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6.6-server"
+}, {
+  "version" : "b1.6.6-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6.6-client"
+}, {
+  "version" : "b1.6.5-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6.5-server"
+}, {
+  "version" : "b1.6.5-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6.5-client"
+}, {
+  "version" : "b1.6.4-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6.4-server"
+}, {
+  "version" : "b1.6.4-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6.4-client"
+}, {
+  "version" : "b1.6.3-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6.3-server"
+}, {
+  "version" : "b1.6.3-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6.3-client"
+}, {
+  "version" : "b1.6.2-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6.2-server"
+}, {
+  "version" : "b1.6.2-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6.2-client"
+}, {
+  "version" : "b1.6.1-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6.1-server"
+}, {
+  "version" : "b1.6.1-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6.1-client"
+}, {
+  "version" : "b1.6-tb3-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6-tb3-server"
+}, {
+  "version" : "b1.6-tb3-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6-tb3-client"
+}, {
+  "version" : "b1.6-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6-server"
+}, {
+  "version" : "b1.6-pre-trailer-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6-pre-trailer-server"
+}, {
+  "version" : "b1.6-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.6-client"
+}, {
+  "version" : "b1.5_02-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.5_02-server"
+}, {
+  "version" : "b1.5_01-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.5_01-server"
+}, {
+  "version" : "b1.5_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.5_01-client"
+}, {
+  "version" : "b1.5-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.5-server"
+}, {
+  "version" : "b1.5-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.5-client"
+}, {
+  "version" : "b1.4_01-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.4_01-server"
+}, {
+  "version" : "b1.4_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.4_01-client"
+}, {
+  "version" : "b1.4-1634-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.4-1634-client"
+}, {
+  "version" : "b1.4-1507-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.4-1507-server"
+}, {
+  "version" : "b1.3_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.3_01-client"
+}, {
+  "version" : "b1.3-1750-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.3-1750-client"
+}, {
+  "version" : "b1.3-1731-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.3-1731-server"
+}, {
+  "version" : "b1.2_02-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.2_02-client"
+}, {
+  "version" : "b1.2_01-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.2_01-server"
+}, {
+  "version" : "b1.2_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.2_01-client"
+}, {
+  "version" : "b1.2-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.2-server"
+}, {
+  "version" : "b1.2-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.2-client"
+}, {
+  "version" : "b1.1_02-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.1_02-server"
+}, {
+  "version" : "b1.1_02-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.1_02-client"
+}, {
+  "version" : "b1.1_01-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.1_01-server"
+}, {
+  "version" : "b1.1_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.1_01-client"
+}, {
+  "version" : "b1.1-1255-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.1-1255-client"
+}, {
+  "version" : "b1.1-1245-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.1-1245-server"
+}, {
+  "version" : "b1.0_01-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.0_01-server"
+}, {
+  "version" : "b1.0_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.0_01-client"
+}, {
+  "version" : "b1.0.2-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.0.2-client"
+}, {
+  "version" : "b1.0-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.0-server"
+}, {
+  "version" : "b1.0-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:b1.0-client"
+}, {
+  "version" : "af-2016",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:af-2016"
+}, {
+  "version" : "af-2015",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:af-2015"
+}, {
+  "version" : "af-2013-red",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:af-2013-red"
+}, {
+  "version" : "af-2013-purple",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:af-2013-purple"
+}, {
+  "version" : "af-2013-purple-old",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:af-2013-purple-old"
+}, {
+  "version" : "af-2013-blue",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:af-2013-blue"
+}, {
+  "version" : "a1.2.6-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.6-client"
+}, {
+  "version" : "a1.2.5-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.5-client"
+}, {
+  "version" : "a1.2.4_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.4_01-client"
+}, {
+  "version" : "a1.2.3_05-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.3_05-client"
+}, {
+  "version" : "a1.2.3_04-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.3_04-client"
+}, {
+  "version" : "a1.2.3_02-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.3_02-client"
+}, {
+  "version" : "a1.2.3_01-0958-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.3_01-0958-client"
+}, {
+  "version" : "a1.2.3-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.3-client"
+}, {
+  "version" : "a1.2.2-1938-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.2-1938-client"
+}, {
+  "version" : "a1.2.2-1624-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.2-1624-client"
+}, {
+  "version" : "a1.2.1_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.1_01-client"
+}, {
+  "version" : "a1.2.0_02-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.0_02-client"
+}, {
+  "version" : "a1.2.0_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.0_01-client"
+}, {
+  "version" : "a1.2.0-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.2.0-client"
+}, {
+  "version" : "a1.1.2_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.1.2_01-client"
+}, {
+  "version" : "a1.1.2-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.1.2-client"
+}, {
+  "version" : "a1.1.1-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.1.1-client"
+}, {
+  "version" : "a1.1.0-131933-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.1.0-131933-client"
+}, {
+  "version" : "a1.0.9-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.9-client"
+}, {
+  "version" : "a1.0.8_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.8_01-client"
+}, {
+  "version" : "a1.0.7-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.7-client"
+}, {
+  "version" : "a1.0.6_03-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.6_03-client"
+}, {
+  "version" : "a1.0.6_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.6_01-client"
+}, {
+  "version" : "a1.0.6-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.6-client"
+}, {
+  "version" : "a1.0.5_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.5_01-client"
+}, {
+  "version" : "a1.0.5-2149-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.5-2149-client"
+}, {
+  "version" : "a1.0.4-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.4-client"
+}, {
+  "version" : "a1.0.3-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.3-client"
+}, {
+  "version" : "a1.0.2_02-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.2_02-client"
+}, {
+  "version" : "a1.0.2_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.2_01-client"
+}, {
+  "version" : "a1.0.1_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.1_01-client"
+}, {
+  "version" : "a1.0.17_04-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.17_04-client"
+}, {
+  "version" : "a1.0.17_03-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.17_03-client"
+}, {
+  "version" : "a1.0.17_02-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.17_02-client"
+}, {
+  "version" : "a1.0.16_02-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.16_02-client"
+}, {
+  "version" : "a1.0.16_01-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.16_01-client"
+}, {
+  "version" : "a1.0.16-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.16-client"
+}, {
+  "version" : "a1.0.15-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.15-client"
+}, {
+  "version" : "a1.0.14-1659-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.14-1659-client"
+}, {
+  "version" : "a1.0.13_01-1444-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.13_01-1444-client"
+}, {
+  "version" : "a1.0.13-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.13-client"
+}, {
+  "version" : "a1.0.12-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.12-client"
+}, {
+  "version" : "a1.0.11-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.11-client"
+}, {
+  "version" : "a1.0.10-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:a1.0.10-client"
+}, {
+  "version" : "19w14b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w14b"
+}, {
+  "version" : "19w14a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w14a"
+}, {
+  "version" : "19w13b-1653",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w13b-1653"
+}, {
+  "version" : "19w13a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w13a"
+}, {
+  "version" : "19w12b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w12b"
+}, {
+  "version" : "19w12a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w12a"
+}, {
+  "version" : "19w11b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w11b"
+}, {
+  "version" : "19w11a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w11a"
+}, {
+  "version" : "19w09a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w09a"
+}, {
+  "version" : "19w08b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w08b"
+}, {
+  "version" : "19w08a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w08a"
+}, {
+  "version" : "19w07a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w07a"
+}, {
+  "version" : "19w06a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w06a"
+}, {
+  "version" : "19w05a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w05a"
+}, {
+  "version" : "19w04b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w04b"
+}, {
+  "version" : "19w04a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w04a"
+}, {
+  "version" : "19w03c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w03c"
+}, {
+  "version" : "19w03b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w03b"
+}, {
+  "version" : "19w03a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w03a"
+}, {
+  "version" : "19w02a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:19w02a"
+}, {
+  "version" : "18w50a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w50a"
+}, {
+  "version" : "18w49a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w49a"
+}, {
+  "version" : "18w48b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w48b"
+}, {
+  "version" : "18w48a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w48a"
+}, {
+  "version" : "18w47b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w47b"
+}, {
+  "version" : "18w47a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w47a"
+}, {
+  "version" : "18w46a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w46a"
+}, {
+  "version" : "18w45a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w45a"
+}, {
+  "version" : "18w44a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w44a"
+}, {
+  "version" : "18w43c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w43c"
+}, {
+  "version" : "18w43b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w43b"
+}, {
+  "version" : "18w43a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w43a"
+}, {
+  "version" : "18w33a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w33a"
+}, {
+  "version" : "18w32a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w32a"
+}, {
+  "version" : "18w31a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w31a"
+}, {
+  "version" : "18w30b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w30b"
+}, {
+  "version" : "18w30a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w30a"
+}, {
+  "version" : "18w22c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w22c"
+}, {
+  "version" : "18w22b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w22b"
+}, {
+  "version" : "18w22a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w22a"
+}, {
+  "version" : "18w21b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w21b"
+}, {
+  "version" : "18w21a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w21a"
+}, {
+  "version" : "18w20c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w20c"
+}, {
+  "version" : "18w20b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w20b"
+}, {
+  "version" : "18w20a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w20a"
+}, {
+  "version" : "18w19b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w19b"
+}, {
+  "version" : "18w19a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w19a"
+}, {
+  "version" : "18w16a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w16a"
+}, {
+  "version" : "18w15a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w15a"
+}, {
+  "version" : "18w14b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w14b"
+}, {
+  "version" : "18w14a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w14a"
+}, {
+  "version" : "18w11a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w11a"
+}, {
+  "version" : "18w10d",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w10d"
+}, {
+  "version" : "18w10c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w10c"
+}, {
+  "version" : "18w10b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w10b"
+}, {
+  "version" : "18w10a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w10a"
+}, {
+  "version" : "18w09a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w09a"
+}, {
+  "version" : "18w08b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w08b"
+}, {
+  "version" : "18w08a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w08a"
+}, {
+  "version" : "18w07c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w07c"
+}, {
+  "version" : "18w07b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w07b"
+}, {
+  "version" : "18w07a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w07a"
+}, {
+  "version" : "18w06a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w06a"
+}, {
+  "version" : "18w05a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w05a"
+}, {
+  "version" : "18w03b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w03b"
+}, {
+  "version" : "18w03a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w03a"
+}, {
+  "version" : "18w02a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w02a"
+}, {
+  "version" : "18w01a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:18w01a"
+}, {
+  "version" : "17w50a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w50a"
+}, {
+  "version" : "17w49b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w49b"
+}, {
+  "version" : "17w49a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w49a"
+}, {
+  "version" : "17w48a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w48a"
+}, {
+  "version" : "17w47b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w47b"
+}, {
+  "version" : "17w47a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w47a"
+}, {
+  "version" : "17w46a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w46a"
+}, {
+  "version" : "17w45b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w45b"
+}, {
+  "version" : "17w45a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w45a"
+}, {
+  "version" : "17w43b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w43b"
+}, {
+  "version" : "17w43a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w43a"
+}, {
+  "version" : "17w31a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w31a"
+}, {
+  "version" : "17w18b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w18b"
+}, {
+  "version" : "17w18a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w18a"
+}, {
+  "version" : "17w17b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w17b"
+}, {
+  "version" : "17w17a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w17a"
+}, {
+  "version" : "17w16b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w16b"
+}, {
+  "version" : "17w16a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w16a"
+}, {
+  "version" : "17w15a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w15a"
+}, {
+  "version" : "17w14a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w14a"
+}, {
+  "version" : "17w13b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w13b"
+}, {
+  "version" : "17w13a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w13a"
+}, {
+  "version" : "17w06a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:17w06a"
+}, {
+  "version" : "16w50a-1438",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w50a-1438"
+}, {
+  "version" : "16w44a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w44a"
+}, {
+  "version" : "16w43a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w43a"
+}, {
+  "version" : "16w42a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w42a"
+}, {
+  "version" : "16w41a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w41a"
+}, {
+  "version" : "16w40a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w40a"
+}, {
+  "version" : "16w39c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w39c"
+}, {
+  "version" : "16w39b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w39b"
+}, {
+  "version" : "16w39a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w39a"
+}, {
+  "version" : "16w38a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w38a"
+}, {
+  "version" : "16w36a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w36a"
+}, {
+  "version" : "16w35a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w35a"
+}, {
+  "version" : "16w33a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w33a"
+}, {
+  "version" : "16w32b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w32b"
+}, {
+  "version" : "16w32a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w32a"
+}, {
+  "version" : "16w21b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w21b"
+}, {
+  "version" : "16w21a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w21a"
+}, {
+  "version" : "16w20a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w20a"
+}, {
+  "version" : "16w15b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w15b"
+}, {
+  "version" : "16w15a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w15a"
+}, {
+  "version" : "16w14a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w14a"
+}, {
+  "version" : "16w07b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w07b"
+}, {
+  "version" : "16w07a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w07a"
+}, {
+  "version" : "16w06a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w06a"
+}, {
+  "version" : "16w05b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w05b"
+}, {
+  "version" : "16w05a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w05a"
+}, {
+  "version" : "16w04a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w04a"
+}, {
+  "version" : "16w03a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w03a"
+}, {
+  "version" : "16w02a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:16w02a"
+}, {
+  "version" : "15w51b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w51b"
+}, {
+  "version" : "15w51a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w51a"
+}, {
+  "version" : "15w50a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w50a"
+}, {
+  "version" : "15w49b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w49b"
+}, {
+  "version" : "15w49a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w49a"
+}, {
+  "version" : "15w47c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w47c"
+}, {
+  "version" : "15w47b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w47b"
+}, {
+  "version" : "15w47a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w47a"
+}, {
+  "version" : "15w46a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w46a"
+}, {
+  "version" : "15w45a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w45a"
+}, {
+  "version" : "15w44b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w44b"
+}, {
+  "version" : "15w44a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w44a"
+}, {
+  "version" : "15w43c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w43c"
+}, {
+  "version" : "15w43b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w43b"
+}, {
+  "version" : "15w43a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w43a"
+}, {
+  "version" : "15w42a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w42a"
+}, {
+  "version" : "15w41b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w41b"
+}, {
+  "version" : "15w41a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w41a"
+}, {
+  "version" : "15w40b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w40b"
+}, {
+  "version" : "15w40a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w40a"
+}, {
+  "version" : "15w39c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w39c"
+}, {
+  "version" : "15w39b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w39b"
+}, {
+  "version" : "15w39a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w39a"
+}, {
+  "version" : "15w38b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w38b"
+}, {
+  "version" : "15w38a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w38a"
+}, {
+  "version" : "15w37a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w37a"
+}, {
+  "version" : "15w36d",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w36d"
+}, {
+  "version" : "15w36c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w36c"
+}, {
+  "version" : "15w36b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w36b"
+}, {
+  "version" : "15w36a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w36a"
+}, {
+  "version" : "15w35e",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w35e"
+}, {
+  "version" : "15w35d",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w35d"
+}, {
+  "version" : "15w35c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w35c"
+}, {
+  "version" : "15w35b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w35b"
+}, {
+  "version" : "15w35a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w35a"
+}, {
+  "version" : "15w34d",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w34d"
+}, {
+  "version" : "15w34c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w34c"
+}, {
+  "version" : "15w34b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w34b"
+}, {
+  "version" : "15w34a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w34a"
+}, {
+  "version" : "15w33c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w33c"
+}, {
+  "version" : "15w33b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w33b"
+}, {
+  "version" : "15w33a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w33a"
+}, {
+  "version" : "15w32c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w32c"
+}, {
+  "version" : "15w32b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w32b"
+}, {
+  "version" : "15w32a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w32a"
+}, {
+  "version" : "15w31c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w31c"
+}, {
+  "version" : "15w31b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w31b"
+}, {
+  "version" : "15w31a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:15w31a"
+}, {
+  "version" : "14w34d",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w34d"
+}, {
+  "version" : "14w34c-08191549",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w34c-08191549"
+}, {
+  "version" : "14w34b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w34b"
+}, {
+  "version" : "14w34a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w34a"
+}, {
+  "version" : "14w33c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w33c"
+}, {
+  "version" : "14w33b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w33b"
+}, {
+  "version" : "14w33a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w33a"
+}, {
+  "version" : "14w32d",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w32d"
+}, {
+  "version" : "14w32c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w32c"
+}, {
+  "version" : "14w32b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w32b"
+}, {
+  "version" : "14w32a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w32a"
+}, {
+  "version" : "14w31a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w31a"
+}, {
+  "version" : "14w30c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w30c"
+}, {
+  "version" : "14w30b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w30b"
+}, {
+  "version" : "14w30a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w30a"
+}, {
+  "version" : "14w29b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w29b"
+}, {
+  "version" : "14w29a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w29a"
+}, {
+  "version" : "14w28b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w28b"
+}, {
+  "version" : "14w28a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w28a"
+}, {
+  "version" : "14w27b-07021646",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w27b-07021646"
+}, {
+  "version" : "14w27a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w27a"
+}, {
+  "version" : "14w26c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w26c"
+}, {
+  "version" : "14w26b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w26b"
+}, {
+  "version" : "14w26a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w26a"
+}, {
+  "version" : "14w25b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w25b"
+}, {
+  "version" : "14w25a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w25a"
+}, {
+  "version" : "14w21b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w21b"
+}, {
+  "version" : "14w21a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w21a"
+}, {
+  "version" : "14w20b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w20b"
+}, {
+  "version" : "14w20a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w20a"
+}, {
+  "version" : "14w19a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w19a"
+}, {
+  "version" : "14w18b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w18b"
+}, {
+  "version" : "14w18a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w18a"
+}, {
+  "version" : "14w17a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w17a"
+}, {
+  "version" : "14w11b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w11b"
+}, {
+  "version" : "14w11a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w11a"
+}, {
+  "version" : "14w10c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w10c"
+}, {
+  "version" : "14w10b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w10b"
+}, {
+  "version" : "14w10a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w10a"
+}, {
+  "version" : "14w08a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w08a"
+}, {
+  "version" : "14w07a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w07a"
+}, {
+  "version" : "14w06b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w06b"
+}, {
+  "version" : "14w06a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w06a"
+}, {
+  "version" : "14w05b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w05b"
+}, {
+  "version" : "14w05a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w05a"
+}, {
+  "version" : "14w04b-1554",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w04b-1554"
+}, {
+  "version" : "14w03b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w03b"
+}, {
+  "version" : "14w03a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w03a"
+}, {
+  "version" : "14w02c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w02c"
+}, {
+  "version" : "14w02b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w02b"
+}, {
+  "version" : "14w02a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:14w02a"
+}, {
+  "version" : "13w49a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w49a"
+}, {
+  "version" : "13w48b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w48b"
+}, {
+  "version" : "13w48a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w48a"
+}, {
+  "version" : "13w47e",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w47e"
+}, {
+  "version" : "13w47d",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w47d"
+}, {
+  "version" : "13w47c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w47c"
+}, {
+  "version" : "13w47b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w47b"
+}, {
+  "version" : "13w47a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w47a"
+}, {
+  "version" : "13w43a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w43a"
+}, {
+  "version" : "13w42b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w42b"
+}, {
+  "version" : "13w42a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w42a"
+}, {
+  "version" : "13w41b-1523",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w41b-1523"
+}, {
+  "version" : "13w41a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w41a"
+}, {
+  "version" : "13w39b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w39b"
+}, {
+  "version" : "13w39a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w39a"
+}, {
+  "version" : "13w38c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w38c"
+}, {
+  "version" : "13w38b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w38b"
+}, {
+  "version" : "13w38a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w38a"
+}, {
+  "version" : "13w37b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w37b"
+}, {
+  "version" : "13w37a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w37a"
+}, {
+  "version" : "13w36b-09061310",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w36b-09061310"
+}, {
+  "version" : "13w36a-09051446",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w36a-09051446"
+}, {
+  "version" : "13w26a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w26a"
+}, {
+  "version" : "13w25c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w25c"
+}, {
+  "version" : "13w25b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w25b"
+}, {
+  "version" : "13w25a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w25a"
+}, {
+  "version" : "13w24b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w24b"
+}, {
+  "version" : "13w24a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w24a"
+}, {
+  "version" : "13w23b-06080101",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w23b-06080101"
+}, {
+  "version" : "13w23a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w23a"
+}, {
+  "version" : "13w22a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w22a"
+}, {
+  "version" : "13w21b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w21b"
+}, {
+  "version" : "13w21a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w21a"
+}, {
+  "version" : "13w19a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w19a"
+}, {
+  "version" : "13w18c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w18c"
+}, {
+  "version" : "13w18b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w18b"
+}, {
+  "version" : "13w18a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w18a"
+}, {
+  "version" : "13w17a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w17a"
+}, {
+  "version" : "13w16b-04232151",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w16b-04232151"
+}, {
+  "version" : "13w16a-04192037",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w16a-04192037"
+}, {
+  "version" : "13w11a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w11a"
+}, {
+  "version" : "13w10b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w10b"
+}, {
+  "version" : "13w10a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w10a"
+}, {
+  "version" : "13w09c",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w09c"
+}, {
+  "version" : "13w09b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w09b"
+}, {
+  "version" : "13w09a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w09a"
+}, {
+  "version" : "13w07a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w07a"
+}, {
+  "version" : "13w06a-1636",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w06a-1636"
+}, {
+  "version" : "13w05b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w05b"
+}, {
+  "version" : "13w05a-1538",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w05a-1538"
+}, {
+  "version" : "13w04a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w04a"
+}, {
+  "version" : "13w03a-1647",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w03a-1647"
+}, {
+  "version" : "13w02b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w02b"
+}, {
+  "version" : "13w02a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w02a"
+}, {
+  "version" : "13w01b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w01b"
+}, {
+  "version" : "13w01a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:13w01a"
+}, {
+  "version" : "12w50b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w50b"
+}, {
+  "version" : "12w50a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w50a"
+}, {
+  "version" : "12w49a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w49a"
+}, {
+  "version" : "12w42b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w42b"
+}, {
+  "version" : "12w42a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w42a"
+}, {
+  "version" : "12w41b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w41b"
+}, {
+  "version" : "12w41a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w41a"
+}, {
+  "version" : "12w40b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w40b"
+}, {
+  "version" : "12w40a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w40a"
+}, {
+  "version" : "12w39b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w39b"
+}, {
+  "version" : "12w39a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w39a"
+}, {
+  "version" : "12w38b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w38b"
+}, {
+  "version" : "12w38a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w38a"
+}, {
+  "version" : "12w37a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w37a"
+}, {
+  "version" : "12w36a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w36a"
+}, {
+  "version" : "12w34b",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w34b"
+}, {
+  "version" : "12w34a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w34a"
+}, {
+  "version" : "12w32a",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w32a"
+}, {
+  "version" : "12w30e-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w30e-server"
+}, {
+  "version" : "12w30e-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w30e-client"
+}, {
+  "version" : "12w30d-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w30d-server"
+}, {
+  "version" : "12w30d-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w30d-client"
+}, {
+  "version" : "12w30c-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w30c-server"
+}, {
+  "version" : "12w30c-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w30c-client"
+}, {
+  "version" : "12w30b-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w30b-server"
+}, {
+  "version" : "12w30b-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w30b-client"
+}, {
+  "version" : "12w30a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w30a-server"
+}, {
+  "version" : "12w30a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w30a-client"
+}, {
+  "version" : "12w27a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w27a-server"
+}, {
+  "version" : "12w27a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w27a-client"
+}, {
+  "version" : "12w26a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w26a-server"
+}, {
+  "version" : "12w26a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w26a-client"
+}, {
+  "version" : "12w25a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w25a-server"
+}, {
+  "version" : "12w25a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w25a-client"
+}, {
+  "version" : "12w24a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w24a-server"
+}, {
+  "version" : "12w24a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w24a-client"
+}, {
+  "version" : "12w23b-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w23b-server"
+}, {
+  "version" : "12w23b-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w23b-client"
+}, {
+  "version" : "12w23a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w23a-server"
+}, {
+  "version" : "12w23a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w23a-client"
+}, {
+  "version" : "12w22a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w22a-server"
+}, {
+  "version" : "12w22a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w22a-client"
+}, {
+  "version" : "12w21b-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w21b-server"
+}, {
+  "version" : "12w21b-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w21b-client"
+}, {
+  "version" : "12w21a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w21a-server"
+}, {
+  "version" : "12w21a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w21a-client"
+}, {
+  "version" : "12w19a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w19a-server"
+}, {
+  "version" : "12w19a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w19a-client"
+}, {
+  "version" : "12w18a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w18a-server"
+}, {
+  "version" : "12w18a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w18a-client"
+}, {
+  "version" : "12w17a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w17a-server"
+}, {
+  "version" : "12w17a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w17a-client"
+}, {
+  "version" : "12w16a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w16a-server"
+}, {
+  "version" : "12w16a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w16a-client"
+}, {
+  "version" : "12w15a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w15a-server"
+}, {
+  "version" : "12w15a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w15a-client"
+}, {
+  "version" : "12w08a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w08a-server"
+}, {
+  "version" : "12w08a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w08a-client"
+}, {
+  "version" : "12w07b-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w07b-server"
+}, {
+  "version" : "12w07b-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w07b-client"
+}, {
+  "version" : "12w07a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w07a-server"
+}, {
+  "version" : "12w07a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w07a-client"
+}, {
+  "version" : "12w06a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w06a-server"
+}, {
+  "version" : "12w06a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w06a-client"
+}, {
+  "version" : "12w05b-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w05b-server"
+}, {
+  "version" : "12w05b-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w05b-client"
+}, {
+  "version" : "12w05a-1442-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w05a-1442-server"
+}, {
+  "version" : "12w05a-1442-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w05a-1442-client"
+}, {
+  "version" : "12w04a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w04a-server"
+}, {
+  "version" : "12w04a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w04a-client"
+}, {
+  "version" : "12w03a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w03a-server"
+}, {
+  "version" : "12w03a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w03a-client"
+}, {
+  "version" : "12w01a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w01a-server"
+}, {
+  "version" : "12w01a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:12w01a-client"
+}, {
+  "version" : "11w50a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:11w50a-server"
+}, {
+  "version" : "11w50a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:11w50a-client"
+}, {
+  "version" : "11w49a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:11w49a-server"
+}, {
+  "version" : "11w49a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:11w49a-client"
+}, {
+  "version" : "11w48a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:11w48a-server"
+}, {
+  "version" : "11w48a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:11w48a-client"
+}, {
+  "version" : "11w47a-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:11w47a-server"
+}, {
+  "version" : "11w47a-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:11w47a-client"
+}, {
+  "version" : "1.9",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9"
+}, {
+  "version" : "1.9.4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9.4"
+}, {
+  "version" : "1.9.3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9.3"
+}, {
+  "version" : "1.9.3-pre3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9.3-pre3"
+}, {
+  "version" : "1.9.3-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9.3-pre2"
+}, {
+  "version" : "1.9.3-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9.3-pre1"
+}, {
+  "version" : "1.9.2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9.2"
+}, {
+  "version" : "1.9.1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9.1"
+}, {
+  "version" : "1.9.1-pre3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9.1-pre3"
+}, {
+  "version" : "1.9.1-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9.1-pre2"
+}, {
+  "version" : "1.9.1-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9.1-pre1"
+}, {
+  "version" : "1.9-pre4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9-pre4"
+}, {
+  "version" : "1.9-pre3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9-pre3"
+}, {
+  "version" : "1.9-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9-pre2"
+}, {
+  "version" : "1.9-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.9-pre1"
+}, {
+  "version" : "1.8",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8"
+}, {
+  "version" : "1.8.9",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.9"
+}, {
+  "version" : "1.8.8",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.8"
+}, {
+  "version" : "1.8.7",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.7"
+}, {
+  "version" : "1.8.6",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.6"
+}, {
+  "version" : "1.8.5",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.5"
+}, {
+  "version" : "1.8.4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.4"
+}, {
+  "version" : "1.8.3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.3"
+}, {
+  "version" : "1.8.2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.2"
+}, {
+  "version" : "1.8.2-pre7",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre7"
+}, {
+  "version" : "1.8.2-pre6",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre6"
+}, {
+  "version" : "1.8.2-pre5",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre5"
+}, {
+  "version" : "1.8.2-pre4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre4"
+}, {
+  "version" : "1.8.2-pre3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre3"
+}, {
+  "version" : "1.8.2-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre2"
+}, {
+  "version" : "1.8.2-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.2-pre1"
+}, {
+  "version" : "1.8.1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.1"
+}, {
+  "version" : "1.8.1-pre5",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.1-pre5"
+}, {
+  "version" : "1.8.1-pre4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.1-pre4"
+}, {
+  "version" : "1.8.1-pre3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.1-pre3"
+}, {
+  "version" : "1.8.1-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.1-pre2"
+}, {
+  "version" : "1.8.1-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8.1-pre1"
+}, {
+  "version" : "1.8-pre3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8-pre3"
+}, {
+  "version" : "1.8-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8-pre2"
+}, {
+  "version" : "1.8-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.8-pre1"
+}, {
+  "version" : "1.7.9",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.9"
+}, {
+  "version" : "1.7.8",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.8"
+}, {
+  "version" : "1.7.7-101331",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.7-101331"
+}, {
+  "version" : "1.7.6",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.6"
+}, {
+  "version" : "1.7.6-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.6-pre2"
+}, {
+  "version" : "1.7.6-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.6-pre1"
+}, {
+  "version" : "1.7.5",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.5"
+}, {
+  "version" : "1.7.4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.4"
+}, {
+  "version" : "1.7.3-pre",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.3-pre"
+}, {
+  "version" : "1.7.2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.2"
+}, {
+  "version" : "1.7.10",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.10"
+}, {
+  "version" : "1.7.10-pre4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.10-pre4"
+}, {
+  "version" : "1.7.10-pre3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.10-pre3"
+}, {
+  "version" : "1.7.10-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.10-pre2"
+}, {
+  "version" : "1.7.10-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.10-pre1"
+}, {
+  "version" : "1.7.1-pre",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7.1-pre"
+}, {
+  "version" : "1.7-pre",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.7-pre"
+}, {
+  "version" : "1.6.4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.6.4"
+}, {
+  "version" : "1.6.3-pre-171231",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.6.3-pre-171231"
+}, {
+  "version" : "1.6.2-091847",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.6.2-091847"
+}, {
+  "version" : "1.6.1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.6.1"
+}, {
+  "version" : "1.6-pre-06251516",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.6-pre-06251516"
+}, {
+  "version" : "1.5",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.5"
+}, {
+  "version" : "1.5.2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.5.2"
+}, {
+  "version" : "1.5.1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.5.1"
+}, {
+  "version" : "1.4.7",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.4.7"
+}, {
+  "version" : "1.4.6",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.4.6"
+}, {
+  "version" : "1.4.5",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.4.5"
+}, {
+  "version" : "1.4.4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.4.4"
+}, {
+  "version" : "1.4.3-pre",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.4.3-pre"
+}, {
+  "version" : "1.4.2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.4.2"
+}, {
+  "version" : "1.4.1-pre-10231538",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.4.1-pre-10231538"
+}, {
+  "version" : "1.4-pre",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.4-pre"
+}, {
+  "version" : "1.3.2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.3.2"
+}, {
+  "version" : "1.3.1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.3.1"
+}, {
+  "version" : "1.3-pre-07261249",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.3-pre-07261249"
+}, {
+  "version" : "1.2.5-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.2.5-server"
+}, {
+  "version" : "1.2.5-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.2.5-client"
+}, {
+  "version" : "1.2.4-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.2.4-server"
+}, {
+  "version" : "1.2.4-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.2.4-client"
+}, {
+  "version" : "1.2.3-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.2.3-server"
+}, {
+  "version" : "1.2.3-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.2.3-client"
+}, {
+  "version" : "1.2.2-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.2.2-server"
+}, {
+  "version" : "1.2.2-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.2.2-client"
+}, {
+  "version" : "1.2.1-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.2.1-server"
+}, {
+  "version" : "1.2.1-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.2.1-client"
+}, {
+  "version" : "1.2-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.2-server"
+}, {
+  "version" : "1.2-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.2-client"
+}, {
+  "version" : "1.14",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14"
+}, {
+  "version" : "1.14.4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.4"
+}, {
+  "version" : "1.14.4-pre7",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre7"
+}, {
+  "version" : "1.14.4-pre6",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre6"
+}, {
+  "version" : "1.14.4-pre5",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre5"
+}, {
+  "version" : "1.14.4-pre4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre4"
+}, {
+  "version" : "1.14.4-pre3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre3"
+}, {
+  "version" : "1.14.4-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre2"
+}, {
+  "version" : "1.14.4-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.4-pre1"
+}, {
+  "version" : "1.14.3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.3"
+}, {
+  "version" : "1.14.3-pre4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.3-pre4"
+}, {
+  "version" : "1.14.3-pre3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.3-pre3"
+}, {
+  "version" : "1.14.3-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.3-pre2"
+}, {
+  "version" : "1.14.3-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.3-pre1"
+}, {
+  "version" : "1.14.2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.2"
+}, {
+  "version" : "1.14.2-pre4-270720",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.2-pre4-270720"
+}, {
+  "version" : "1.14.2-pre3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.2-pre3"
+}, {
+  "version" : "1.14.2-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.2-pre2"
+}, {
+  "version" : "1.14.2-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.2-pre1"
+}, {
+  "version" : "1.14.1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.1"
+}, {
+  "version" : "1.14.1-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.1-pre2"
+}, {
+  "version" : "1.14.1-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14.1-pre1"
+}, {
+  "version" : "1.14-pre5",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14-pre5"
+}, {
+  "version" : "1.14-pre4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14-pre4"
+}, {
+  "version" : "1.14-pre3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14-pre3"
+}, {
+  "version" : "1.14-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14-pre2"
+}, {
+  "version" : "1.14-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.14-pre1"
+}, {
+  "version" : "1.13",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13"
+}, {
+  "version" : "1.13.2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13.2"
+}, {
+  "version" : "1.13.2-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13.2-pre2"
+}, {
+  "version" : "1.13.2-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13.2-pre1"
+}, {
+  "version" : "1.13.1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13.1"
+}, {
+  "version" : "1.13.1-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13.1-pre2"
+}, {
+  "version" : "1.13.1-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13.1-pre1"
+}, {
+  "version" : "1.13-pre9",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre9"
+}, {
+  "version" : "1.13-pre8",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre8"
+}, {
+  "version" : "1.13-pre7",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre7"
+}, {
+  "version" : "1.13-pre6",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre6"
+}, {
+  "version" : "1.13-pre5",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre5"
+}, {
+  "version" : "1.13-pre4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre4"
+}, {
+  "version" : "1.13-pre3",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre3"
+}, {
+  "version" : "1.13-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre2"
+}, {
+  "version" : "1.13-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre1"
+}, {
+  "version" : "1.13-pre10",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.13-pre10"
+}, {
+  "version" : "1.12",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.12"
+}, {
+  "version" : "1.12.2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.12.2"
+}, {
+  "version" : "1.12.2-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.12.2-pre2"
+}, {
+  "version" : "1.12.2-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.12.2-pre1"
+}, {
+  "version" : "1.12.1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.12.1"
+}, {
+  "version" : "1.12.1-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.12.1-pre1"
+}, {
+  "version" : "1.12-pre7",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre7"
+}, {
+  "version" : "1.12-pre6",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre6"
+}, {
+  "version" : "1.12-pre5",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre5"
+}, {
+  "version" : "1.12-pre4",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre4"
+}, {
+  "version" : "1.12-pre3-1409",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre3-1409"
+}, {
+  "version" : "1.12-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre2"
+}, {
+  "version" : "1.12-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.12-pre1"
+}, {
+  "version" : "1.11",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.11"
+}, {
+  "version" : "1.11.2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.11.2"
+}, {
+  "version" : "1.11.1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.11.1"
+}, {
+  "version" : "1.11-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.11-pre1"
+}, {
+  "version" : "1.10",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.10"
+}, {
+  "version" : "1.10.2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.10.2"
+}, {
+  "version" : "1.10.1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.10.1"
+}, {
+  "version" : "1.10-pre2",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.10-pre2"
+}, {
+  "version" : "1.10-pre1",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.10-pre1"
+}, {
+  "version" : "1.1-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.1-server"
+}, {
+  "version" : "1.1-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.1-client"
+}, {
+  "version" : "1.0.1-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.0.1-server"
+}, {
+  "version" : "1.0.0-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.0.0-server"
+}, {
+  "version" : "1.0.0-rc2-3-server",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.0.0-rc2-3-server"
+}, {
+  "version" : "1.0.0-rc2-3-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.0.0-rc2-3-client"
+}, {
+  "version" : "1.0.0-rc1-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.0.0-rc1-client"
+}, {
+  "version" : "1.0.0-client",
+  "stable" : false,
+  "maven" : "net.ornithemc:calamus-intermediary:1.0.0-client"
 } ]
