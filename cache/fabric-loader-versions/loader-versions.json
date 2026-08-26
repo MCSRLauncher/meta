@@ -1,6 +1,13 @@
 [
   {
     "separator": ".",
+    "build": 4,
+    "maven": "net.fabricmc:fabric-loader:0.19.4",
+    "version": "0.19.4",
+    "stable": false
+  },
+  {
+    "separator": ".",
     "build": 3,
     "maven": "net.fabricmc:fabric-loader:0.19.3",
     "version": "0.19.3",
