@@ -9,12 +9,12 @@
     {
       "uid": "net.adoptium.java",
       "name": "Adoptium Java",
-      "sha256": "219eba1831120ee28e35cfa1d036a70ddf455cf67e2640e2bfde3cc527cab076"
+      "sha256": "02012a76c1ecde3466c0f377d6c8104c8fece07e831dc4014814b6b4af2110b6"
     },
     {
       "uid": "net.fabricmc.fabric-loader",
       "name": "Fabric Loader",
-      "sha256": "50ee6fcf5795c1d862ac10c0d91c1af57425e28861d9fecba1406cceb7c928b0"
+      "sha256": "df00ade11afe4884f01b776e828f2248dcc9699aab201d69e75ee1c81f50f919"
     },
     {
       "uid": "net.fabricmc.intermediary",
