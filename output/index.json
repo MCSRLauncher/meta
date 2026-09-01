@@ -19,12 +19,12 @@
     {
       "uid": "net.fabricmc.intermediary",
       "name": "Fabric Intermediary",
-      "sha256": "27a7bd1efc313a78cd63d68c748fa97a21d52e6e64b25a47e89e4bd3ea95a145"
+      "sha256": "9c53bd0ba33210bebd7ea1a0412c9aa3941936dd3fcc743f0c955038bc9efd2b"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "38a98af881c9eacb9752d1c8d0d610e5dcd1cf98771086b5f5185db6e214d514"
+      "sha256": "ae7834c006b20ad7d3c344f427c4be6f742bf42451a02cfa3867b0707ea05bdc"
     },
     {
       "uid": "net.minecraft.java",
@@ -44,7 +44,7 @@
     {
       "uid": "org.lwjgl3",
       "name": "LWJGL 3",
-      "sha256": "d2913a72668143e50703602cef0a48bd731c20a8c14807c3c5e2294b4e46b50d"
+      "sha256": "8c07d4ee320be56b4265dd8d777310e36ad74a359851b2d8b31f8fb545862cd5"
     },
     {
       "uid": "org.mcsr.maps.practice",
