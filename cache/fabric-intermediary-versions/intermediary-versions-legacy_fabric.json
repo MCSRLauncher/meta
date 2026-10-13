@@ -330,13 +330,13 @@
     "stable": true
   },
   {
-    "maven": "net.legacyfabric:intermediary:1.4.6",
-    "version": "1.4.6",
+    "maven": "net.legacyfabric:intermediary:1.4.5",
+    "version": "1.4.5",
     "stable": true
   },
   {
-    "maven": "net.legacyfabric:intermediary:1.4.5",
-    "version": "1.4.5",
+    "maven": "net.legacyfabric:intermediary:1.4.6",
+    "version": "1.4.6",
     "stable": true
   },
   {
