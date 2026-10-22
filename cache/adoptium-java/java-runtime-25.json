@@ -3,13 +3,13 @@
         "binaries": [
             {
                 "architecture": "aarch64",
-                "download_count": 277,
+                "download_count": 568,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "6405c2b8e66f9405a96d24c56eff28b2db30a04d3e52b5bf4bc527aa8bae47d1",
                     "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.pkg.sha256.txt",
-                    "download_count": 34,
+                    "download_count": 65,
                     "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.pkg.json",
                     "name": "OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.pkg",
@@ -21,7 +21,7 @@
                 "package": {
                     "checksum": "72ebd76b502c849e88dea39afae51baf5f82f2b5b1b6389c28ea707b20451bce",
                     "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.tar.gz.sha256.txt",
-                    "download_count": 243,
+                    "download_count": 503,
                     "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.tar.gz.json",
                     "name": "OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.tar.gz",
@@ -34,7 +34,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 108,
+                "download_count": 743,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -42,7 +42,7 @@
                 "package": {
                     "checksum": "6fac98f0c8202efc3135a9e9e42aa61963ec42d1c5cbb40caf231e7b14a24ef6",
                     "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_linux_hotspot_25.0.5_8.tar.gz.sha256.txt",
-                    "download_count": 108,
+                    "download_count": 743,
                     "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_linux_hotspot_25.0.5_8.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_linux_hotspot_25.0.5_8.tar.gz.json",
                     "name": "OpenJDK25U-jre_x64_linux_hotspot_25.0.5_8.tar.gz",
@@ -55,7 +55,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 0,
+                "download_count": 37,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -63,7 +63,7 @@
                 "package": {
                     "checksum": "b46e981318decb77eda728e006c7678a1ac0c56cf81ae3ad245710c2e4fa1a55",
                     "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_alpine-linux_hotspot_25.0.5_8.tar.gz.sha256.txt",
-                    "download_count": 0,
+                    "download_count": 37,
                     "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_alpine-linux_hotspot_25.0.5_8.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_alpine-linux_hotspot_25.0.5_8.tar.gz.json",
                     "name": "OpenJDK25U-jre_x64_alpine-linux_hotspot_25.0.5_8.tar.gz",
@@ -75,7 +75,7 @@
                 "updated_at": "2026-10-22T13:11:39Z"
             }
         ],
-        "download_count": 5632,
+        "download_count": 23868,
         "id": "RE_kwDONcCImc4ZD8N9.7MRjPYXKV/+abg==",
         "release_link": "https://github.com/adoptium/temurin25-binaries/releases/tag/jdk-25.0.5%2B8",
         "release_name": "jdk-25.0.5+8",
