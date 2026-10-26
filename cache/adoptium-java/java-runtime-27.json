@@ -3,13 +3,13 @@
         "binaries": [
             {
                 "architecture": "aarch64",
-                "download_count": 0,
+                "download_count": 231,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "32d000e2289cfbb4fa3c8cb590a899bf618d6b8213e0ea390ce71b577d6ac358",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.0.2_1.pkg.sha256.txt",
-                    "download_count": 0,
+                    "download_count": 212,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.0.2_1.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.0.2_1.pkg.json",
                     "name": "OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.0.2_1.pkg",
@@ -21,7 +21,7 @@
                 "package": {
                     "checksum": "b86bbab4bd4d8718c9c8da56100d363ea09af374a4aafa9ce30e62bff1b13651",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.0.2_1.tar.gz.sha256.txt",
-                    "download_count": 0,
+                    "download_count": 19,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.0.2_1.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.0.2_1.tar.gz.json",
                     "name": "OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.0.2_1.tar.gz",
@@ -34,7 +34,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 0,
+                "download_count": 243,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -42,7 +42,7 @@
                 "package": {
                     "checksum": "104b5d204314aa33dff4a9a5b925e2c58790e9d8cd7097b678e8e4d8cf86ced0",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_x64_linux_hotspot_27.0.1.0.2_1.tar.gz.sha256.txt",
-                    "download_count": 0,
+                    "download_count": 243,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_x64_linux_hotspot_27.0.1.0.2_1.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_x64_linux_hotspot_27.0.1.0.2_1.tar.gz.json",
                     "name": "OpenJDK27U-jre_x64_linux_hotspot_27.0.1.0.2_1.tar.gz",
@@ -55,7 +55,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 0,
+                "download_count": 31,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -63,7 +63,7 @@
                 "package": {
                     "checksum": "2ed5b164f40cf5f5a04b73054d147f9111e431eff710d9c725a0efb191ff20a6",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_x64_alpine-linux_hotspot_27.0.1.0.2_1.tar.gz.sha256.txt",
-                    "download_count": 0,
+                    "download_count": 31,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_x64_alpine-linux_hotspot_27.0.1.0.2_1.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_x64_alpine-linux_hotspot_27.0.1.0.2_1.tar.gz.json",
                     "name": "OpenJDK27U-jre_x64_alpine-linux_hotspot_27.0.1.0.2_1.tar.gz",
@@ -73,9 +73,30 @@
                 "project": "jdk",
                 "scm_ref": "jdk-27.0.1.0.2+1_adopt",
                 "updated_at": "2026-10-24T11:41:37Z"
+            },
+            {
+                "architecture": "aarch64",
+                "download_count": 3,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "96bd067e2a6904c2c48925b3b66cbcbf33fac7ebadee3409aeba40c5f9494209",
+                    "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27.0.1.0.2_1.tar.gz.sha256.txt",
+                    "download_count": 3,
+                    "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27.0.1.0.2_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27.0.1.0.2_1.tar.gz.json",
+                    "name": "OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27.0.1.0.2_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27.0.1.0.2_1.tar.gz.sig",
+                    "size": 60329830
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-27.0.1.0.2+1_adopt",
+                "updated_at": "2026-10-26T11:40:32Z"
             }
         ],
-        "download_count": 0,
+        "download_count": 18282,
         "id": "RE_kwDOQ0GVfs4ZMcvt./MSnOOx6Kds81w==",
         "release_link": "https://github.com/adoptium/temurin27-binaries/releases/tag/jdk-27.0.1.0.2%2B1",
         "release_name": "jdk-27.0.1.0.2+1",
@@ -86,7 +107,7 @@
             "size": 122496805
         },
         "timestamp": "2026-10-24T11:36:00Z",
-        "updated_at": "2026-10-24T11:41:47Z",
+        "updated_at": "2026-10-26T11:40:47Z",
         "vendor": "eclipse",
         "version_data": {
             "build": 0,
@@ -102,7 +123,7 @@
         "binaries": [
             {
                 "architecture": "aarch64",
-                "download_count": 197,
+                "download_count": 206,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -110,7 +131,7 @@
                 "package": {
                     "checksum": "65177a444f1a8201ef6e557c6f24c1dded80ae2e4dc33987fb31173f6c06cd74",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27_35.tar.gz.sha256.txt",
-                    "download_count": 197,
+                    "download_count": 206,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27_35.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27_35.tar.gz.json",
                     "name": "OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27_35.tar.gz",
@@ -123,7 +144,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 241,
+                "download_count": 255,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -131,7 +152,7 @@
                 "package": {
                     "checksum": "09323dd71131eb7f30a98cd4a6e050fe10135a23ab5e7ad01b0e097e533ce7c3",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_alpine-linux_hotspot_27_35.tar.gz.sha256.txt",
-                    "download_count": 241,
+                    "download_count": 255,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_alpine-linux_hotspot_27_35.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_alpine-linux_hotspot_27_35.tar.gz.json",
                     "name": "OpenJDK27U-jre_x64_alpine-linux_hotspot_27_35.tar.gz",
@@ -144,7 +165,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 3048,
+                "download_count": 3372,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -152,7 +173,7 @@
                 "package": {
                     "checksum": "2cb1b81ab49f516e5aeb28ee8acf3c73d64c77ca432ac959c6511a335342d8e9",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_linux_hotspot_27_35.tar.gz.sha256.txt",
-                    "download_count": 3048,
+                    "download_count": 3372,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_linux_hotspot_27_35.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_linux_hotspot_27_35.tar.gz.json",
                     "name": "OpenJDK27U-jre_x64_linux_hotspot_27_35.tar.gz",
@@ -165,7 +186,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 474,
+                "download_count": 510,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -173,7 +194,7 @@
                 "package": {
                     "checksum": "a41b54098373f1ca8f75ee344db19b93ac39eca6c529c3ee9dc50f4b3e7857de",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_linux_hotspot_27_35.tar.gz.sha256.txt",
-                    "download_count": 474,
+                    "download_count": 510,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_linux_hotspot_27_35.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_linux_hotspot_27_35.tar.gz.json",
                     "name": "OpenJDK27U-jre_aarch64_linux_hotspot_27_35.tar.gz",
@@ -186,13 +207,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 3358,
+                "download_count": 3482,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "fd2fc4b43185a824a98a3ef3c1a9c6b9aedbbbc136038329ef6a8c48414e5f1f",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_mac_hotspot_27_35.pkg.sha256.txt",
-                    "download_count": 3192,
+                    "download_count": 3283,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_mac_hotspot_27_35.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_mac_hotspot_27_35.pkg.json",
                     "name": "OpenJDK27U-jre_aarch64_mac_hotspot_27_35.pkg",
@@ -204,7 +225,7 @@
                 "package": {
                     "checksum": "b7a665a922c072986177a141d313c0dc634609024c523711924c28c0a96fd3e8",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_mac_hotspot_27_35.tar.gz.sha256.txt",
-                    "download_count": 166,
+                    "download_count": 199,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_mac_hotspot_27_35.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_mac_hotspot_27_35.tar.gz.json",
                     "name": "OpenJDK27U-jre_aarch64_mac_hotspot_27_35.tar.gz",
@@ -217,7 +238,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 94,
+                "download_count": 100,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -225,7 +246,7 @@
                 "package": {
                     "checksum": "dd4201a54a89ff365880110bece4b7a7f53a15de62560864c3731bf14dd946d7",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_s390x_linux_hotspot_27_35.tar.gz.sha256.txt",
-                    "download_count": 94,
+                    "download_count": 100,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_s390x_linux_hotspot_27_35.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_s390x_linux_hotspot_27_35.tar.gz.json",
                     "name": "OpenJDK27U-jre_s390x_linux_hotspot_27_35.tar.gz",
@@ -238,7 +259,7 @@
             },
             {
                 "architecture": "riscv64",
-                "download_count": 78,
+                "download_count": 82,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -246,7 +267,7 @@
                 "package": {
                     "checksum": "e3fda3a63acd66f70995b09016734f5f9b61d140f1c08207d2bd4195ef9b7267",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_riscv64_linux_hotspot_27_35.tar.gz.sha256.txt",
-                    "download_count": 78,
+                    "download_count": 82,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_riscv64_linux_hotspot_27_35.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_riscv64_linux_hotspot_27_35.tar.gz.json",
                     "name": "OpenJDK27U-jre_riscv64_linux_hotspot_27_35.tar.gz",
@@ -259,7 +280,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 93,
+                "download_count": 99,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -267,7 +288,7 @@
                 "package": {
                     "checksum": "a8e8e7e09e1b75822ce19982713b259306b82cdb1c6a4b1d1e09bf08ad4b1f3f",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_ppc64le_linux_hotspot_27_35.tar.gz.sha256.txt",
-                    "download_count": 93,
+                    "download_count": 99,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_ppc64le_linux_hotspot_27_35.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_ppc64le_linux_hotspot_27_35.tar.gz.json",
                     "name": "OpenJDK27U-jre_ppc64le_linux_hotspot_27_35.tar.gz",
@@ -280,7 +301,7 @@
             },
             {
                 "architecture": "ppc64",
-                "download_count": 62,
+                "download_count": 67,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -288,7 +309,7 @@
                 "package": {
                     "checksum": "1dc8881b8ef7bd886602f02a8ddb1cefb78d9bebed6b6ecce6be18984bb60f69",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_ppc64_aix_hotspot_27_35.tar.gz.sha256.txt",
-                    "download_count": 62,
+                    "download_count": 67,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_ppc64_aix_hotspot_27_35.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_ppc64_aix_hotspot_27_35.tar.gz.json",
                     "name": "OpenJDK27U-jre_ppc64_aix_hotspot_27_35.tar.gz",
@@ -301,13 +322,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 1989,
+                "download_count": 2222,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "65d0bd6802f06058e8f7b063127f25b3123d5cc406e8fd49208a34a0de563acf",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.msi.sha256.txt",
-                    "download_count": 669,
+                    "download_count": 743,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.msi",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.msi.json",
                     "name": "OpenJDK27U-jre_x64_windows_hotspot_27_35.msi",
@@ -319,7 +340,7 @@
                 "package": {
                     "checksum": "e9cf542d5ffe2a894637b18c27a7802853976deaa3abe3e04dfbb8a307a145dd",
                     "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.zip.sha256.txt",
-                    "download_count": 1320,
+                    "download_count": 1479,
                     "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.zip",
                     "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.zip.json",
                     "name": "OpenJDK27U-jre_x64_windows_hotspot_27_35.zip",
@@ -331,7 +352,7 @@
                 "updated_at": "2026-09-25T14:29:58Z"
             }
         ],
-        "download_count": 442681,
+        "download_count": 486924,
         "id": "RE_kwDOQ0GVfs4XaqDz.nVXxpuU/djDn/Q==",
         "release_link": "https://github.com/adoptium/temurin27-binaries/releases/tag/jdk-27%2B35",
         "release_name": "jdk-27+35",
