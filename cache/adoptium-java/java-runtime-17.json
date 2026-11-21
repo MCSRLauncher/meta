@@ -3,7 +3,7 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 21928,
+                "download_count": 25524,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -11,7 +11,7 @@
                 "package": {
                     "checksum": "5a092a0bc21de4c3d855480edd7945be9cfe157b38cdb84dac280511893bb009",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_linux_hotspot_17.0.21.1_2.tar.gz.sha256.txt",
-                    "download_count": 21928,
+                    "download_count": 25524,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_linux_hotspot_17.0.21.1_2.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_linux_hotspot_17.0.21.1_2.tar.gz.json",
                     "name": "OpenJDK17U-jre_x64_linux_hotspot_17.0.21.1_2.tar.gz",
@@ -24,7 +24,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 687,
+                "download_count": 746,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -32,7 +32,7 @@
                 "package": {
                     "checksum": "99fabb8e2517861fbbf1fc26103ee62240ec693340c4c7a812f7043e82acb203",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.21.1_2.tar.gz.sha256.txt",
-                    "download_count": 687,
+                    "download_count": 746,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.21.1_2.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.21.1_2.tar.gz.json",
                     "name": "OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.21.1_2.tar.gz",
@@ -45,13 +45,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 2118,
+                "download_count": 2509,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "1d4a4c6545e0f869cc283fc440d3c6a3140b53eac0155abd36265df1dd627d6a",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.pkg.sha256.txt",
-                    "download_count": 264,
+                    "download_count": 305,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.pkg.json",
                     "name": "OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.pkg",
@@ -63,7 +63,7 @@
                 "package": {
                     "checksum": "398046289ca1acef2d3800d74c55a31f08b2fee32a17ee7c1c4e4ad7489f8311",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.tar.gz.sha256.txt",
-                    "download_count": 1854,
+                    "download_count": 2204,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.tar.gz.json",
                     "name": "OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.tar.gz",
@@ -76,7 +76,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 31,
+                "download_count": 38,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -84,7 +84,7 @@
                 "package": {
                     "checksum": "77bf9f135bc14491da6abbc7f0da1ca196e18570dfdcb7ff8cfff8822689438f",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_s390x_linux_hotspot_17.0.21.1_2.tar.gz.sha256.txt",
-                    "download_count": 31,
+                    "download_count": 38,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_s390x_linux_hotspot_17.0.21.1_2.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_s390x_linux_hotspot_17.0.21.1_2.tar.gz.json",
                     "name": "OpenJDK17U-jre_s390x_linux_hotspot_17.0.21.1_2.tar.gz",
@@ -97,13 +97,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 237,
+                "download_count": 317,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "247bf73f2cbf3819ee6c32076011e6c020f729e985709b19c4ece7e24bc5cc44",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_mac_hotspot_17.0.21.1_2.pkg.sha256.txt",
-                    "download_count": 127,
+                    "download_count": 174,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_mac_hotspot_17.0.21.1_2.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_mac_hotspot_17.0.21.1_2.pkg.json",
                     "name": "OpenJDK17U-jre_x64_mac_hotspot_17.0.21.1_2.pkg",
@@ -115,7 +115,7 @@
                 "package": {
                     "checksum": "5b92ba9954ca63470e896cb50acd17c94dc95d03208803617d04dc53ea2c845b",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_mac_hotspot_17.0.21.1_2.tar.gz.sha256.txt",
-                    "download_count": 110,
+                    "download_count": 143,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_mac_hotspot_17.0.21.1_2.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_mac_hotspot_17.0.21.1_2.tar.gz.json",
                     "name": "OpenJDK17U-jre_x64_mac_hotspot_17.0.21.1_2.tar.gz",
@@ -128,7 +128,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 26,
+                "download_count": 30,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -136,7 +136,7 @@
                 "package": {
                     "checksum": "4a1705a614ee9a321777eeed02a33e92e36a85694693a7522f461c8dbbbe45cd",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_ppc64le_linux_hotspot_17.0.21.1_2.tar.gz.sha256.txt",
-                    "download_count": 26,
+                    "download_count": 30,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_ppc64le_linux_hotspot_17.0.21.1_2.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_ppc64le_linux_hotspot_17.0.21.1_2.tar.gz.json",
                     "name": "OpenJDK17U-jre_ppc64le_linux_hotspot_17.0.21.1_2.tar.gz",
@@ -149,7 +149,7 @@
             },
             {
                 "architecture": "arm",
-                "download_count": 22,
+                "download_count": 29,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -157,7 +157,7 @@
                 "package": {
                     "checksum": "78bd8ff1537ae562a481b173ad34176f7cb92ed2e44e2f6b229b776b6dbebcd1",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_arm_linux_hotspot_17.0.21.1_2.tar.gz.sha256.txt",
-                    "download_count": 22,
+                    "download_count": 29,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_arm_linux_hotspot_17.0.21.1_2.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_arm_linux_hotspot_17.0.21.1_2.tar.gz.json",
                     "name": "OpenJDK17U-jre_arm_linux_hotspot_17.0.21.1_2.tar.gz",
@@ -170,13 +170,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 3648,
+                "download_count": 9199,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "89a157f3e24fc4ef1e0783460a54d24669e2d779c6dc0f3b12b6ea1c7662dc9c",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_windows_hotspot_17.0.21.1_2.msi.sha256.txt",
-                    "download_count": 944,
+                    "download_count": 4511,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_windows_hotspot_17.0.21.1_2.msi",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_windows_hotspot_17.0.21.1_2.msi.json",
                     "name": "OpenJDK17U-jre_x64_windows_hotspot_17.0.21.1_2.msi",
@@ -188,7 +188,7 @@
                 "package": {
                     "checksum": "739d8f2fd286dc2736d55cc8c9260980baefd275ad48cda242335bb0f08e0795",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_windows_hotspot_17.0.21.1_2.zip.sha256.txt",
-                    "download_count": 2704,
+                    "download_count": 4688,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_windows_hotspot_17.0.21.1_2.zip",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_windows_hotspot_17.0.21.1_2.zip.json",
                     "name": "OpenJDK17U-jre_x64_windows_hotspot_17.0.21.1_2.zip",
@@ -198,9 +198,30 @@
                 "project": "jdk",
                 "scm_ref": "jdk-17.0.21.1+2_adopt",
                 "updated_at": "2026-11-20T11:02:05Z"
+            },
+            {
+                "architecture": "aarch64",
+                "download_count": 36,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "ed968eb2cde06ba38c3d957956cab7faced9181aaeebed4904f89e2e6efa8d11",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.21.1_2.tar.gz.sha256.txt",
+                    "download_count": 36,
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.21.1_2.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.21.1_2.tar.gz.json",
+                    "name": "OpenJDK17U-jre_aarch64_linux_hotspot_17.0.21.1_2.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.21.1_2.tar.gz.sig",
+                    "size": 46121315
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.21.1+2_adopt",
+                "updated_at": "2026-11-20T21:53:34Z"
             }
         ],
-        "download_count": 224874,
+        "download_count": 276641,
         "id": "RE_kwDOFjpjCs4a2onV.GeUBIpX5aWMkqw==",
         "release_link": "https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.21.1%2B2",
         "release_name": "jdk-17.0.21.1+2",
@@ -216,7 +237,7 @@
             "size": 109918905
         },
         "timestamp": "2026-11-18T20:39:00Z",
-        "updated_at": "2026-11-20T11:02:25Z",
+        "updated_at": "2026-11-20T21:53:35Z",
         "vendor": "eclipse",
         "version_data": {
             "build": 2,
